@@ -1,0 +1,1001 @@
+﻿prenom,nom,age,genre,filiere,annee_etude,bac_serie,mention_bac,boursier,taux_presence,nb_absences,heures_travail_sem,participation_cours,nb_devoirs_rendus,note_partiel_mi,utilisation_biblio,groupe_etude,ressources_ligne,job_etudiant,heures_job_sem,distance_univ,transport,soutien_famille,stress_percu,sante_percue,sport_regulier,espace_travail,note_finale,mention
+Hirche Luca,Dupont,23,M,Droit,L3,Général,0,1,97.4,0,10,3,11,9.05,1,1,0,1,30,19.6,Transport en commun,4,5,8,0,1,10.35,Moyen
+Eva,Essabe mbome oye,21,F,Sciences,L3,Général,2,1,72.0,6,11,3,10,7.04,1,0,1,1,25,71.2,Logement sur place,2,7,4,1,1,6.87,Faible
+Manon,Montanary,23,F,Lettres,M1,Technologique,0,1,67.6,3,14,3,11,18.53,2,1,1,1,20,17.7,Transport en commun,4,8,4,0,1,12.69,Bon
+Manon,Piquer,22,F,Psychologie,M1,Général,2,1,61.5,6,7,2,12,15.98,0,1,1,1,20,38.4,Voiture,1,7,6,1,0,9.18,Moyen
+Ousmane,Essabe mbome oye,23,M,Informatique,M2,Général,1,0,98.6,1,3,1,8,17.32,2,0,0,0,0,7.2,Transport en commun,5,8,8,1,1,12.0,Moyen
+Youssef,Tourret,21,M,Psychologie,L2,Général,2,0,88.9,3,13,0,9,10.42,4,0,1,0,0,9.4,Transport en commun,5,1,6,0,1,11.55,Moyen
+Balla,Attias,21,M,Informatique,L2,Général,3,0,89.7,2,9,2,8,8.94,0,1,1,0,0,42.6,Voiture,3,3,7,0,1,11.51,Moyen
+Delicia,Traye Balezin,20,F,Psychologie,L2,Général,1,0,70.0,3,9,3,12,16.89,1,1,1,0,0,25.5,Voiture,4,4,7,0,1,13.11,Bon
+Safiatou,Tourret,21,F,Mathematiques,L1,Général,3,1,45.9,6,8,0,8,11.12,1,0,1,1,16,71.7,Logement sur place,4,4,7,1,0,6.84,Faible
+Mariamari,Tchibozo houessou,21,F,Psychologie,L3,Général,1,0,49.6,5,12,2,9,6.77,2,0,1,1,8,26.8,Voiture,5,4,10,0,1,6.8,Faible
+Cheikh,Sossoumihen,21,M,Droit,L1,Général,2,1,74.9,3,6,2,12,7.03,4,0,0,0,0,10.7,Transport en commun,2,7,8,0,1,8.01,Moyen
+Esther,Adjagbe,25,F,Informatique,M2,Général,2,0,65.6,3,10,3,12,9.57,1,0,1,1,20,13.6,Transport en commun,3,6,9,1,1,10.83,Moyen
+Naela,Tourret,22,F,Gestion,L3,Général,2,0,63.8,4,7,2,6,10.72,0,1,0,0,0,41.5,Voiture,4,5,7,1,1,9.03,Moyen
+Kouaho,Chan,22,M,Droit,L3,Technologique,4,0,79.5,2,8,1,11,11.11,1,1,0,1,25,14.4,Transport en commun,4,5,9,0,1,9.34,Moyen
+Georges,Bensmaine,20,M,Gestion,L2,Général,1,1,90.2,2,13,1,11,10.1,0,0,0,1,16,5.3,Transport en commun,3,5,7,1,1,12.82,Bon
+Koussaila,Lakhal,21,M,Psychologie,L1,Général,2,0,62.8,5,14,1,6,19.69,2,0,1,0,0,10.3,Transport en commun,4,5,3,1,1,13.32,Bon
+Abdoul,Osmas,21,M,Lettres,L1,Technologique,2,0,53.1,5,9,4,9,5.66,0,0,1,0,0,13.1,Transport en commun,0,9,10,1,1,5.29,Faible
+Mouniratou,Moenza,20,F,Gestion,L2,Général,4,1,63.2,4,16,2,7,13.36,1,1,0,1,12,1.8,Vélo/Marche,4,2,7,0,1,13.54,Bon
+Francis,Paire,19,M,Mathematiques,L1,Général,1,1,57.3,7,6,3,3,8.99,2,1,0,1,25,24.5,Voiture,2,8,8,1,1,3.41,Faible
+Francis,Aguigah,21,M,Mathematiques,L3,Technologique,3,0,83.5,3,3,3,9,10.65,1,0,0,1,12,2.1,Vélo/Marche,2,10,5,1,1,7.9,Faible
+Hadja,Moenza,23,F,Psychologie,M1,Général,2,0,73.9,3,4,5,8,14.37,2,0,1,0,0,9.3,Transport en commun,3,8,10,1,0,12.42,Bon
+Yassine,Motondo masengi,22,M,Gestion,M1,Technologique,1,0,100.0,1,6,2,6,4.03,0,1,1,0,0,29.4,Voiture,3,3,5,1,1,6.83,Faible
+Malik-Adjhacy,Gbizie,21,M,Lettres,L3,Technologique,2,1,85.8,2,4,1,9,7.21,4,0,1,1,8,11.3,Transport en commun,3,4,6,1,1,7.58,Faible
+Youssouf,Piquer,21,M,Gestion,L1,Général,1,0,100.0,2,21,0,4,10.29,1,0,1,0,0,33.2,Voiture,3,8,4,1,1,6.82,Faible
+Lyes,Chan,22,M,Lettres,M1,Général,2,0,51.5,5,3,2,9,16.41,4,0,1,1,30,7.5,Transport en commun,2,5,7,1,0,8.62,Moyen
+Vavo,Yassir,24,F,Psychologie,M1,Général,3,0,22.0,8,16,3,9,16.39,1,0,0,1,20,56.9,Logement sur place,2,4,6,1,1,9.24,Moyen
+Eric,Keita,21,M,Droit,L1,Général,2,0,77.9,3,11,1,11,15.65,3,0,0,1,25,4.2,Vélo/Marche,4,5,4,0,1,11.04,Moyen
+Rawaa,Zebriquane,22,F,Gestion,L3,Général,2,1,76.0,4,12,2,5,2.47,1,1,0,1,25,0.7,Vélo/Marche,3,3,7,0,1,5.23,Faible
+Grace,Chanwin,19,F,Psychologie,L1,Général,2,0,72.0,5,6,4,12,6.81,2,1,1,0,0,37.1,Voiture,3,5,7,0,1,7.76,Faible
+Jihad,Azerguerras,22,M,Psychologie,M1,Général,0,0,75.5,2,13,3,12,6.97,1,0,1,1,20,25.1,Voiture,3,3,6,1,1,7.18,Faible
+Souha,Crespo,25,F,Lettres,M2,Général,1,0,56.0,5,6,0,7,10.59,2,0,0,1,20,4.8,Vélo/Marche,5,7,4,1,1,4.89,Faible
+Simeon,Tobada,20,M,Droit,L1,Général,2,0,83.0,3,16,0,12,3.76,2,1,0,1,25,75.3,Logement sur place,4,4,7,1,0,6.73,Faible
+Jihad,Comparot,23,M,Mathematiques,M1,Général,1,0,85.8,2,16,0,11,14.97,2,0,1,1,20,12.6,Transport en commun,0,6,5,1,1,10.07,Moyen
+Manal,Zouaoui,21,F,Informatique,L3,Général,1,1,54.8,6,10,5,8,3.22,2,0,0,0,0,54.3,Logement sur place,4,5,8,0,0,2.06,Faible
+Lena,Obambi mbongo ngala,25,F,Psychologie,M2,Technologique,2,1,68.3,3,11,4,7,14.72,0,0,0,1,8,12.7,Transport en commun,5,6,6,0,1,12.37,Bon
+Bintou,Ghedhoui,20,F,Gestion,L2,Général,1,1,69.3,3,13,4,8,14.11,1,1,1,0,0,11.5,Transport en commun,3,7,8,1,1,11.46,Moyen
+Mikael,Monasse,22,M,Psychologie,M1,Général,1,1,63.3,6,13,4,12,6.64,2,0,1,0,0,10.7,Transport en commun,5,6,7,1,1,5.84,Faible
+Mbayame,Khalil,19,M,Droit,L1,Professionnel,2,1,55.4,5,16,3,12,15.6,0,0,1,1,20,7.3,Transport en commun,3,4,7,0,0,13.95,Bon
+Delicia,Adam,20,F,Informatique,L2,Général,1,0,74.2,3,16,2,8,9.53,1,0,1,0,0,13.7,Transport en commun,3,4,9,0,1,10.17,Moyen
+Georges,Iamundo,21,M,Droit,L1,Général,4,1,78.2,4,11,2,9,8.55,1,0,1,1,20,10.8,Transport en commun,2,10,5,0,0,7.27,Faible
+Louis,Giraud,24,M,Gestion,M2,Général,3,1,64.2,5,9,3,11,9.2,1,1,0,0,0,0.7,Vélo/Marche,4,8,5,0,1,8.55,Moyen
+Louange,Zouaoui,22,F,Lettres,M1,Général,2,1,56.5,5,15,4,11,9.52,2,1,1,0,0,5.4,Transport en commun,2,5,8,0,1,11.78,Moyen
+Harold,Essabe mbome oye,22,M,Sciences,M1,Général,0,0,80.6,3,10,2,7,9.87,2,0,1,0,0,4.3,Vélo/Marche,1,4,4,1,1,7.21,Faible
+Mouniratou,Ahmat,23,F,Droit,M2,Général,3,0,61.7,4,12,3,10,9.96,4,0,1,0,0,36.4,Voiture,0,2,5,0,0,9.66,Moyen
+Brandon,Zebriquane,19,M,Informatique,L1,Général,3,1,69.1,5,14,5,8,7.42,1,1,1,1,20,16.4,Transport en commun,2,8,4,0,1,9.94,Moyen
+Souha,Toubol,21,F,Gestion,L2,Technologique,3,1,67.0,4,16,1,9,8.3,4,0,1,1,12,26.0,Voiture,3,4,9,1,0,9.51,Moyen
+Georges,Khelouat,20,M,Sciences,L1,Général,0,1,93.9,2,12,4,9,8.63,2,1,1,1,8,56.6,Logement sur place,3,8,5,1,1,10.71,Moyen
+Francoise,Fontbonne,20,F,Sciences,L1,Général,2,0,62.5,4,8,1,12,17.16,4,1,0,0,0,18.6,Transport en commun,2,7,6,0,1,11.41,Moyen
+Louange,Mbengue,20,F,Sciences,L1,Technologique,3,0,100.0,0,20,2,8,8.63,3,0,0,1,12,72.9,Logement sur place,5,8,4,1,1,11.85,Moyen
+Omar,Attias,20,M,Informatique,L2,Général,2,0,86.0,3,19,1,9,8.39,2,1,1,1,25,6.7,Transport en commun,2,7,6,0,1,9.61,Moyen
+Christa,Dushime,21,F,Mathematiques,L1,Technologique,2,1,100.0,0,6,3,4,16.56,1,0,1,0,0,3.7,Vélo/Marche,3,5,7,1,1,15.34,Excellent
+Marie,Dengue matsogni,20,F,Gestion,L1,Général,2,0,84.6,3,6,3,10,9.58,1,0,1,1,16,9.3,Transport en commun,1,6,8,1,1,9.48,Moyen
+Lea,Kamrach,20,F,Psychologie,L1,Technologique,2,0,70.5,4,7,2,7,7.42,1,1,1,1,25,11.5,Transport en commun,2,6,4,1,1,6.32,Faible
+Safiatou,Coly,19,F,Mathematiques,L1,Général,0,1,59.3,4,15,4,5,6.59,5,1,1,0,0,40.6,Voiture,0,5,6,0,1,4.7,Faible
+Paola,Senin,23,F,Mathematiques,M2,Technologique,2,0,68.3,4,20,3,12,5.4,5,1,1,1,30,14.8,Transport en commun,3,2,9,1,1,8.56,Moyen
+Evadnee,Giraud,22,F,Droit,M1,Professionnel,0,1,97.8,0,8,3,9,12.86,3,1,1,0,0,6.2,Transport en commun,4,1,9,1,1,14.22,Bon
+Hugo,Jida,23,M,Informatique,M2,Général,2,0,73.2,3,12,1,4,3.94,4,0,0,0,0,24.4,Voiture,2,7,6,0,1,6.05,Faible
+Louis,Ait mahammed,22,M,Droit,L2,Général,1,1,84.6,3,7,4,7,15.92,4,0,1,0,0,12.7,Transport en commun,3,5,7,0,1,13.56,Bon
+Abdoul,Ayachi,21,M,Sciences,L1,Général,2,0,77.3,3,20,1,9,10.45,2,0,1,1,16,3.2,Vélo/Marche,0,8,10,1,1,11.39,Moyen
+Salim,Hounhuedo,23,M,Psychologie,M1,Général,1,1,78.0,3,15,1,9,9.14,2,1,0,0,0,15.5,Transport en commun,4,5,5,1,1,9.91,Moyen
+Kouaho,Toubol,22,M,Mathematiques,L2,Général,2,1,78.6,4,7,1,8,9.93,1,0,1,0,0,43.6,Voiture,4,5,3,0,1,8.88,Moyen
+Jey,Yassir,20,M,Informatique,L1,Général,3,0,81.9,2,0,2,1,12.56,1,0,1,1,30,33.3,Voiture,1,8,6,1,1,7.77,Faible
+Mondesire,Ghedhoui,20,F,Sciences,L1,Général,1,0,61.0,4,16,4,8,9.01,0,1,1,1,25,15.9,Transport en commun,3,9,7,0,1,8.55,Moyen
+Salim,Laclau,21,M,Psychologie,L1,Général,0,0,69.6,4,8,2,12,10.07,1,0,1,1,16,8.5,Transport en commun,5,5,5,0,0,6.87,Faible
+Youssouf,Sakkaki,20,M,Sciences,L1,Général,1,1,78.9,2,15,2,12,14.8,2,0,0,0,0,1.6,Vélo/Marche,3,3,9,1,1,14.36,Bon
+Christa,Barry,20,F,Informatique,L2,Général,3,1,76.6,6,12,4,7,12.12,1,0,1,1,30,11.4,Transport en commun,3,8,7,0,0,11.26,Moyen
+Akoete,Ali,22,M,Psychologie,L3,Général,2,0,66.6,3,2,3,12,6.05,4,0,1,0,0,25.1,Voiture,3,5,6,0,0,4.88,Faible
+Anny,Bertolini,19,F,Psychologie,L1,Général,2,1,80.7,2,7,3,5,8.11,1,0,0,1,30,8.0,Transport en commun,3,4,6,0,1,8.61,Moyen
+Japhet,Bertolini,21,M,Sciences,L1,Général,0,0,61.7,5,9,1,7,4.03,0,0,1,1,30,4.8,Vélo/Marche,5,5,5,1,0,1.67,Faible
+Jessica,El malki,24,F,Psychologie,M1,Général,2,1,54.4,6,8,3,11,13.14,3,0,0,1,20,48.2,Voiture,5,4,8,1,1,11.77,Moyen
+Louange,Cherigui,20,F,Psychologie,L1,Général,3,1,78.7,2,12,1,11,13.54,2,0,1,1,16,31.0,Voiture,4,7,6,1,1,14.3,Bon
+Akoete,Loukou Brou,20,M,Sciences,L2,Général,3,0,54.8,6,13,5,9,7.25,1,0,1,1,25,18.3,Transport en commun,3,3,5,0,1,7.14,Faible
+Augustin,Ayachi,23,M,Informatique,M1,Général,2,0,78.5,2,20,3,6,19.56,2,0,1,1,20,2.6,Vélo/Marche,3,6,9,1,1,16.19,Excellent
+Louise,Gbizie,21,F,Gestion,L1,Technologique,0,0,42.7,7,13,3,6,20.0,1,0,1,0,0,2.8,Vélo/Marche,3,6,6,0,1,8.04,Moyen
+Mouniratou,Mouissi amoussou,20,F,Informatique,L1,Général,0,0,62.4,4,18,1,7,10.89,4,0,1,0,0,2.0,Vélo/Marche,5,4,4,1,0,7.7,Faible
+Jessica,Jida,21,F,Gestion,L2,Général,0,0,68.8,3,9,2,6,7.77,2,0,0,1,25,17.2,Transport en commun,4,9,10,1,1,5.0,Faible
+Ikram,El malki,20,F,Gestion,L2,Technologique,1,0,48.3,8,17,1,9,11.84,0,1,1,0,0,2.2,Vélo/Marche,3,7,8,0,1,9.27,Moyen
+Jey,Redombo-Agnorogoule,23,M,Informatique,L3,Technologique,1,0,68.0,3,9,2,9,7.68,2,1,0,1,16,33.3,Voiture,0,5,7,1,1,6.48,Faible
+Harold,Sall,23,M,Mathematiques,M1,Professionnel,1,0,93.0,3,6,2,6,14.41,4,0,0,1,12,89.2,Logement sur place,3,5,6,0,1,10.54,Moyen
+Yassine,Senin,19,M,Informatique,L1,Général,1,0,53.7,5,6,3,8,11.43,2,0,1,0,0,8.2,Transport en commun,5,7,6,0,1,6.46,Faible
+Syrine,Bertolini,22,F,Psychologie,L3,Général,4,1,68.5,5,0,1,2,11.71,3,1,1,1,12,10.9,Transport en commun,3,6,6,0,1,7.99,Faible
+Louange,Terkmani,20,F,Droit,L2,Technologique,2,0,100.0,0,15,3,10,17.48,1,1,1,1,8,22.4,Voiture,2,9,6,1,1,15.69,Excellent
+Louis,Ovono etoubembe,19,M,Informatique,L1,Général,3,1,57.0,4,5,0,11,8.45,4,1,0,1,16,49.8,Voiture,0,7,6,1,1,6.71,Faible
+Steph,Sossoumihen,22,M,Droit,L3,Général,2,1,96.4,0,18,1,7,8.6,3,0,1,0,0,40.4,Voiture,3,6,7,0,1,13.07,Bon
+Cheikh,Yassir,21,M,Lettres,L1,Technologique,0,0,69.5,5,10,4,7,14.06,3,1,1,1,20,1.1,Vélo/Marche,5,6,6,0,1,9.31,Moyen
+Sabridass,Bertolini,22,M,Mathematiques,L2,Technologique,3,0,75.6,2,3,3,10,9.2,1,1,0,0,0,3.3,Vélo/Marche,5,10,7,0,1,7.81,Faible
+Khady,Jday,19,F,Informatique,L1,Professionnel,1,1,94.7,1,5,2,9,16.89,4,0,1,1,20,25.3,Voiture,5,3,7,0,1,13.24,Bon
+Dourra,Goursolle,22,F,Lettres,L2,Professionnel,2,1,66.2,3,12,0,11,14.6,2,0,0,1,30,21.0,Voiture,4,3,6,1,1,11.86,Moyen
+Manon,Attias,20,F,Psychologie,L2,Technologique,1,0,84.1,2,2,3,7,9.39,4,0,1,0,0,2.6,Vélo/Marche,3,5,7,1,1,6.86,Faible
+Seyed,Chanwin,24,M,Sciences,M1,Général,4,0,88.2,2,14,2,7,3.92,1,0,1,1,25,12.6,Transport en commun,3,9,8,0,1,9.89,Moyen
+Youssouf,Sagnon,20,M,Informatique,L1,Technologique,1,0,63.6,4,3,2,8,5.28,0,0,1,0,0,27.3,Voiture,3,0,3,0,1,3.83,Faible
+Abigail,Lourenco,22,F,Informatique,L2,Général,1,0,61.8,5,7,3,6,8.97,1,1,0,1,20,4.4,Vélo/Marche,4,1,8,1,1,6.1,Faible
+Anny,Lakhal,20,F,Gestion,L2,Général,4,0,70.3,5,12,2,8,12.34,2,0,0,1,30,36.9,Voiture,3,5,5,0,0,8.23,Moyen
+Hadja,Terkmani,21,F,Mathematiques,L3,Technologique,0,0,70.8,4,13,1,6,14.99,2,0,0,0,0,1.0,Vélo/Marche,4,10,6,0,1,8.83,Moyen
+Sophie,Chan,23,F,Mathematiques,L3,Général,2,1,56.7,4,15,4,10,9.97,2,1,0,0,0,27.4,Voiture,1,6,2,1,1,12.06,Bon
+Awa,Jday,22,F,Mathematiques,L3,Général,2,0,63.7,5,4,3,7,7.42,2,0,0,1,16,17.2,Transport en commun,2,3,8,1,1,6.49,Faible
+Louise,Barry,22,F,Psychologie,M1,Général,3,0,18.5,9,9,0,10,10.27,3,0,0,0,0,6.8,Transport en commun,4,7,5,1,1,4.35,Faible
+Kouaho,Ulukuz,22,M,Droit,M1,Technologique,4,0,68.7,5,16,3,12,10.88,0,0,0,0,0,23.0,Voiture,5,9,6,1,0,13.18,Bon
+Mohamed,Fontbonne,20,M,Gestion,L2,Général,4,0,88.3,3,9,1,10,15.76,1,0,1,0,0,27.4,Voiture,3,4,7,0,1,16.12,Excellent
+Mathieu,Senin,20,M,Droit,L2,Technologique,0,0,47.3,7,12,4,9,15.55,4,0,1,0,0,48.9,Voiture,0,6,3,1,0,9.79,Moyen
+Belicia,Lehie-Bi,22,M,Mathematiques,M1,Général,3,0,66.6,5,12,3,6,6.99,2,1,0,1,30,8.3,Transport en commun,5,6,7,0,0,5.85,Faible
+Lea,Dione,24,F,Gestion,M2,Technologique,2,1,100.0,0,18,1,12,12.53,2,0,1,1,20,20.9,Voiture,4,7,8,1,1,16.07,Excellent
+Yowan,Sakkaki,24,M,Mathematiques,M1,Technologique,2,0,73.6,4,9,0,12,7.56,2,1,0,0,0,16.6,Transport en commun,3,4,7,1,1,8.63,Moyen
+Souha,Fontbonne,21,F,Sciences,L2,Général,1,1,95.7,0,4,0,9,7.66,2,0,1,0,0,13.4,Transport en commun,3,7,6,1,1,9.6,Moyen
+Abigail,Zouaoui,20,F,Droit,L1,Général,2,1,57.8,5,6,3,8,14.75,0,1,1,0,0,39.8,Voiture,3,7,7,1,1,10.84,Moyen
+Balla,Chan,20,M,Sciences,L2,Général,4,0,81.2,3,12,3,7,10.04,2,1,0,1,20,0.5,Vélo/Marche,3,7,7,1,0,12.17,Bon
+Nehuan,Aguigah,22,M,Gestion,L3,Professionnel,4,0,55.1,4,3,1,12,13.23,5,1,0,1,25,6.0,Transport en commun,4,2,8,0,1,9.89,Moyen
+Mondesire,Ali,20,F,Sciences,L2,Général,2,0,80.4,2,8,1,11,12.83,2,0,0,1,20,13.9,Transport en commun,2,2,9,1,1,12.46,Bon
+Sabridass,Krim,21,M,Informatique,L2,Professionnel,0,1,87.5,3,11,2,7,10.5,0,1,1,1,20,3.5,Vélo/Marche,1,4,6,1,1,6.85,Faible
+Thomas,Sakkaki,22,M,Droit,M1,Général,1,1,83.7,2,7,1,12,12.07,3,1,1,1,20,42.9,Voiture,0,6,7,1,1,9.84,Moyen
+Kouaho,Richir,20,M,Lettres,L2,Technologique,3,1,68.5,3,13,2,12,11.57,1,1,0,1,25,18.8,Transport en commun,2,7,6,0,1,10.38,Moyen
+Marie Paul,Andriamampianina,23,M,Gestion,M1,Technologique,2,0,78.4,3,15,3,9,6.43,0,0,1,0,0,11.7,Transport en commun,1,3,8,0,1,9.31,Moyen
+Sara,Et touil mendez,21,F,Lettres,L2,Technologique,2,1,78.6,3,13,3,8,12.65,4,0,0,1,12,30.3,Voiture,2,6,8,0,1,12.49,Bon
+Wahiba,Kape amani,22,F,Sciences,L2,Professionnel,0,0,84.7,4,3,5,7,8.12,0,0,0,1,16,10.8,Transport en commun,0,8,6,0,1,4.33,Faible
+Belicia,Sy,22,F,Informatique,L2,Général,2,0,72.0,3,11,5,11,6.74,4,0,0,0,0,14.7,Transport en commun,2,7,8,1,1,10.59,Moyen
+Catherine,Martinez,24,F,Sciences,M1,Général,2,0,88.9,3,12,3,8,14.05,1,1,1,1,12,0.5,Vélo/Marche,2,4,7,0,0,12.32,Bon
+Manal,Yassir,20,F,Mathematiques,L1,Technologique,4,0,97.0,1,9,3,8,8.55,3,1,1,1,25,8.2,Transport en commun,0,5,7,0,1,11.75,Moyen
+Abdoul,Hounhuedo,20,M,Sciences,L1,Technologique,2,1,68.9,3,13,5,9,15.02,2,1,1,1,8,2.7,Vélo/Marche,3,3,5,0,1,16.75,Excellent
+Khady,Osmas,23,F,Psychologie,M2,Général,1,0,74.7,3,12,1,7,14.97,1,0,1,0,0,21.1,Voiture,3,9,7,1,1,10.61,Moyen
+Sophie,Ait mahammed,21,F,Psychologie,L1,Général,2,0,59.5,7,11,0,12,8.99,2,0,0,1,25,11.7,Transport en commun,1,7,6,1,1,5.64,Faible
+Francoise,Jida,21,F,Lettres,L3,Général,0,0,79.4,3,6,0,11,14.86,5,0,1,0,0,6.5,Transport en commun,3,2,8,1,1,10.52,Moyen
+Rama,Tourret,21,F,Lettres,L3,Général,4,1,79.5,3,11,3,9,9.32,3,0,1,1,20,11.4,Transport en commun,5,8,5,0,1,10.58,Moyen
+Koussaila,Makila,20,M,Informatique,L2,Général,1,1,74.9,3,20,3,7,10.54,2,1,1,1,20,4.2,Vélo/Marche,5,7,7,0,1,9.25,Moyen
+Mbayame,Agbagno,21,M,Psychologie,L3,Général,2,0,76.1,2,9,2,7,12.68,5,0,1,1,8,46.6,Voiture,0,8,6,0,1,12.12,Bon
+Thomas,Agbagno,21,M,Mathematiques,L1,Technologique,1,0,100.0,2,16,3,7,18.55,1,1,0,0,0,1.0,Vélo/Marche,4,4,7,0,1,15.76,Excellent
+Olafemi,M'jahad,21,M,Gestion,L3,Général,2,0,27.8,10,11,3,6,14.38,0,0,0,1,20,36.1,Voiture,3,5,7,0,1,4.97,Faible
+Safiatou,Dahouede,21,F,Mathematiques,L2,Général,2,1,66.1,3,7,1,10,10.58,0,1,0,0,0,12.9,Transport en commun,1,4,5,1,1,8.68,Moyen
+Paola,Badaoui,22,F,Informatique,L3,Général,2,1,68.5,3,10,2,7,11.19,3,0,1,1,25,17.4,Transport en commun,2,10,9,0,1,8.42,Moyen
+Hafizou,Mbengue,20,M,Sciences,L1,Général,1,0,97.3,2,11,0,7,4.78,3,0,1,1,20,6.5,Transport en commun,2,4,5,1,0,5.32,Faible
+Magnificath,M'jahad,23,F,Informatique,L3,Technologique,1,1,81.6,4,14,1,7,14.62,2,0,1,0,0,61.2,Logement sur place,3,3,8,1,1,11.8,Moyen
+Railey,Rakotonjanahary,19,M,Sciences,L1,Professionnel,1,0,82.0,4,23,4,12,14.21,4,0,1,0,0,6.0,Transport en commun,4,4,4,0,1,14.48,Bon
+Hugo,El alaoui es sousy,21,M,Mathematiques,L1,Général,2,1,94.2,1,11,4,7,11.88,2,0,0,1,30,16.0,Transport en commun,4,5,6,1,1,12.29,Bon
+Steph,El alaoui es sousy,19,M,Informatique,L1,Technologique,0,0,71.1,7,5,4,12,13.53,1,1,1,0,0,90.4,Logement sur place,2,9,10,1,1,10.14,Moyen
+Nicolas,Rakotonjanahary,21,M,Lettres,L1,Technologique,2,0,84.4,3,3,3,8,3.1,0,0,1,1,12,38.3,Voiture,2,6,6,1,1,4.78,Faible
+Manon,Garcia,24,F,Informatique,M1,Technologique,3,0,65.5,6,9,4,6,6.69,4,0,1,0,0,13.8,Transport en commun,2,8,7,1,1,10.67,Moyen
+Francis,Ouattara,19,M,Mathematiques,L1,Général,3,0,57.1,5,5,3,10,17.65,0,1,1,0,0,83.6,Logement sur place,3,6,10,0,1,14.85,Bon
+Marie,Ganda-Te-Grembombo,25,F,Sciences,M2,Professionnel,2,1,100.0,1,14,3,11,9.82,2,0,1,1,16,21.8,Voiture,5,5,7,1,1,12.87,Bon
+Kenza,Ait mahammed,23,F,Informatique,M2,Général,2,0,79.9,3,14,3,7,13.68,1,0,1,1,30,4.2,Vélo/Marche,4,3,7,0,1,10.37,Moyen
+Lyes,Lakhal,22,M,Psychologie,L3,Général,0,1,84.3,3,10,3,9,7.96,1,1,1,1,16,9.4,Transport en commun,5,9,8,1,1,7.67,Faible
+Carla,Ayachi,20,F,Informatique,L1,Général,2,1,56.7,5,14,2,10,9.12,2,0,1,1,16,7.3,Transport en commun,4,8,4,0,1,8.59,Moyen
+Rama,Khelouat,21,F,Mathematiques,L2,Général,3,0,82.2,3,11,3,9,17.85,1,1,0,1,16,7.6,Transport en commun,3,8,6,0,0,15.46,Excellent
+Mbayame,Schwartz,24,M,Sciences,M1,Général,1,0,100.0,2,20,2,8,10.2,4,1,1,1,30,25.7,Voiture,3,8,7,1,0,8.41,Moyen
+Naela,Sakkaki,21,F,Mathematiques,L2,Général,2,0,69.6,4,14,3,11,12.79,1,1,0,0,0,15.8,Transport en commun,3,4,4,0,1,12.3,Bon
+Abdoul,Ganda-Te-Grembombo,19,M,Informatique,L1,Général,3,1,53.9,8,15,2,8,11.3,2,1,1,0,0,0.7,Vélo/Marche,3,6,9,0,1,9.58,Moyen
+Hugo,Yassir,22,M,Gestion,L3,Technologique,3,0,76.9,3,4,2,7,11.74,3,0,0,0,0,37.8,Voiture,4,8,8,0,0,11.45,Moyen
+Mathieu,Jday,23,M,Mathematiques,M1,Technologique,1,0,57.4,4,5,5,5,11.61,2,0,1,0,0,6.3,Transport en commun,3,8,8,1,1,7.99,Faible
+Wahiba,Yassir,24,F,Psychologie,M1,Général,2,0,49.1,6,13,2,5,3.29,4,1,1,0,0,105.0,Logement sur place,2,6,9,1,1,1.56,Faible
+Lena,Tall,19,F,Mathematiques,L1,Technologique,1,1,62.2,4,3,2,10,12.61,1,0,0,0,0,55.5,Logement sur place,4,10,8,1,1,8.08,Moyen
+Yacine,Fall,23,M,Psychologie,L3,Technologique,0,0,66.1,4,8,1,9,8.76,0,1,0,1,20,50.8,Logement sur place,4,7,6,1,1,2.7,Faible
+Seyed,Pham Huu,21,M,Droit,L1,Technologique,4,0,58.2,5,17,4,11,17.56,0,1,1,0,0,30.0,Voiture,3,8,4,1,1,16.93,Excellent
+Rawaa,Schwartz,19,F,Gestion,L1,Général,3,0,95.2,1,8,3,12,7.86,4,1,1,0,0,4.5,Vélo/Marche,4,6,6,0,0,15.12,Excellent
+Georges,Gbizie,24,M,Droit,M1,Technologique,3,0,100.0,1,5,3,8,9.01,5,0,0,1,16,13.7,Transport en commun,1,5,6,0,0,11.53,Moyen
+Henoc,AdjoAwada,19,M,Gestion,L1,Professionnel,0,1,83.9,3,14,4,11,20.0,1,0,0,0,0,4.6,Vélo/Marche,3,8,8,1,0,14.92,Bon
+Abigail,Kamrach,20,F,Droit,L1,Technologique,3,0,80.1,3,21,2,8,13.55,2,0,1,0,0,5.4,Transport en commun,0,7,7,0,1,12.77,Bon
+Esther,Tchassama,19,F,Informatique,L1,Général,2,1,71.7,4,7,1,9,7.06,0,0,1,0,0,17.0,Transport en commun,0,6,4,0,1,7.56,Faible
+Mohamed,Yassir,22,M,Sciences,M1,Général,1,1,59.7,5,17,1,9,11.47,0,1,0,0,0,0.8,Vélo/Marche,3,4,8,1,1,10.58,Moyen
+Mageda,El alaoui es sousy,22,F,Gestion,M1,Général,2,0,99.6,1,6,3,12,6.16,2,1,1,0,0,62.8,Logement sur place,2,8,9,1,1,9.6,Moyen
+Mariamari,Ovono etoubembe,23,F,Gestion,L3,Général,0,1,73.0,5,10,3,6,11.78,0,1,1,0,0,45.2,Voiture,4,4,9,0,1,8.29,Moyen
+Hirche Luca,Billel koussaila,22,M,Sciences,M1,Général,3,0,66.6,3,11,1,9,7.74,2,0,0,1,20,8.6,Transport en commun,4,7,5,1,1,6.6,Faible
+Delicia,Cihyoka,19,F,Sciences,L1,Général,2,0,90.2,1,7,1,7,17.89,2,0,1,0,0,13.0,Transport en commun,1,3,7,1,1,14.49,Bon
+Belicia,El alaoui es sousy,20,M,Informatique,L2,Technologique,1,1,72.8,3,15,1,8,12.4,3,0,0,0,0,11.3,Transport en commun,4,4,5,1,1,9.76,Moyen
+Manal,Muller,21,F,Informatique,L2,Technologique,1,0,89.6,1,3,3,8,12.8,2,0,0,1,12,38.5,Voiture,3,6,10,1,1,10.37,Moyen
+Louange,Kamrach,19,F,Sciences,L1,Général,1,1,67.4,4,12,0,9,14.41,2,0,0,0,0,21.0,Voiture,1,7,7,0,1,10.26,Moyen
+Audrey,Dengue matsogni,22,F,Sciences,L2,Professionnel,0,0,90.3,2,16,0,12,14.83,2,0,1,0,0,5.9,Transport en commun,4,6,6,1,1,11.74,Moyen
+Olafemi,Belatar,23,M,Droit,M2,Général,2,1,89.7,3,15,2,12,8.18,0,0,1,1,16,10.7,Transport en commun,3,4,6,1,1,11.55,Moyen
+Mouniratou,Dengue matsogni,19,F,Psychologie,L1,Technologique,3,1,95.2,1,13,3,11,11.16,3,0,1,1,12,10.1,Transport en commun,3,8,7,1,0,14.69,Bon
+Beni,Terkmani,20,M,Droit,L1,Technologique,0,0,62.6,4,19,3,7,9.11,0,1,0,1,20,57.6,Logement sur place,5,6,8,1,1,8.55,Moyen
+CédricThomas,Nait mohamed,19,M,Sciences,L1,Technologique,0,0,72.7,4,10,2,9,18.76,0,0,0,0,0,3.5,Vélo/Marche,3,6,4,0,1,12.17,Bon
+Georges,Monasse,21,M,Mathematiques,L1,Professionnel,2,1,100.0,4,3,3,10,2.12,2,1,1,1,12,1.7,Vélo/Marche,5,5,9,1,0,7.15,Faible
+Manon,Badaoui,23,F,Informatique,M2,Général,3,1,70.1,4,12,3,8,8.61,4,0,0,0,0,38.3,Voiture,3,4,8,0,0,9.8,Moyen
+Vavo,Pham Huu,22,F,Psychologie,L2,Technologique,1,0,87.0,1,10,5,8,10.5,0,0,0,0,0,40.9,Voiture,1,8,9,1,1,11.51,Moyen
+Henoc,Sy,21,M,Sciences,L2,Général,1,1,100.0,1,0,1,9,11.32,0,0,1,0,0,37.0,Voiture,3,4,10,1,1,11.91,Moyen
+Syrine,Sahadia,22,F,Informatique,M1,Technologique,2,0,44.4,6,5,3,11,11.24,0,1,1,1,20,12.9,Transport en commun,2,9,7,1,1,8.19,Moyen
+Jey,Sakkaki,20,M,Gestion,L1,Technologique,1,0,69.5,4,5,2,10,10.62,1,0,0,0,0,19.4,Transport en commun,3,4,8,1,1,7.91,Faible
+Abigail,Fontbonne,20,F,Droit,L2,Technologique,0,1,74.0,4,7,1,7,10.18,2,0,1,1,16,14.9,Transport en commun,4,6,6,0,0,5.25,Faible
+Abdou,Dusabe,22,M,Lettres,L2,Général,3,1,45.2,7,9,3,10,11.72,0,1,0,1,12,1.3,Vélo/Marche,3,6,6,0,1,8.8,Moyen
+Rama,Camara,22,F,Gestion,L3,Technologique,2,1,66.7,5,9,2,12,12.55,3,0,1,0,0,16.3,Transport en commun,1,5,10,1,1,11.94,Moyen
+Ismael,Makila,23,M,Gestion,M2,Général,2,1,58.5,4,7,2,5,17.6,3,0,1,1,30,0.5,Vélo/Marche,3,7,5,0,1,9.04,Moyen
+Safiatou,Ali,24,F,Mathematiques,M1,Général,3,0,87.7,1,5,2,8,17.57,2,0,1,0,0,7.1,Transport en commun,1,7,7,0,1,12.67,Bon
+Nicolas,Fall,21,M,Gestion,L2,Technologique,2,1,46.3,6,13,2,8,11.94,2,0,1,0,0,48.5,Voiture,4,7,5,1,1,9.31,Moyen
+Railey,Belatar,22,M,Gestion,M1,Général,1,0,100.0,0,12,2,9,8.92,1,1,1,0,0,6.5,Transport en commun,4,3,6,0,1,11.46,Moyen
+Khamal,Cabrera belmar,20,M,Informatique,L1,Technologique,1,0,85.0,2,12,2,4,9.18,1,1,0,1,20,50.6,Logement sur place,5,3,6,1,1,10.72,Moyen
+Mouniratou,Cihyoka,19,F,Psychologie,L1,Général,1,0,57.1,5,20,3,12,5.81,2,0,0,0,0,5.2,Transport en commun,1,3,9,1,0,4.91,Faible
+Daro,Alabdullah alomar,21,F,Gestion,L1,Général,1,0,90.4,2,12,3,9,14.42,0,0,1,1,30,6.8,Transport en commun,3,5,8,1,1,12.39,Bon
+Cheikh,Jday,22,M,Psychologie,L2,Technologique,2,0,83.6,4,9,1,10,10.63,2,1,1,1,30,17.8,Transport en commun,3,10,8,1,0,7.98,Faible
+Manal,Traye Balezin,21,F,Psychologie,L2,Général,3,0,73.4,4,10,3,9,12.46,1,0,1,1,16,25.8,Voiture,5,5,4,0,1,12.55,Bon
+Lea,Kouleta,22,F,Mathematiques,L3,Général,4,0,62.5,5,11,4,8,12.07,1,1,1,0,0,12.5,Transport en commun,3,10,7,0,1,11.54,Moyen
+Kenza,Koyakosso esso,23,F,Sciences,M2,Technologique,2,0,82.8,4,14,1,11,8.15,1,0,0,0,0,38.5,Voiture,1,5,6,0,1,8.18,Moyen
+Marie,Grosdoy,22,F,Gestion,L2,Général,1,0,76.0,2,11,2,9,7.68,0,1,1,0,0,0.7,Vélo/Marche,3,6,8,1,1,9.85,Moyen
+Kouaho,Kouleta,20,M,Droit,L2,Général,0,0,63.0,7,1,3,4,9.08,4,1,0,1,25,46.0,Voiture,4,7,10,0,1,4.8,Faible
+Akoete,Mbengue,21,M,Mathematiques,L1,Général,3,0,52.5,6,9,3,9,12.65,0,1,0,1,20,3.9,Vélo/Marche,4,5,2,0,1,9.4,Moyen
+Manal,Alabdullah alomar,20,F,Sciences,L1,Technologique,2,1,60.4,7,11,1,8,10.49,4,0,1,1,8,38.8,Voiture,4,6,8,1,1,7.82,Faible
+Catherine,Irakoze,21,F,Sciences,L3,Technologique,2,1,65.9,3,18,2,11,4.09,2,1,1,1,20,9.2,Transport en commun,2,2,10,0,1,10.01,Moyen
+Evadnee,Kouleta,20,F,Mathematiques,L2,Technologique,3,1,92.6,1,7,3,12,6.91,4,1,1,0,0,32.2,Voiture,5,4,6,1,1,13.47,Bon
+Kouaho,Dione,24,M,Informatique,M1,Général,2,0,87.8,3,3,5,10,9.78,2,1,1,1,20,20.0,Voiture,1,2,7,1,1,11.89,Moyen
+Mohamed,Sahadia,21,M,Sciences,L1,Technologique,3,1,66.8,5,11,1,12,10.68,4,0,1,0,0,3.5,Vélo/Marche,5,7,8,1,1,10.29,Moyen
+Blanche,Moudjalou mombo,21,F,Sciences,L1,Technologique,0,0,67.4,3,15,5,7,12.76,1,1,0,0,0,45.0,Voiture,4,3,3,1,1,10.17,Moyen
+Mouniratou,Badaoui,21,F,Mathematiques,L2,Technologique,3,0,89.9,2,9,2,7,10.95,2,0,1,1,12,5.1,Transport en commun,4,9,7,0,1,12.82,Bon
+Marie,Schwartz,19,F,Sciences,L1,Général,3,0,78.3,3,23,1,8,9.42,0,0,0,1,12,5.0,Transport en commun,4,6,5,1,1,12.34,Bon
+Francoise,Wu,21,F,Gestion,L1,Technologique,1,1,78.1,4,22,2,10,9.29,1,1,0,0,0,30.3,Voiture,1,8,10,1,1,9.48,Moyen
+Jessica,Belatar,22,F,Sciences,L3,Technologique,2,0,62.7,4,11,3,7,11.57,2,0,0,0,0,2.0,Vélo/Marche,0,4,6,0,1,9.02,Moyen
+Simeon,Fall,21,M,Informatique,L1,Général,1,0,72.0,4,12,1,5,12.39,2,1,0,0,0,4.5,Vélo/Marche,1,3,6,0,1,9.02,Moyen
+Julfab,Mouissi amoussou,21,M,Droit,L3,Général,4,0,74.1,4,18,2,9,9.55,1,1,1,1,25,12.6,Transport en commun,1,5,8,1,1,11.9,Moyen
+Naela,Tchassama,21,F,Mathematiques,L1,Technologique,0,1,72.5,3,11,4,6,6.7,0,1,1,0,0,31.9,Voiture,3,8,8,0,1,6.05,Faible
+Mouniratou,Toubol,19,F,Gestion,L1,Général,2,1,85.7,2,7,5,12,10.43,2,1,0,1,20,2.9,Vélo/Marche,2,10,8,1,1,12.32,Bon
+Mohamed,Senouci,21,M,Informatique,L2,Professionnel,1,0,86.2,2,15,2,11,8.33,2,0,0,0,0,14.3,Transport en commun,4,7,10,0,1,10.55,Moyen
+Marie Paul,Cabrera belmar,23,M,Informatique,M1,Technologique,2,0,59.3,5,13,1,7,11.89,0,0,0,0,0,22.4,Voiture,3,3,6,0,0,11.81,Moyen
+Rawaa,El abi,22,F,Lettres,L2,Général,1,0,66.0,3,7,4,10,16.43,4,0,1,0,0,35.5,Voiture,4,3,10,1,1,14.79,Bon
+Harold,Aguigah,22,M,Mathematiques,M1,Général,1,1,63.0,6,12,3,8,5.66,5,0,1,0,0,49.4,Voiture,4,2,10,0,0,6.68,Faible
+Hafizou,Aguigah,19,M,Psychologie,L1,Général,2,0,96.2,0,10,1,9,15.17,4,0,1,1,30,27.6,Voiture,2,5,5,1,1,14.46,Bon
+Safiatou,Le page,22,F,Informatique,M1,Professionnel,4,1,100.0,0,9,5,9,12.58,3,1,1,1,20,19.0,Transport en commun,2,5,6,0,0,15.62,Excellent
+Jessica,Lourenco,21,F,Gestion,L1,Général,1,0,66.6,5,7,0,8,14.99,0,0,1,0,0,10.2,Transport en commun,2,5,7,0,0,11.66,Moyen
+Bintou,Alabdullah alomar,21,F,Mathematiques,L3,Technologique,1,1,71.3,4,12,3,11,9.14,5,0,1,0,0,2.1,Vélo/Marche,4,3,6,1,1,9.25,Moyen
+Francis,Gaye,21,M,Informatique,L3,Général,3,0,87.5,3,10,2,6,5.31,1,1,0,1,25,22.3,Voiture,3,3,10,1,1,9.11,Moyen
+Daro,Tall,23,F,Informatique,M2,Général,2,0,62.7,4,12,3,10,11.48,0,0,1,0,0,88.7,Logement sur place,2,6,5,1,1,9.44,Moyen
+Omar,Crespo,20,M,Gestion,L2,Général,4,0,87.8,1,15,1,10,16.12,3,0,0,0,0,24.0,Voiture,4,7,7,1,1,15.88,Excellent
+Francis,Mousali,21,M,Gestion,L1,Général,1,0,73.7,5,12,3,5,6.77,1,0,0,0,0,0.5,Vélo/Marche,1,3,5,1,1,5.87,Faible
+Vavo,Muller,21,F,Gestion,L1,Professionnel,2,0,46.1,5,12,5,7,7.34,2,1,1,1,20,12.3,Transport en commun,4,7,7,1,1,8.91,Moyen
+Dania,Kaba,22,F,Lettres,M1,Général,1,1,53.2,6,8,2,6,13.03,0,1,1,0,0,17.2,Transport en commun,3,8,10,0,1,8.1,Moyen
+Evadnee,Sossoumihen,20,F,Lettres,L2,Général,1,0,68.6,3,17,3,8,8.85,2,1,1,0,0,21.1,Voiture,4,0,10,1,1,8.09,Moyen
+Christa,Moenza,23,F,Informatique,M1,Général,2,1,93.6,2,7,2,9,17.13,2,0,0,1,8,22.9,Voiture,5,9,7,0,1,13.34,Bon
+Syrine,Hounhuedo,20,F,Gestion,L1,Général,2,1,59.7,4,3,4,7,13.28,1,1,1,1,8,14.7,Transport en commun,4,7,8,0,1,8.43,Moyen
+Sabridass,Dushime,20,M,Droit,L2,Général,3,0,65.5,4,6,5,11,8.07,0,1,0,0,0,4.6,Vélo/Marche,3,8,8,0,1,9.01,Moyen
+Mohammadreza,Comparot,19,M,Lettres,L1,Technologique,1,1,77.4,2,16,4,12,8.65,2,0,0,0,0,51.3,Logement sur place,2,3,6,0,0,11.87,Moyen
+Khamal,Richir,24,M,Sciences,M2,Général,2,1,47.3,5,13,3,12,8.8,2,0,0,1,30,21.5,Voiture,4,7,10,1,1,6.02,Faible
+Railey,Goursolle,22,M,Mathematiques,L3,Général,2,0,78.8,4,18,5,2,10.64,1,1,1,0,0,4.9,Vélo/Marche,3,7,9,0,1,9.95,Moyen
+Evadnee,Jday,23,F,Psychologie,M2,Général,4,1,49.3,6,4,1,12,11.96,4,0,1,0,0,7.0,Transport en commun,1,4,7,0,0,7.18,Faible
+Vianney,Monasse,21,M,Psychologie,L1,Professionnel,1,0,83.1,5,23,2,9,11.68,1,1,1,1,20,45.9,Voiture,4,7,6,1,1,11.02,Moyen
+Miryam,Ponnou,23,F,Lettres,L3,Général,1,0,61.1,8,10,3,9,6.53,4,0,0,1,8,39.3,Voiture,2,5,7,0,0,2.34,Faible
+Ikram,Paucarima,21,F,Droit,L3,Général,1,1,58.9,4,2,2,9,14.23,0,1,0,1,20,9.3,Transport en commun,0,4,7,1,1,5.82,Faible
+Christa,Obambi mbongo ngala,20,F,Informatique,L2,Technologique,2,0,78.4,2,22,4,6,9.7,1,0,0,0,0,0.7,Vélo/Marche,5,5,7,0,1,12.06,Bon
+Taisir,Ali,23,F,Informatique,M1,Général,1,0,86.7,1,4,3,10,7.28,0,0,1,1,25,0.9,Vélo/Marche,3,6,9,0,1,7.61,Faible
+Esther,Yassir,24,F,Psychologie,M2,Général,4,0,80.0,5,9,1,12,9.04,1,0,1,0,0,6.0,Transport en commun,2,5,8,0,1,9.68,Moyen
+Francoise,Tchibozo houessou,24,F,Psychologie,M1,Général,1,1,77.3,2,10,2,9,14.65,0,1,1,0,0,17.9,Transport en commun,4,4,5,0,1,12.58,Bon
+Boussad,Laclau,21,M,Informatique,L3,Technologique,3,1,77.5,3,13,2,6,11.52,1,1,1,1,16,15.8,Transport en commun,4,6,5,1,1,11.58,Moyen
+Manon,Adam,20,F,Mathematiques,L1,Général,0,0,80.1,2,7,3,5,11.85,1,1,0,1,20,18.1,Transport en commun,0,7,9,1,1,8.17,Moyen
+Vianney,Paire,21,M,Informatique,L1,Technologique,2,1,81.2,4,16,2,8,6.35,1,1,0,0,0,22.7,Voiture,4,6,5,0,0,7.15,Faible
+Mbayame,AdjoAwada,25,M,Mathematiques,M2,Général,3,1,67.7,6,15,1,7,11.3,2,0,1,0,0,0.5,Vélo/Marche,4,2,6,0,1,13.49,Bon
+Mouniratou,Loukou Brou,21,F,Psychologie,L1,Général,1,0,84.5,2,11,3,11,14.59,5,1,1,0,0,2.0,Vélo/Marche,2,4,6,0,1,11.69,Moyen
+Marie Paul,Tourret,22,M,Lettres,L3,Général,4,0,61.2,5,18,4,12,3.95,1,0,1,1,30,8.0,Transport en commun,3,4,5,1,1,8.38,Moyen
+Tova,Chanwin,22,F,Mathematiques,L3,Général,2,1,91.5,1,11,5,10,9.32,3,0,1,1,12,3.0,Vélo/Marche,1,9,7,0,1,11.46,Moyen
+Ikram,Chanwin,21,F,Gestion,L3,Technologique,4,1,86.5,3,10,5,9,13.17,3,0,1,0,0,1.4,Vélo/Marche,4,6,7,1,1,15.38,Excellent
+Paola,Rakotonjanahary,23,F,Informatique,M2,Général,2,1,100.0,3,21,4,9,11.4,2,0,0,0,0,18.4,Transport en commun,4,5,6,1,0,15.27,Excellent
+Yowan,Andriamampianina,22,M,Mathematiques,L2,Général,1,0,82.2,2,12,1,9,6.93,4,0,0,0,0,30.4,Voiture,1,4,10,0,0,7.01,Faible
+Hugo,Ali,22,M,Sciences,L2,Général,1,0,88.5,1,6,4,6,12.31,5,0,1,0,0,25.1,Voiture,4,5,2,1,1,8.98,Moyen
+Mouniratou,Ayedi,20,F,Droit,L1,Professionnel,1,0,49.0,6,7,2,11,6.36,1,0,1,1,20,30.6,Voiture,4,7,5,1,1,1.91,Faible
+Hugo,Badaoui,21,M,Psychologie,L2,Général,0,0,89.1,3,11,3,6,7.5,2,1,0,1,20,19.7,Transport en commun,2,1,6,1,0,9.43,Moyen
+Miryam,Ulukuz,19,F,Informatique,L1,Professionnel,1,0,92.8,3,0,3,12,7.9,2,0,0,0,0,23.9,Voiture,4,6,4,0,1,6.91,Faible
+Clarissia,Faviere--Prado,20,F,Droit,L2,Général,0,1,98.1,0,8,4,8,16.66,1,0,1,0,0,5.7,Transport en commun,0,4,10,1,0,13.14,Bon
+Jessica,Jday,22,F,Psychologie,M1,Général,2,0,75.9,2,10,2,11,4.46,1,1,1,0,0,89.3,Logement sur place,5,6,10,0,1,10.78,Moyen
+Jihad,Rakotonjanahary,24,M,Psychologie,M2,Général,3,1,68.5,4,10,0,5,4.74,4,0,0,0,0,3.6,Vélo/Marche,3,7,6,0,1,4.54,Faible
+Mohamed,Obambi mbongo ngala,21,M,Gestion,L1,Général,1,0,56.6,6,5,3,11,11.88,3,1,1,0,0,4.3,Vélo/Marche,3,4,9,1,0,8.8,Moyen
+Paola,Ben jeddou,20,F,Gestion,L2,Général,1,1,58.0,4,9,1,12,11.2,0,1,0,0,0,6.1,Transport en commun,4,2,8,1,1,8.16,Moyen
+Yowan,Chanwin,23,M,Mathematiques,M2,Général,2,0,73.6,4,17,5,6,9.01,0,0,1,0,0,66.6,Logement sur place,3,5,10,0,0,9.08,Moyen
+Mohammadreza,Nait mohamed,20,M,Informatique,L1,Professionnel,1,0,46.0,7,16,3,9,10.85,4,0,0,0,0,80.0,Logement sur place,4,8,7,1,1,10.25,Moyen
+Sophie,Pham Huu,19,F,Mathematiques,L1,Technologique,0,0,61.7,7,11,3,10,6.75,0,0,1,1,25,28.5,Voiture,3,7,8,1,1,6.85,Faible
+Lena,Yassir,21,F,Mathematiques,L1,Technologique,1,1,75.4,3,11,4,10,11.15,2,0,1,0,0,17.9,Transport en commun,5,5,9,0,0,12.15,Bon
+Aimee Veronica,Ponnou,22,F,Gestion,L3,Général,4,1,75.1,2,10,3,8,11.6,1,0,0,1,20,13.2,Transport en commun,3,4,9,0,1,13.6,Bon
+Delicia,Chanwin,19,F,Sciences,L1,Général,3,0,58.5,4,12,2,8,15.42,0,0,1,1,20,63.5,Logement sur place,2,4,7,0,1,12.83,Bon
+Akoete,Paucarima,23,M,Gestion,M2,Général,1,0,54.3,6,12,2,10,18.05,0,0,0,1,20,21.4,Voiture,5,3,5,1,1,10.49,Moyen
+Awa,Dagou,21,F,Informatique,L2,Technologique,2,1,56.6,4,13,3,10,9.78,1,1,1,0,0,52.1,Logement sur place,4,7,5,1,1,10.17,Moyen
+Syrine,Attias,21,F,Droit,L2,Professionnel,2,0,70.5,8,14,4,7,5.96,0,0,1,1,25,6.9,Transport en commun,4,8,3,0,0,4.79,Faible
+Hugo,Bamba,19,M,Droit,L1,Général,2,0,100.0,0,5,4,7,12.26,2,1,0,0,0,7.3,Transport en commun,5,5,8,1,1,9.95,Moyen
+Louise,Yassir,22,F,Psychologie,L2,Général,2,0,91.0,3,9,5,12,10.29,2,0,0,1,30,34.7,Voiture,1,4,7,1,1,12.47,Bon
+Magnificath,Terkmani,22,F,Droit,L3,Général,2,1,77.4,3,12,0,9,10.12,1,1,1,1,12,2.9,Vélo/Marche,3,4,7,1,1,10.62,Moyen
+Aimee Veronica,Yassir,24,F,Lettres,M1,Général,1,0,82.9,3,6,2,3,4.68,3,0,0,0,0,52.5,Logement sur place,2,5,7,0,1,2.52,Faible
+Mondesire,Richir,22,F,Droit,M1,Général,0,0,90.3,4,8,1,12,11.17,2,1,1,0,0,12.7,Transport en commun,3,4,5,1,1,8.99,Moyen
+Elodie,Sossoumihen,23,F,Informatique,L3,Général,2,1,84.8,3,10,3,8,12.41,1,0,0,1,25,47.0,Voiture,4,5,7,1,1,12.31,Bon
+Koulbou,Djokpo,23,M,Gestion,M2,Technologique,3,0,69.1,3,10,1,9,14.57,1,1,1,1,16,7.4,Transport en commun,5,7,8,0,1,12.5,Bon
+Jonathan,Moenza,22,M,Mathematiques,M1,Général,2,0,60.5,5,12,1,10,8.88,1,0,1,1,16,22.7,Voiture,3,7,5,0,1,4.8,Faible
+Ikram,Senouci,22,F,Informatique,M1,Général,3,0,72.0,3,7,3,5,7.66,5,0,1,1,25,11.9,Transport en commun,4,4,7,1,1,6.58,Faible
+Dourra,Zouaoui,19,F,Informatique,L1,Professionnel,4,1,90.1,1,16,2,8,8.85,2,0,0,1,16,17.7,Transport en commun,5,6,6,0,1,14.79,Bon
+Eva,Khelouat,21,F,Sciences,L1,Général,1,0,69.7,4,10,3,12,14.35,1,0,0,1,20,12.6,Transport en commun,4,7,6,1,1,10.56,Moyen
+Magnificath,Zebriquane,19,F,Psychologie,L1,Général,2,1,56.3,5,12,2,12,16.07,3,0,0,0,0,61.5,Logement sur place,2,3,5,0,1,13.41,Bon
+Leilath,Krim,21,F,Lettres,L3,Général,2,1,46.4,6,9,2,8,15.06,1,0,0,0,0,21.2,Voiture,3,6,6,0,1,11.63,Moyen
+Syrine,Ben jeddou,22,F,Informatique,L2,Général,4,0,72.1,4,12,2,11,13.26,0,0,1,1,25,5.2,Transport en commun,5,8,10,0,1,12.33,Bon
+Ikram,Lakhal,21,F,Psychologie,L2,Général,4,1,57.6,4,19,4,11,10.68,2,0,1,0,0,43.3,Voiture,5,5,6,0,1,14.23,Bon
+Belicia,Camara,24,F,Sciences,M1,Technologique,2,0,67.0,5,9,2,11,11.27,3,1,1,1,8,6.3,Transport en commun,3,1,6,0,0,7.66,Faible
+Miryam,AdjoAwada,24,F,Gestion,M1,Général,1,0,97.3,1,8,2,6,11.82,1,1,1,0,0,8.4,Transport en commun,4,0,6,1,1,11.25,Moyen
+Khady,Adam,25,F,Sciences,M2,Général,3,0,73.1,7,7,2,12,9.84,4,0,0,1,16,1.9,Vélo/Marche,2,6,6,0,1,9.09,Moyen
+Tova,Camara,20,F,Mathematiques,L2,Technologique,0,0,62.0,6,11,1,8,14.18,1,1,0,0,0,41.4,Voiture,2,6,10,1,1,8.32,Moyen
+Brandon,Boudine-Mervillon,21,M,Mathematiques,L3,Général,3,0,78.9,4,11,4,9,4.52,1,1,1,0,0,6.1,Transport en commun,5,6,9,1,1,10.37,Moyen
+Omar,Ekoga bideng,19,M,Droit,L1,Technologique,4,0,100.0,0,11,1,8,5.22,5,0,1,0,0,5.4,Transport en commun,1,7,7,1,1,11.5,Moyen
+Francois,Loukou Brou,20,M,Mathematiques,L1,Technologique,1,0,72.1,4,13,4,10,4.51,2,0,1,0,0,45.5,Voiture,2,2,6,0,1,8.02,Moyen
+Francoise,Zouaoui,19,F,Gestion,L1,Général,2,1,36.3,6,13,2,7,7.75,3,0,0,1,16,29.5,Voiture,3,4,4,1,1,5.7,Faible
+Beni,Koyakosso esso,21,M,Droit,L2,Technologique,2,0,84.4,3,11,4,8,15.92,3,1,1,1,8,2.7,Vélo/Marche,3,6,5,1,1,14.27,Bon
+Hafizou,Diop desbonnet,20,M,Sciences,L2,Général,2,1,79.5,4,21,4,9,6.28,4,0,0,1,8,26.4,Voiture,3,7,3,0,1,8.46,Moyen
+Coomi,Ben jeddou,24,F,Informatique,M1,Professionnel,1,0,75.4,4,14,3,12,6.42,0,1,1,0,0,44.0,Voiture,2,5,8,1,0,7.5,Faible
+Balla,Makila,19,M,Informatique,L1,Général,3,0,70.5,4,6,3,12,7.66,1,1,1,0,0,1.5,Vélo/Marche,5,2,9,0,1,12.52,Bon
+Ayedi,Adjagbe,22,F,Informatique,L3,Professionnel,4,0,61.1,4,3,2,12,15.01,3,0,0,0,0,31.4,Voiture,5,6,6,0,1,13.45,Bon
+Yacine,Paire,21,M,Sciences,L2,Technologique,4,0,98.2,4,8,3,11,16.25,2,0,1,0,0,14.3,Transport en commun,3,6,7,1,1,15.25,Excellent
+Hugo,Baouya,19,M,Gestion,L1,Général,1,0,44.6,8,12,2,12,14.66,2,1,1,0,0,19.9,Transport en commun,3,3,5,1,1,10.21,Moyen
+Daro,Bensmaine,22,F,Informatique,L2,Général,3,1,69.1,3,7,2,8,14.89,0,0,1,0,0,12.2,Transport en commun,4,1,3,0,0,10.6,Moyen
+Omar,Chan,19,M,Droit,L1,Professionnel,3,1,68.7,5,8,3,9,17.08,1,0,0,1,25,21.5,Voiture,4,7,7,1,1,11.88,Moyen
+Simeon,Dagou,21,M,Lettres,L3,Technologique,1,1,87.7,1,11,2,9,3.97,2,0,0,1,20,0.6,Vélo/Marche,3,4,7,1,1,7.13,Faible
+Louise,Motondo masengi,20,F,Mathematiques,L2,Général,0,0,93.8,1,9,4,9,6.15,1,1,0,1,16,25.9,Voiture,3,6,10,1,1,8.23,Moyen
+Safiatou,Mousali,21,F,Lettres,L1,Technologique,1,1,70.4,6,1,2,5,8.14,1,0,0,1,12,0.6,Vélo/Marche,2,6,10,0,1,4.03,Faible
+Djidou,Bertolini,20,M,Sciences,L1,Général,4,0,77.1,4,16,3,10,11.19,0,1,1,0,0,10.9,Transport en commun,2,3,6,1,1,13.29,Bon
+Rama,Sagnon,22,F,Informatique,L2,Général,2,0,78.4,3,15,5,10,11.18,0,0,1,1,20,2.9,Vélo/Marche,3,6,8,0,1,10.58,Moyen
+Abdoul,Mousali,24,M,Mathematiques,M2,Général,2,1,90.9,1,5,3,8,11.24,3,0,1,0,0,31.2,Voiture,4,4,7,1,1,12.8,Bon
+Nehuan,Sossoumihen,21,M,Psychologie,L2,Général,1,1,90.5,3,11,3,5,13.97,3,1,1,0,0,6.8,Transport en commun,4,2,7,0,0,14.48,Bon
+Miryam,Montanary,22,F,Gestion,L3,Technologique,2,0,65.4,5,5,3,9,3.51,0,1,0,1,30,10.9,Transport en commun,4,2,7,1,1,5.7,Faible
+Vavo,Tourret,23,F,Lettres,L3,Général,0,0,81.0,3,8,4,6,10.27,1,0,1,1,20,10.1,Transport en commun,3,5,7,0,1,7.26,Faible
+Eva,Haddad,23,F,Gestion,M2,Technologique,1,0,80.1,2,13,2,10,11.81,2,0,1,1,16,26.7,Voiture,4,9,7,0,1,11.45,Moyen
+Caroline,Sahadia,22,F,Informatique,M1,Général,2,1,72.1,3,15,3,9,9.56,1,0,1,1,20,11.8,Transport en commun,0,6,10,1,1,8.68,Moyen
+Vavo,Motondo masengi,21,F,Informatique,L3,Général,1,0,80.0,4,15,2,10,11.52,3,1,0,0,0,28.0,Voiture,3,9,7,0,0,11.23,Moyen
+Awa,Aguigah,21,F,Gestion,L3,Général,3,1,74.3,5,12,0,6,14.68,3,0,1,0,0,1.4,Vélo/Marche,4,9,10,0,1,10.61,Moyen
+Mathieu,Adjagbe,22,M,Mathematiques,M1,Général,1,0,76.5,3,17,1,12,11.04,4,1,0,0,0,3.8,Vélo/Marche,3,7,5,1,1,9.93,Moyen
+Caroline,Sangwe,22,F,Informatique,L2,Général,2,0,52.3,5,8,2,9,18.92,2,1,1,1,16,14.4,Transport en commun,3,9,2,1,1,10.81,Moyen
+Georges,Moenza,22,M,Psychologie,L2,Général,2,0,59.3,6,9,3,7,14.41,1,0,0,1,20,52.9,Logement sur place,3,9,6,0,0,8.2,Moyen
+CédricThomas,Gaye,21,M,Droit,L1,Général,2,0,87.1,4,0,4,10,11.81,2,1,1,1,25,1.4,Vélo/Marche,5,8,5,0,1,10.67,Moyen
+Ismael,Montanary,24,M,Psychologie,M1,Général,0,0,54.6,6,11,4,9,12.71,0,1,1,0,0,0.8,Vélo/Marche,3,1,4,1,1,7.77,Faible
+Francois,Manantsoa,24,M,Psychologie,M1,Général,0,1,81.5,2,14,3,12,13.62,0,0,0,0,0,3.1,Vélo/Marche,4,5,9,1,1,11.49,Moyen
+Hadja,Ali,21,F,Mathematiques,L1,Général,3,1,72.7,5,12,0,8,17.2,0,1,1,0,0,18.4,Transport en commun,5,4,4,0,1,14.08,Bon
+Dourra,Yassir,23,F,Droit,L3,Technologique,1,1,90.5,2,8,2,6,15.26,1,1,0,1,20,9.2,Transport en commun,4,8,8,1,1,11.81,Moyen
+Eva,Sagnon,20,F,Informatique,L2,Professionnel,3,1,84.4,3,15,2,10,12.75,1,1,1,0,0,31.4,Voiture,3,5,10,1,0,12.14,Bon
+Stone,Djokpo,20,M,Droit,L1,Général,4,1,66.7,4,11,3,12,8.03,0,1,1,0,0,1.3,Vélo/Marche,0,9,5,0,1,9.08,Moyen
+Francois,Ghedhoui,25,M,Droit,M2,Général,1,0,70.4,7,15,0,12,12.38,2,0,0,0,0,3.9,Vélo/Marche,3,6,6,0,1,6.7,Faible
+Kouaho,Muller,20,M,Sciences,L1,Général,1,1,42.2,6,13,3,12,13.0,5,1,1,1,20,6.4,Transport en commun,3,5,9,0,0,8.19,Moyen
+Jihad,AdjoAwada,21,M,Droit,L1,Professionnel,2,0,71.9,3,18,4,5,13.76,0,1,0,0,0,17.7,Transport en commun,4,5,6,1,0,12.55,Bon
+Dourra,Sy,23,F,Lettres,L3,Général,4,0,53.7,6,13,3,9,8.01,2,0,1,1,12,20.8,Voiture,3,5,7,0,1,9.93,Moyen
+Blanche,Khelouat,21,F,Mathematiques,L3,Général,4,0,70.5,4,14,4,6,13.6,0,0,1,0,0,2.4,Vélo/Marche,5,6,8,0,1,11.23,Moyen
+Taisir,Kuzmenko,20,F,Gestion,L1,Général,2,0,63.8,4,11,3,8,13.84,4,0,0,0,0,51.8,Logement sur place,2,5,7,1,1,11.9,Moyen
+Ramzi,Fall,21,M,Lettres,L3,Général,3,0,60.0,6,8,1,12,6.2,1,1,1,0,0,7.5,Transport en commun,4,4,6,0,0,6.83,Faible
+Hadja,El malki,20,F,Informatique,L2,Général,1,1,93.0,3,13,1,7,6.23,4,1,1,1,20,22.5,Voiture,3,5,5,1,1,6.85,Faible
+Catherine,Attias,20,F,Sciences,L1,Technologique,4,0,53.6,5,19,4,9,15.05,1,0,0,1,20,13.4,Transport en commun,3,10,5,0,0,13.95,Bon
+Syrine,Ayachi,19,F,Droit,L1,Général,4,0,58.6,6,8,3,8,7.55,3,0,1,0,0,4.5,Vélo/Marche,4,10,8,1,1,10.02,Moyen
+Lena,Piquer,23,F,Informatique,L3,Général,1,0,62.8,5,10,3,6,16.64,1,0,0,0,0,33.7,Voiture,2,4,6,0,1,9.73,Moyen
+Mamadou,Piquer,21,M,Psychologie,L1,Général,1,0,66.3,3,11,1,12,9.74,1,0,0,1,25,30.7,Voiture,1,7,9,0,1,6.12,Faible
+Mohammadreza,Barry,25,M,Droit,M2,Général,0,0,60.0,5,14,3,5,12.26,0,1,1,1,20,9.1,Transport en commun,3,4,10,1,1,8.07,Moyen
+Francis,Iamundo,24,M,Droit,M1,Professionnel,1,0,68.3,3,13,0,9,12.08,1,0,1,0,0,16.0,Transport en commun,3,5,5,1,0,8.16,Moyen
+Marie,Tourret,25,F,Droit,M2,Général,3,0,78.8,2,16,1,9,8.09,3,1,1,0,0,5.4,Transport en commun,4,3,8,1,1,10.2,Moyen
+Steph,Gueye,19,M,Lettres,L1,Technologique,1,0,84.7,2,21,2,9,16.08,2,1,0,1,20,21.1,Voiture,5,8,10,1,1,14.36,Bon
+Cheikh,Et touil mendez,23,M,Droit,M2,Général,0,1,83.9,5,8,2,8,9.74,1,1,1,1,16,6.7,Transport en commun,1,7,5,1,1,5.52,Faible
+Salim,Mbengue,22,M,Psychologie,L2,Général,1,1,43.5,7,14,1,12,11.02,5,0,1,1,16,33.5,Voiture,3,7,9,1,1,7.26,Faible
+Balla,Sangwe,22,M,Informatique,L2,Professionnel,4,0,80.1,2,13,1,4,3.27,2,1,1,1,20,4.4,Vélo/Marche,4,7,8,1,1,9.94,Moyen
+Louange,Mousali,19,F,Gestion,L1,Général,2,0,81.1,2,11,3,10,5.72,5,0,0,0,0,0.5,Vélo/Marche,5,4,9,1,1,9.38,Moyen
+Ikram,Redombo-Agnorogoule,20,F,Sciences,L1,Technologique,2,0,63.4,4,14,3,10,15.08,0,1,1,1,30,5.6,Transport en commun,5,5,5,1,1,11.56,Moyen
+Louis,Sangwe,21,M,Mathematiques,L3,Général,1,1,100.0,3,10,3,10,10.78,4,0,1,0,0,3.8,Vélo/Marche,4,6,10,1,1,11.24,Moyen
+Abdoul,Barry,20,M,Sciences,L2,Technologique,4,0,91.4,1,13,2,7,8.57,0,0,1,1,20,12.8,Transport en commun,3,5,6,0,1,11.73,Moyen
+Jessica,Tall,19,F,Sciences,L1,Général,3,0,71.1,5,4,5,12,8.64,2,0,1,1,20,4.1,Vélo/Marche,2,6,8,0,1,8.86,Moyen
+Cheikh,Bergoin,21,M,Informatique,L3,Général,1,1,64.5,4,8,0,12,12.88,1,0,0,0,0,25.9,Voiture,3,4,7,0,1,8.14,Moyen
+Cheikh,Conde,19,M,Lettres,L1,Technologique,0,0,100.0,5,16,1,7,15.59,2,1,0,1,8,5.0,Transport en commun,3,8,8,1,1,9.37,Moyen
+Mamadou,El malki,22,M,Psychologie,L3,Professionnel,0,0,73.7,3,16,3,6,8.67,2,0,1,1,16,22.1,Voiture,4,8,5,1,1,7.88,Faible
+Yassine,M'jahad,22,M,Gestion,L2,Professionnel,1,0,75.4,2,12,1,6,14.96,1,1,1,1,30,15.5,Transport en commun,3,8,5,1,0,8.49,Moyen
+Leilath,Yassir,24,F,Informatique,M1,Technologique,2,1,75.2,2,9,3,10,10.19,5,0,0,0,0,77.2,Logement sur place,4,7,7,0,1,11.95,Moyen
+Hadja,Crespo,23,F,Informatique,M1,Technologique,4,1,100.0,1,15,3,9,12.7,5,1,0,0,0,120.0,Logement sur place,3,3,6,0,1,15.97,Excellent
+Jonathan,Agbagno,22,M,Gestion,L2,Général,2,1,70.5,4,17,5,8,4.05,5,0,1,1,20,36.7,Voiture,4,4,6,1,0,7.22,Faible
+Djidou,Fall,22,M,Droit,L2,Général,3,0,73.6,4,9,4,12,4.71,5,0,1,1,30,25.7,Voiture,1,4,8,1,0,7.07,Faible
+Blanche,Barry,22,F,Mathematiques,L2,Général,2,0,60.7,4,4,5,8,13.92,3,0,1,0,0,8.8,Transport en commun,2,5,4,0,1,10.44,Moyen
+Miryam,Badaoui,23,F,Sciences,M1,Général,2,1,67.8,5,13,1,9,11.84,5,1,1,0,0,25.2,Voiture,2,8,9,1,1,9.02,Moyen
+Lea,Paucarima,21,F,Mathematiques,L2,Général,3,1,57.5,4,16,4,9,12.33,4,1,1,0,0,56.5,Logement sur place,4,2,7,0,1,12.8,Bon
+Vavo,Hachem majdalani,21,F,Mathematiques,L1,Général,1,0,61.0,5,14,1,12,6.7,1,0,0,1,16,0.5,Vélo/Marche,1,4,8,0,1,6.69,Faible
+Railey,Agbagno,21,M,Psychologie,L1,Général,1,1,45.0,6,19,3,4,9.2,3,0,1,1,25,13.9,Transport en commun,4,5,8,1,0,5.17,Faible
+Youssef,Ayachi,22,M,Sciences,L2,Technologique,2,0,88.1,2,19,3,8,4.45,4,0,1,1,25,4.4,Vélo/Marche,2,3,8,1,1,9.88,Moyen
+Hadja,Adjagbe,20,F,Informatique,L2,Général,0,0,76.5,2,9,1,11,7.58,3,1,1,1,16,14.7,Transport en commun,3,6,5,1,0,7.27,Faible
+Cheikh,Jida,22,M,Gestion,M1,Général,1,1,77.8,5,12,3,8,10.71,1,0,1,1,20,11.3,Transport en commun,5,5,9,0,1,10.09,Moyen
+Safiatou,Essabe mbome oye,19,F,Informatique,L1,Général,2,0,73.2,3,9,0,6,12.05,0,1,1,0,0,15.4,Transport en commun,3,8,7,0,1,9.41,Moyen
+Mouniratou,Sangwe,21,F,Gestion,L2,Technologique,4,1,75.1,2,6,2,9,8.09,3,1,1,1,30,14.4,Transport en commun,2,5,6,0,1,7.01,Faible
+Audrey,Pham Huu,24,F,Sciences,M1,Technologique,2,0,99.9,0,6,4,5,12.9,5,1,1,1,30,58.0,Logement sur place,2,7,7,0,1,9.9,Moyen
+Ramzi,Bergoin,23,M,Informatique,M1,Général,3,0,61.7,5,15,1,11,10.65,1,0,1,1,8,14.5,Transport en commun,5,6,7,1,1,9.07,Moyen
+Coomi,Kamrach,21,F,Mathematiques,L2,Général,2,1,78.5,3,13,0,8,9.94,0,0,1,0,0,33.7,Voiture,3,0,7,0,1,9.82,Moyen
+Seyed,Ursini,21,M,Gestion,L2,Général,3,1,78.4,2,15,2,8,11.12,1,1,0,0,0,6.9,Transport en commun,3,2,8,0,1,13.18,Bon
+Mageda,Fontbonne,22,F,Droit,L2,Général,2,0,92.3,2,24,4,12,18.78,2,0,1,0,0,10.4,Transport en commun,3,6,10,0,1,17.74,Excellent
+Lea,Ursini,23,F,Droit,M2,Général,3,0,81.0,3,13,0,6,10.19,1,0,0,1,16,11.4,Transport en commun,3,6,5,1,1,9.08,Moyen
+Mahamat,Dushime,21,M,Informatique,L1,Général,2,1,81.8,3,7,2,5,14.42,2,1,0,0,0,5.9,Transport en commun,2,5,8,1,0,12.04,Bon
+Sandrine,Garcia,25,F,Psychologie,M2,Général,2,0,53.9,6,16,4,7,12.88,5,0,0,1,16,8.6,Transport en commun,4,8,7,1,1,8.62,Moyen
+Jessica,Mouissi amoussou,22,F,Gestion,L3,Général,2,1,61.1,4,7,1,12,9.86,2,0,1,1,20,16.4,Transport en commun,4,7,9,0,1,6.67,Faible
+Julfab,Zebriquane,21,M,Gestion,L2,Professionnel,2,1,55.3,5,20,2,6,4.91,1,0,1,0,0,15.6,Transport en commun,2,9,10,0,1,7.75,Faible
+Abdoul,Moudjalou mombo,20,M,Psychologie,L1,Professionnel,1,0,34.4,11,1,3,10,8.42,4,0,1,1,25,18.2,Transport en commun,4,0,7,0,1,1.98,Faible
+Augustin,Intwari,20,M,Droit,L2,Général,0,0,80.4,5,8,3,11,11.09,2,0,0,1,16,7.8,Transport en commun,4,9,8,0,0,7.6,Faible
+Olafemi,Chan,20,M,Droit,L2,Général,0,0,69.8,4,14,4,7,10.4,0,0,0,1,12,6.8,Transport en commun,5,4,9,0,1,10.28,Moyen
+Beni,Fall,19,M,Lettres,L1,Général,3,1,80.4,3,17,1,7,15.73,2,0,1,0,0,17.0,Transport en commun,2,6,9,0,1,12.7,Bon
+Khady,Ovono etoubembe,23,F,Gestion,L3,Général,1,0,74.6,4,8,4,9,8.01,2,1,0,0,0,2.6,Vélo/Marche,2,8,9,1,1,6.42,Faible
+Kouaho,Martins,24,M,Psychologie,M2,Professionnel,1,0,77.8,2,7,5,10,10.24,3,1,1,1,25,5.3,Transport en commun,4,1,6,1,1,10.38,Moyen
+Vincent,Baouya,23,M,Mathematiques,L3,Général,3,0,95.4,0,12,1,12,12.84,4,1,1,0,0,0.8,Vélo/Marche,2,5,6,0,1,14.69,Bon
+Eva,Le page,21,F,Lettres,L3,Technologique,1,1,74.1,4,21,0,7,9.74,1,0,1,1,16,1.4,Vélo/Marche,0,8,5,1,0,6.46,Faible
+Harold,Nait mohamed,20,M,Gestion,L1,Général,2,0,84.7,3,3,5,8,14.5,0,1,1,1,20,5.0,Transport en commun,4,4,6,0,1,14.85,Bon
+Catherine,Ulukuz,20,F,Sciences,L2,Professionnel,1,0,69.2,5,9,2,12,6.67,0,1,0,1,20,0.5,Vélo/Marche,2,8,7,1,0,6.15,Faible
+Cheikh,Garcia,20,M,Mathematiques,L1,Général,4,1,87.2,1,12,3,5,5.02,3,1,1,0,0,5.1,Transport en commun,3,7,7,1,1,9.42,Moyen
+Jonathan,Ouattara,22,M,Informatique,L3,Technologique,3,1,54.2,5,7,3,4,9.71,3,1,1,0,0,19.2,Transport en commun,3,6,8,1,1,6.73,Faible
+Naela,Nait mohamed,25,F,Droit,M2,Général,3,1,44.6,8,7,4,6,10.53,1,0,1,1,30,1.1,Vélo/Marche,4,7,8,0,1,6.7,Faible
+Jessica,Dupont,23,F,Informatique,L3,Général,2,0,100.0,0,10,4,12,11.63,1,1,0,1,12,10.3,Transport en commun,2,8,7,0,1,13.57,Bon
+Belicia,Fall,19,F,Lettres,L1,Général,3,0,100.0,4,12,1,8,11.33,5,1,1,0,0,44.0,Voiture,4,7,7,0,1,14.82,Bon
+Kenza,Paire,22,F,Mathematiques,L2,Général,1,1,42.9,6,10,2,8,9.25,4,1,1,0,0,28.2,Voiture,3,8,8,0,0,5.71,Faible
+Vavo,Djema,23,F,Informatique,L3,Professionnel,0,0,73.4,4,18,4,7,5.07,1,0,0,1,30,6.6,Transport en commun,3,4,5,1,1,5.34,Faible
+Hugo,Traye Balezin,22,M,Informatique,L2,Professionnel,0,1,76.4,3,14,4,11,10.35,3,0,1,0,0,46.6,Voiture,2,7,8,1,0,8.23,Moyen
+Ousmane,Agbagno,23,M,Informatique,M1,Technologique,2,1,85.6,1,13,3,6,6.85,2,0,0,0,0,7.2,Transport en commun,2,7,6,1,1,9.3,Moyen
+Catherine,Wu,24,F,Psychologie,M1,Général,2,0,100.0,0,16,5,8,11.07,0,1,1,0,0,1.4,Vélo/Marche,3,8,9,1,1,15.95,Excellent
+Miryam,Dupont,21,F,Mathematiques,L3,Technologique,2,1,57.0,5,13,3,7,6.59,1,1,1,0,0,92.3,Logement sur place,3,3,7,1,0,5.53,Faible
+Belicia,Toubol,21,F,Droit,L2,Général,0,1,57.9,6,9,1,2,12.24,0,0,1,0,0,36.7,Voiture,5,8,7,0,1,5.45,Faible
+CédricThomas,Dupont,20,M,Lettres,L1,Général,2,0,74.0,4,10,4,8,17.14,1,0,1,0,0,11.3,Transport en commun,3,4,4,0,1,12.26,Bon
+Lyes,Jday,21,M,Gestion,L1,Général,2,0,58.6,4,5,2,9,8.04,2,1,1,0,0,19.8,Transport en commun,3,10,8,1,1,4.93,Faible
+Lea,Rakotonjanahary,21,F,Lettres,L2,Général,2,0,30.6,8,21,0,7,5.99,1,0,1,1,20,20.0,Voiture,3,4,7,0,1,6.59,Faible
+Francois,Iamundo,20,M,Lettres,L2,Général,3,0,70.4,5,16,2,8,15.15,1,0,1,1,8,3.9,Vélo/Marche,4,3,7,0,1,14.85,Bon
+Anny,M'jahad,21,F,Psychologie,L3,Général,1,0,87.7,1,0,3,8,17.51,2,0,0,0,0,4.0,Vélo/Marche,3,5,7,0,1,11.24,Moyen
+Wahiba,Sy,22,F,Mathematiques,L3,Général,3,0,73.7,3,18,5,9,6.07,0,0,1,1,12,11.4,Transport en commun,2,8,8,1,1,10.14,Moyen
+Vincent,Kuzmenko,21,M,Gestion,L1,Technologique,2,1,84.0,3,4,2,6,10.45,3,0,1,0,0,43.7,Voiture,4,6,8,1,1,8.75,Moyen
+Jessica,Tourret,22,F,Droit,L2,Général,1,0,81.7,4,14,2,6,12.65,1,1,1,0,0,0.5,Vélo/Marche,3,9,8,0,1,8.79,Moyen
+Sandrine,Grosdoy,20,F,Droit,L1,Général,1,0,57.6,5,0,3,9,9.81,2,0,1,0,0,27.5,Voiture,3,5,9,1,1,5.72,Faible
+Henoc,Gakosso,19,M,Droit,L1,Général,2,1,75.1,3,9,4,5,4.14,5,0,1,1,12,1.1,Vélo/Marche,3,4,6,1,0,7.2,Faible
+Audrey,Tall,23,F,Gestion,M1,Général,3,0,49.6,6,18,3,8,5.58,1,1,1,0,0,11.7,Transport en commun,4,4,6,1,1,8.11,Moyen
+Belicia,Ekoga bideng,21,F,Psychologie,L1,Général,2,1,65.8,4,18,3,12,5.98,2,1,1,0,0,18.3,Transport en commun,2,4,8,1,0,10.37,Moyen
+Catherine,Adjagbe,22,F,Gestion,L2,Général,1,0,74.8,3,13,3,9,6.85,1,0,1,1,30,20.9,Voiture,0,2,8,1,1,6.64,Faible
+Kouaho,Montean,20,M,Gestion,L1,Général,3,0,74.0,3,15,2,4,11.13,4,1,1,0,0,1.1,Vélo/Marche,4,4,8,1,1,10.7,Moyen
+Louise,Nait mohamed,22,F,Mathematiques,M1,Technologique,2,0,53.3,5,4,2,9,14.97,3,1,1,1,30,9.8,Transport en commun,1,3,4,0,1,10.3,Moyen
+Jonathan,Le page,22,M,Lettres,L3,Général,2,1,56.6,5,14,2,11,5.64,1,1,0,1,25,15.8,Transport en commun,4,7,5,0,0,3.07,Faible
+Lyes,Paire,19,M,Informatique,L1,Technologique,2,0,78.7,2,15,4,7,7.81,2,1,0,1,30,1.2,Vélo/Marche,1,9,6,1,1,10.82,Moyen
+Vavo,Kaba,20,F,Mathematiques,L2,Général,1,1,87.2,2,24,1,8,6.58,0,1,1,0,0,2.6,Vélo/Marche,3,6,4,0,1,10.97,Moyen
+Ahmed,Moudjalou mombo,22,M,Psychologie,L3,Général,2,0,70.7,3,8,3,7,11.9,5,0,0,0,0,19.6,Transport en commun,1,4,7,0,0,9.71,Moyen
+Julfab,El abi,24,M,Mathematiques,M2,Technologique,1,0,69.9,4,11,2,8,7.68,1,1,1,1,25,13.3,Transport en commun,3,7,7,1,1,5.95,Faible
+Bintou,Ursini,19,F,Informatique,L1,Général,4,0,88.9,3,11,2,7,6.96,3,1,1,1,20,3.2,Vélo/Marche,4,5,5,0,1,9.81,Moyen
+Sophie,Coly,22,F,Informatique,M1,Général,2,1,61.6,6,14,2,10,4.73,1,0,0,1,16,13.8,Transport en commun,2,8,6,0,0,4.9,Faible
+Jessica,Djokpo,23,F,Droit,M2,Technologique,2,1,100.0,1,15,2,12,15.97,2,0,1,0,0,43.9,Voiture,3,3,7,1,1,16.81,Excellent
+Dourra,Grosdoy,23,F,Lettres,M2,Général,2,0,52.5,8,16,2,9,19.12,5,1,1,0,0,0.5,Vélo/Marche,5,4,4,1,1,12.73,Bon
+Koulbou,Lehie-Bi,23,M,Gestion,L3,Technologique,4,0,90.8,2,16,3,5,11.12,4,1,1,0,0,18.5,Transport en commun,3,7,6,1,1,14.21,Bon
+Mikael,Gaye,22,M,Psychologie,L3,Général,3,0,82.6,7,4,2,12,16.45,0,0,0,0,0,1.4,Vélo/Marche,4,5,6,1,1,13.34,Bon
+Nicolas,Dushime,20,M,Psychologie,L2,Technologique,2,0,100.0,1,0,3,10,8.65,2,0,0,0,0,0.5,Vélo/Marche,5,8,6,1,1,8.97,Moyen
+Ikram,Yassir,23,F,Mathematiques,M1,Général,2,0,56.1,5,8,2,11,10.8,1,1,1,0,0,2.9,Vélo/Marche,5,4,6,0,0,12.2,Bon
+Vavo,Houssam,20,F,Sciences,L2,Général,2,1,36.7,6,11,3,9,13.27,1,0,0,1,16,9.9,Transport en commun,4,6,9,0,1,8.52,Moyen
+Naela,Aguigah,22,F,Psychologie,L3,Général,2,1,94.0,1,8,3,10,7.94,1,1,1,0,0,29.2,Voiture,2,7,9,0,0,7.97,Faible
+Grace,Martins,21,F,Sciences,L2,Général,1,0,50.5,8,9,5,8,10.19,1,0,1,0,0,6.0,Transport en commun,5,2,6,1,1,6.9,Faible
+Harold,Gueye,21,M,Informatique,L3,Général,2,0,83.9,4,9,2,11,9.73,2,0,0,0,0,17.7,Transport en commun,4,5,5,1,1,10.86,Moyen
+Louise,Kuzmenko,22,F,Psychologie,M1,Général,1,1,92.9,2,14,1,8,12.46,0,1,1,0,0,9.5,Transport en commun,4,1,6,1,0,11.55,Moyen
+Francois,Agbagno,20,M,Lettres,L1,Général,4,1,80.1,4,6,4,10,11.04,2,0,1,0,0,4.8,Vélo/Marche,0,9,9,1,0,10.15,Moyen
+Mondesire,Richir,23,F,Mathematiques,M1,Général,1,0,77.7,3,11,1,11,8.04,1,0,0,0,0,13.0,Transport en commun,5,3,3,0,1,9.91,Moyen
+Julfab,Dagou,21,M,Gestion,L2,Général,4,0,80.4,2,11,4,12,9.66,1,0,0,0,0,28.7,Voiture,4,5,7,1,0,13.58,Bon
+Syrine,Sahadia,24,F,Informatique,M1,Professionnel,2,0,87.4,2,14,1,12,15.04,3,0,0,1,20,32.2,Voiture,4,5,6,0,1,12.44,Bon
+Nicolas,Bergoin,20,M,Informatique,L2,Général,2,0,83.4,2,17,3,6,12.89,0,1,0,0,0,33.7,Voiture,1,3,9,0,1,9.74,Moyen
+Yowan,Fall,22,M,Psychologie,L2,Général,2,0,54.5,5,19,1,12,12.56,1,1,1,1,30,7.4,Transport en commun,2,10,9,1,1,10.84,Moyen
+Salim,Martins,25,M,Informatique,M2,Général,1,0,100.0,1,7,4,11,19.37,1,0,0,1,12,28.4,Voiture,5,4,4,1,1,15.8,Excellent
+Jessica,Gueye,19,F,Gestion,L1,Général,1,1,74.8,5,1,3,10,6.5,2,0,1,1,30,4.3,Vélo/Marche,3,5,9,1,1,6.6,Faible
+Clarissia,Dede,22,F,Lettres,M1,Professionnel,0,0,82.3,3,10,2,10,13.5,2,0,1,0,0,24.1,Voiture,3,4,3,1,0,8.53,Moyen
+Georges,Fontbonne,22,M,Informatique,L2,Général,2,0,85.4,3,3,1,9,11.01,1,1,1,0,0,53.4,Logement sur place,4,4,8,0,1,9.61,Moyen
+Ousmane,Motondo masengi,20,M,Droit,L2,Professionnel,2,0,92.5,5,25,2,8,12.11,1,0,0,1,30,0.5,Vélo/Marche,1,5,8,0,1,12.49,Bon
+Blanche,Fall,21,F,Mathematiques,L2,Général,3,1,90.8,2,7,3,8,11.49,4,1,1,1,16,10.4,Transport en commun,3,7,10,0,1,13.65,Bon
+Jey,Chan,22,M,Mathematiques,L3,Technologique,1,1,76.1,2,14,2,12,8.13,5,1,0,1,20,18.8,Transport en commun,3,6,7,0,1,9.03,Moyen
+Francoise,Keita,22,F,Mathematiques,L2,Général,1,0,75.1,2,16,2,9,6.87,0,1,1,0,0,21.8,Voiture,2,4,6,0,1,7.88,Faible
+Tova,Comparot,21,F,Mathematiques,L1,Technologique,2,0,80.5,2,13,3,10,10.8,2,1,1,1,16,3.5,Vélo/Marche,2,5,5,1,1,13.16,Bon
+Brandon,Motondo masengi,19,M,Informatique,L1,Général,4,1,91.6,2,21,2,9,7.83,1,1,1,1,8,64.5,Logement sur place,2,2,9,1,0,13.76,Bon
+Kouaho,Montanary,19,M,Sciences,L1,Général,2,0,56.2,5,10,1,7,9.4,1,1,1,1,20,17.2,Transport en commun,2,8,10,1,1,7.03,Faible
+Sophie,Khelouat,25,F,Droit,M2,Général,2,0,84.3,4,7,1,4,13.83,1,1,1,0,0,3.2,Vélo/Marche,3,4,6,1,1,11.79,Moyen
+Steph,Senouci,25,M,Mathematiques,M2,Général,2,0,59.8,4,7,3,11,6.14,2,0,1,0,0,0.5,Vélo/Marche,5,5,7,0,1,9.34,Moyen
+Yassine,Ayachi,21,M,Sciences,L2,Professionnel,0,0,100.0,3,15,5,11,10.07,0,1,1,0,0,27.5,Voiture,3,1,9,1,1,13.59,Bon
+Catherine,Pham Huu,22,F,Sciences,L3,Général,4,0,79.9,3,10,2,9,14.81,4,0,1,0,0,1.5,Vélo/Marche,2,4,8,1,1,18.01,Excellent
+Manon,Tall,20,F,Psychologie,L2,Général,2,1,67.3,4,7,3,6,8.87,2,1,1,1,20,2.7,Vélo/Marche,2,9,6,1,1,6.71,Faible
+Mariamari,Jida,22,F,Gestion,L3,Technologique,1,1,80.9,4,13,1,12,16.38,1,1,1,1,25,15.4,Transport en commun,4,7,5,1,1,12.63,Bon
+Caroline,Tourret,22,F,Mathematiques,M1,Général,2,0,74.1,5,15,2,8,4.91,3,1,1,1,20,16.7,Transport en commun,5,8,5,0,1,5.83,Faible
+Abdoul,Montanary,23,M,Mathematiques,M2,Professionnel,0,1,71.4,6,12,3,10,17.71,0,1,1,0,0,20.9,Voiture,2,6,9,1,1,12.76,Bon
+Salim,Gueye,20,M,Sciences,L2,Technologique,4,0,45.1,7,15,2,7,10.87,1,0,1,1,30,9.0,Transport en commun,2,0,6,1,1,10.21,Moyen
+Awa,Diop desbonnet,23,F,Psychologie,M1,Général,1,0,57.6,6,11,3,6,5.75,1,1,1,0,0,26.8,Voiture,3,6,6,1,0,6.44,Faible
+Evadnee,Hounhuedo,21,F,Informatique,L1,Technologique,2,0,71.8,3,8,4,10,13.97,1,0,0,1,12,65.9,Logement sur place,4,6,8,1,1,12.46,Bon
+Yassine,Djema,25,M,Gestion,M2,Général,1,1,47.0,7,15,5,5,12.44,1,0,0,1,20,5.7,Transport en commun,3,7,7,1,1,7.16,Faible
+Dania,Montean,20,F,Droit,L1,Général,2,0,64.6,4,7,1,10,16.05,0,0,1,0,0,21.9,Voiture,3,5,8,0,1,11.8,Moyen
+Koulbou,Keita,23,M,Psychologie,L3,Général,3,0,66.0,3,5,2,10,4.96,0,0,1,0,0,47.5,Voiture,4,4,6,0,1,6.33,Faible
+Taisir,Kamrach,21,F,Droit,L3,Général,2,1,61.5,6,17,5,6,6.63,0,1,1,0,0,20.9,Voiture,5,5,6,0,1,9.76,Moyen
+Salim,Montean,23,M,Psychologie,L3,Technologique,2,1,86.4,2,9,2,6,13.73,5,1,1,0,0,20.6,Voiture,2,5,5,0,0,10.83,Moyen
+Francis,Belatar,20,M,Gestion,L1,Professionnel,3,1,59.9,5,19,3,7,20.0,0,1,1,1,16,4.6,Vélo/Marche,5,7,8,1,1,14.53,Bon
+Balla,Ait mahammed,25,M,Lettres,M2,Général,0,0,75.4,2,15,2,7,12.99,0,0,1,0,0,13.8,Transport en commun,3,5,7,0,1,8.68,Moyen
+Salim,Gueye,19,M,Sciences,L1,Général,1,0,68.3,3,9,2,5,13.57,5,1,0,0,0,14.9,Transport en commun,4,3,7,1,1,8.75,Moyen
+Francis,Roumagnac,21,M,Informatique,L3,Professionnel,1,0,72.1,4,13,1,6,7.91,2,1,1,0,0,21.7,Voiture,3,7,5,1,1,6.31,Faible
+Carla,Toubol,20,F,Lettres,L1,Général,4,0,99.7,0,24,4,9,10.11,2,1,0,1,8,103.5,Logement sur place,3,4,8,0,1,15.94,Excellent
+Rawaa,Wu,21,F,Sciences,L2,Général,1,1,76.9,3,15,4,12,8.44,0,1,1,0,0,0.6,Vélo/Marche,4,5,7,1,1,11.08,Moyen
+Caroline,Toubol,21,F,Informatique,L2,Général,3,0,80.0,3,14,2,12,12.71,2,1,0,0,0,1.2,Vélo/Marche,3,4,8,1,1,13.75,Bon
+Magnificath,Yassir,20,F,Psychologie,L2,Professionnel,2,0,61.8,5,8,4,9,14.33,0,0,1,1,20,1.5,Vélo/Marche,1,6,7,1,0,10.66,Moyen
+Japhet,Pham Huu,21,M,Lettres,L1,Général,1,1,84.0,2,20,2,12,11.51,2,1,1,0,0,24.5,Voiture,3,2,7,1,0,13.96,Bon
+Julfab,Sagnon,21,M,Droit,L1,Technologique,1,0,83.3,3,18,1,12,13.82,5,1,0,0,0,2.6,Vélo/Marche,3,6,4,0,0,11.76,Moyen
+Magnificath,Tobada,21,F,Informatique,L2,Technologique,1,0,81.8,3,8,3,8,10.69,2,1,1,1,20,17.5,Transport en commun,2,8,9,1,1,10.44,Moyen
+Steph,Fall,24,M,Mathematiques,M1,Général,2,1,54.7,6,20,3,10,15.83,1,0,1,0,0,7.1,Transport en commun,5,6,4,1,1,12.16,Bon
+Sandrine,Fall,24,F,Sciences,M1,Général,1,1,64.6,5,12,2,11,7.53,2,1,0,1,8,11.0,Transport en commun,2,4,9,1,1,8.85,Moyen
+Abdoul,Belatar,20,M,Mathematiques,L1,Technologique,0,1,96.9,1,7,2,12,16.18,2,0,1,1,16,4.4,Vélo/Marche,3,5,7,1,0,12.31,Bon
+Marie,Kamrach,21,F,Sciences,L2,Général,3,0,63.0,5,8,5,12,8.08,2,1,1,1,25,36.2,Voiture,2,6,4,0,1,8.39,Moyen
+Anas,Grosdoy,19,M,Psychologie,L1,Technologique,4,0,99.1,1,15,4,6,10.86,2,1,0,0,0,15.9,Transport en commun,3,7,7,0,0,15.89,Excellent
+Khady,Sall,19,F,Informatique,L1,Professionnel,1,1,65.3,3,7,4,12,6.26,2,0,0,1,16,52.1,Logement sur place,2,9,4,1,1,6.16,Faible
+Evadnee,Kouleta,21,F,Lettres,L3,Général,1,0,76.4,2,5,1,12,12.72,2,0,0,1,30,15.4,Transport en commun,3,2,9,1,1,8.1,Moyen
+Blanche,Dushime,21,F,Lettres,L3,Technologique,0,0,71.0,3,9,3,12,11.3,5,1,1,0,0,2.4,Vélo/Marche,2,6,6,0,0,9.29,Moyen
+Olafemi,Ursini,21,M,Gestion,L1,Technologique,2,1,60.5,7,10,1,6,13.61,3,1,0,0,0,3.4,Vélo/Marche,1,6,5,0,1,8.86,Moyen
+Lea,Osmas,21,F,Droit,L1,Technologique,3,0,60.7,5,8,5,6,4.21,1,1,0,0,0,81.3,Logement sur place,4,5,8,0,1,8.48,Moyen
+Mouniratou,Krim,19,F,Psychologie,L1,Général,1,1,62.7,6,9,0,10,11.31,3,0,0,1,30,23.3,Voiture,3,6,7,0,1,6.66,Faible
+Esther,Khalil,22,F,Sciences,M1,Général,1,0,76.4,4,16,2,12,12.33,1,1,1,1,20,0.9,Vélo/Marche,2,5,8,0,1,11.95,Moyen
+Manal,Sagnon,24,F,Sciences,M2,Général,3,0,88.2,1,12,2,10,7.04,3,0,1,1,20,21.9,Voiture,0,3,7,0,1,9.43,Moyen
+Esther,Tchibozo houessou,21,F,Gestion,L1,Technologique,2,0,75.3,3,8,4,8,12.83,0,1,1,0,0,9.6,Transport en commun,4,6,9,1,1,12.04,Bon
+Abdou,Ovono etoubembe,21,M,Droit,L1,Général,0,1,73.5,3,9,3,9,2.07,2,0,1,0,0,6.6,Transport en commun,2,7,6,0,1,2.97,Faible
+Magnificath,Roumagnac,22,F,Sciences,M1,Technologique,2,0,93.4,1,10,2,12,10.31,3,1,1,1,16,3.0,Vélo/Marche,5,5,4,0,1,9.75,Moyen
+Aimee Veronica,Hachem majdalani,25,F,Sciences,M2,Général,1,0,74.7,4,11,3,8,16.17,1,0,0,1,25,33.0,Voiture,3,8,5,0,1,11.91,Moyen
+Syrine,Khelouat,21,F,Psychologie,L2,Général,1,1,65.3,3,11,4,10,10.28,3,1,1,0,0,1.2,Vélo/Marche,2,5,8,1,1,8.71,Moyen
+Georges,Cherigui,20,M,Mathematiques,L1,Général,3,1,58.0,6,15,0,9,8.07,2,1,1,0,0,6.2,Transport en commun,4,7,6,1,0,8.64,Moyen
+Kouaho,Kaba,21,M,Psychologie,L1,Technologique,3,1,94.3,1,12,4,7,10.55,1,1,1,0,0,6.6,Transport en commun,4,2,9,1,1,14.29,Bon
+Naela,Gakosso,21,F,Informatique,L3,Général,2,0,68.7,5,12,5,7,11.18,1,0,1,0,0,3.2,Vélo/Marche,3,10,5,1,0,9.26,Moyen
+Naela,Gakosso,22,F,Mathematiques,L2,Général,4,0,64.7,5,18,0,10,14.21,4,1,1,1,12,12.8,Transport en commun,3,5,9,0,0,14.42,Bon
+CédricThomas,Manantsoa,20,M,Mathematiques,L1,Général,2,1,63.4,4,20,0,2,11.29,1,0,0,1,8,0.5,Vélo/Marche,3,4,6,0,0,7.47,Faible
+Daro,Cabrera belmar,21,F,Droit,L3,Technologique,3,1,93.4,2,5,2,10,13.7,2,0,0,0,0,6.4,Transport en commun,5,5,9,1,0,13.95,Bon
+Sabridass,Dione,21,M,Psychologie,L1,Général,2,0,64.8,4,3,1,9,11.15,3,1,1,0,0,48.8,Voiture,4,3,8,1,0,9.59,Moyen
+Sabridass,Khelouat,22,M,Sciences,M1,Général,3,0,89.8,2,9,2,11,7.95,4,1,1,0,0,6.7,Transport en commun,2,3,7,1,0,10.4,Moyen
+Jihad,Badaoui,20,M,Sciences,L2,Professionnel,3,1,70.3,5,15,3,11,5.47,3,0,0,1,20,8.0,Transport en commun,2,6,8,1,1,9.46,Moyen
+Mamadou,Manantsoa,20,M,Lettres,L1,Technologique,0,0,54.7,5,13,3,9,12.21,2,0,1,0,0,11.5,Transport en commun,2,6,9,1,1,10.21,Moyen
+Audrey,Manantsoa,21,F,Droit,L3,Professionnel,4,1,68.7,5,16,1,6,1.41,4,1,1,0,0,14.8,Transport en commun,2,6,7,0,0,8.92,Moyen
+Cheikh,Gbizie,22,M,Gestion,L2,Général,3,0,73.5,3,9,3,6,4.09,3,1,0,0,0,29.8,Voiture,2,5,3,1,1,6.68,Faible
+Rama,Houssam,23,F,Gestion,M2,Général,3,0,72.2,4,1,3,7,5.49,3,0,1,0,0,3.8,Vélo/Marche,4,5,9,1,1,7.28,Faible
+Esther,Khalil,20,F,Informatique,L2,Technologique,1,1,71.8,5,4,5,11,13.52,0,1,0,1,16,37.0,Voiture,1,3,6,0,0,10.06,Moyen
+Sandrine,Aguigah,21,F,Psychologie,L1,Général,3,0,68.8,3,14,1,12,5.14,1,1,1,0,0,25.5,Voiture,3,4,10,1,1,10.71,Moyen
+Caroline,Adam,22,F,Sciences,L3,Technologique,3,0,61.4,4,16,3,10,12.59,2,0,1,0,0,23.1,Voiture,3,6,6,1,1,14.88,Bon
+Francis,Ben jeddou,20,M,Gestion,L1,Général,1,0,74.2,4,1,4,8,6.88,2,0,0,1,8,1.6,Vélo/Marche,2,4,6,0,1,5.94,Faible
+Dourra,Muller,25,F,Informatique,M2,Général,4,0,82.7,2,18,3,8,10.24,1,1,1,0,0,0.5,Vélo/Marche,1,6,8,0,1,14.64,Bon
+Lea,Fall,22,F,Psychologie,L2,Général,0,1,50.6,6,13,2,8,10.56,0,1,1,0,0,16.2,Transport en commun,1,5,8,0,1,5.27,Faible
+Georges,Ghedhoui,21,M,Informatique,L2,Général,1,1,94.8,3,11,1,12,10.19,2,1,0,1,25,35.8,Voiture,1,5,8,0,1,11.98,Moyen
+Jessica,Houssam,19,F,Sciences,L1,Général,2,1,14.9,11,8,4,8,8.34,1,0,1,1,20,15.8,Transport en commun,4,6,6,0,1,2.71,Faible
+Mouniratou,Manantsoa,22,F,Droit,L2,Général,2,0,75.2,3,19,2,9,4.85,1,0,0,1,20,4.3,Vélo/Marche,4,7,5,0,1,3.9,Faible
+Souha,Tourret,22,F,Gestion,M1,Professionnel,2,0,81.5,3,15,4,12,10.9,1,0,1,1,30,1.7,Vélo/Marche,1,7,6,0,1,7.99,Faible
+Blanche,Muller,24,F,Mathematiques,M1,Général,0,0,64.3,6,13,4,8,12.92,3,1,0,1,16,21.6,Voiture,3,10,4,0,1,8.06,Moyen
+Mondesire,Redombo-Agnorogoule,20,F,Sciences,L1,Technologique,4,1,40.0,7,7,2,10,13.38,2,0,1,0,0,23.0,Voiture,2,7,10,1,1,8.65,Moyen
+Koussaila,Khelouat,19,M,Psychologie,L1,Technologique,0,1,72.5,5,19,3,11,11.11,1,0,0,0,0,3.4,Vélo/Marche,3,2,5,0,0,9.99,Moyen
+Delicia,Intwari,22,F,Lettres,M1,Général,1,1,76.7,2,11,0,9,11.78,0,0,0,0,0,0.5,Vélo/Marche,3,3,6,0,1,7.5,Faible
+Eva,Koyakosso esso,25,F,Droit,M2,Général,0,0,55.6,7,12,2,12,7.87,2,0,1,0,0,9.4,Transport en commun,3,5,8,0,1,6.2,Faible
+Jey,Crespo,19,M,Informatique,L1,Technologique,2,0,60.7,4,11,3,12,12.51,3,0,1,0,0,15.7,Transport en commun,2,4,7,1,1,12.13,Bon
+Kouaho,Faviere--Prado,22,M,Lettres,L2,Général,4,0,89.4,1,7,3,10,12.37,2,0,1,1,20,22.0,Voiture,1,6,6,0,1,13.06,Bon
+Yowan,Tall,21,M,Sciences,L2,Technologique,2,0,75.9,3,13,2,7,9.67,1,1,1,1,25,29.9,Voiture,4,7,7,0,1,8.26,Moyen
+Lena,Martinez,22,F,Psychologie,M1,Technologique,3,0,49.9,5,14,4,7,10.98,1,0,1,0,0,17.0,Transport en commun,4,4,6,0,0,11.61,Moyen
+Sandrine,Garcia,21,F,Informatique,L1,Professionnel,0,1,81.2,3,9,2,10,10.7,4,1,0,0,0,2.1,Vélo/Marche,5,8,6,1,1,8.15,Moyen
+Boussad,Dushime,19,M,Psychologie,L1,Général,2,0,59.1,4,12,2,6,12.53,0,0,0,0,0,20.7,Voiture,1,9,8,1,1,8.55,Moyen
+Jessica,Chanwin,24,F,Lettres,M1,Général,2,0,61.6,5,11,2,10,4.93,2,0,1,1,20,74.6,Logement sur place,4,2,5,0,1,5.46,Faible
+Yowan,Senouci,21,M,Gestion,L1,Général,2,0,77.2,2,16,2,12,4.86,1,0,1,0,0,42.5,Voiture,4,2,9,0,1,9.59,Moyen
+Naela,Belatar,22,F,Informatique,L2,Général,0,1,75.7,2,10,5,9,5.06,0,0,1,1,25,37.0,Voiture,5,8,7,0,1,8.13,Moyen
+Dourra,Barry,21,F,Psychologie,L2,Technologique,2,0,67.6,3,12,3,9,9.11,0,0,0,1,20,6.5,Transport en commun,2,7,6,0,1,8.07,Moyen
+Jessica,Roumagnac,20,F,Informatique,L2,Général,2,1,65.9,5,13,3,11,12.53,2,1,1,0,0,25.0,Voiture,4,7,6,1,1,10.11,Moyen
+Hugo,Goursolle,21,M,Mathematiques,L2,Général,3,1,70.0,3,9,3,10,2.27,0,0,0,1,20,34.3,Voiture,1,6,9,1,1,4.58,Faible
+Hugo,Mouissi amoussou,22,M,Mathematiques,L2,Technologique,2,0,61.5,9,7,1,6,11.16,0,0,1,0,0,20.4,Voiture,3,5,8,1,1,6.7,Faible
+Yassine,Ouattara,21,M,Psychologie,L1,Général,1,1,91.4,2,8,2,8,15.34,1,1,1,1,30,5.2,Transport en commun,3,7,7,0,1,10.14,Moyen
+Jey,Toubol,22,M,Sciences,L3,Général,2,0,48.9,5,13,3,12,11.84,0,0,0,0,0,55.4,Logement sur place,4,6,6,1,1,11.41,Moyen
+Anny,Pham Huu,23,F,Psychologie,M1,Général,1,0,70.1,6,10,4,10,3.13,1,1,1,0,0,10.8,Transport en commun,4,8,8,0,1,3.61,Faible
+Mondesire,Jday,22,F,Mathematiques,M1,Technologique,3,1,50.6,5,10,4,6,12.78,0,0,1,1,25,2.5,Vélo/Marche,3,4,7,0,1,9.75,Moyen
+Esther,Ouattara,21,F,Sciences,L1,Général,2,1,89.0,1,14,2,9,11.72,1,0,0,1,30,2.1,Vélo/Marche,3,6,10,1,1,12.88,Bon
+Mondesire,Lakhal,20,F,Lettres,L1,Technologique,1,0,70.1,3,16,2,5,9.5,3,1,1,0,0,18.8,Transport en commun,1,7,7,0,1,7.5,Faible
+Coomi,Ayachi,21,F,Psychologie,L1,Général,4,0,57.1,6,17,1,4,11.49,2,1,1,0,0,10.4,Transport en commun,3,6,10,1,1,11.97,Moyen
+Caroline,Redombo-Agnorogoule,22,F,Droit,L2,Technologique,2,0,85.0,2,8,1,11,5.5,1,0,0,0,0,1.8,Vélo/Marche,3,7,7,1,1,7.39,Faible
+Safiatou,Fall,20,F,Informatique,L2,Technologique,0,0,37.3,7,16,2,9,10.99,0,0,1,1,8,24.3,Voiture,2,7,5,0,1,5.46,Faible
+Syrine,Cabrera belmar,21,F,Sciences,L3,Général,2,0,78.5,3,21,3,10,12.62,2,0,0,0,0,28.9,Voiture,4,5,10,1,0,14.58,Bon
+Railey,Billel koussaila,19,M,Informatique,L1,Général,1,0,92.4,1,12,2,12,8.17,0,0,1,1,25,23.3,Voiture,1,3,4,0,1,6.58,Faible
+Mbayame,Nait mohamed,20,M,Lettres,L1,Général,3,0,76.9,2,11,3,10,9.01,0,1,1,0,0,4.1,Vélo/Marche,3,4,3,0,1,13.0,Bon
+Henoc,Ghedhoui,22,M,Mathematiques,L2,Technologique,3,1,65.9,3,10,3,11,8.64,2,0,1,0,0,21.1,Voiture,4,3,3,1,1,8.16,Moyen
+Daro,Sall,22,F,Mathematiques,L3,Général,4,0,54.1,6,6,2,10,8.99,4,1,0,1,30,0.5,Vélo/Marche,5,1,10,1,1,10.97,Moyen
+Awa,Diop desbonnet,20,F,Gestion,L1,Général,2,0,91.3,2,15,3,12,7.65,2,0,0,0,0,6.6,Transport en commun,4,8,10,0,1,11.69,Moyen
+Beni,Makila,21,M,Sciences,L3,Général,2,0,88.8,1,11,1,12,7.87,0,1,1,1,8,9.2,Transport en commun,2,1,7,1,1,11.68,Moyen
+Catherine,Dengue matsogni,21,F,Mathematiques,L1,Général,3,1,63.7,4,10,3,9,12.76,4,1,0,1,12,32.5,Voiture,4,10,8,1,1,13.14,Bon
+Dourra,Ahmat,24,F,Sciences,M1,Général,1,0,64.1,5,14,4,9,4.18,0,1,1,0,0,8.9,Transport en commun,2,4,7,0,0,7.91,Faible
+Mathieu,Bensmaine,22,M,Gestion,M1,Général,2,0,93.0,2,15,3,10,11.5,4,0,0,1,12,0.5,Vélo/Marche,5,5,4,1,1,13.74,Bon
+Hugo,Krim,21,M,Informatique,L1,Général,2,0,82.5,2,8,4,9,12.75,1,1,1,0,0,7.8,Transport en commun,4,2,9,1,1,13.37,Bon
+Catherine,Prevost-Debaisieux,19,F,Psychologie,L1,Technologique,0,1,45.4,5,8,0,8,5.66,1,1,1,0,0,12.4,Transport en commun,4,6,9,1,1,2.7,Faible
+Taisir,Ursini,21,F,Mathematiques,L2,Technologique,2,0,70.9,4,8,3,12,10.51,2,1,1,0,0,53.6,Logement sur place,1,5,5,0,1,11.13,Moyen
+Ayedi,El abi,20,F,Gestion,L1,Général,3,1,70.3,5,22,3,8,7.32,5,1,0,1,12,51.0,Logement sur place,3,6,7,1,1,11.23,Moyen
+Eva,Andriamampianina,21,F,Sciences,L3,Professionnel,3,1,78.0,4,18,3,8,15.12,4,1,1,0,0,3.6,Vélo/Marche,4,4,7,0,1,15.97,Excellent
+Khady,Attias,23,F,Mathematiques,M1,Technologique,0,1,74.1,5,15,4,11,10.02,2,1,0,0,0,3.7,Vélo/Marche,4,7,6,1,1,9.39,Moyen
+Louise,Houssam,22,F,Informatique,L3,Professionnel,0,1,65.8,4,9,3,11,16.4,2,0,1,0,0,3.2,Vélo/Marche,0,4,6,1,1,10.27,Moyen
+Grace,Alabdullah alomar,22,F,Gestion,M1,Général,1,0,76.9,3,10,4,12,15.82,2,1,0,0,0,28.0,Voiture,5,6,7,0,1,11.79,Moyen
+Aimee Veronica,Dede,21,F,Droit,L2,Général,3,0,66.8,4,13,2,12,11.97,2,1,1,0,0,0.5,Vélo/Marche,0,7,6,0,1,12.42,Bon
+Mohammadreza,Khalil,21,M,Sciences,L1,Général,1,1,100.0,2,22,2,11,18.94,3,0,1,0,0,2.4,Vélo/Marche,3,9,9,1,1,16.87,Excellent
+Olafemi,Haddad,22,M,Sciences,L3,Technologique,2,0,76.0,2,12,3,11,4.82,0,0,1,0,0,13.9,Transport en commun,4,7,7,1,1,8.2,Moyen
+Vincent,Essabe mbome oye,20,M,Sciences,L2,Général,0,0,73.8,3,14,3,9,16.29,1,1,1,0,0,5.1,Transport en commun,1,6,6,0,1,9.58,Moyen
+Audrey,Sy,23,F,Informatique,L3,Général,2,1,100.0,2,0,5,10,9.78,5,0,1,0,0,1.7,Vélo/Marche,0,5,7,0,1,10.39,Moyen
+Safiatou,Dupont,21,F,Gestion,L1,Général,1,0,52.2,5,12,1,11,10.32,4,0,1,1,8,8.0,Transport en commun,4,6,7,1,1,5.83,Faible
+Rama,Toubol,20,F,Psychologie,L1,Général,3,1,72.2,5,4,2,8,9.05,0,0,0,1,8,5.8,Transport en commun,3,7,6,0,0,6.56,Faible
+Abdoul,Moenza,25,M,Informatique,M2,Général,1,1,58.8,6,9,3,9,5.29,1,1,1,0,0,12.9,Transport en commun,1,4,8,0,0,6.16,Faible
+Omar,Dengue matsogni,19,M,Mathematiques,L1,Général,2,0,84.2,2,11,4,11,12.96,5,1,1,1,30,69.7,Logement sur place,4,7,6,1,1,12.72,Bon
+Vincent,Fontbonne,25,M,Mathematiques,M2,Général,1,1,66.1,4,9,4,9,6.09,2,1,1,0,0,2.4,Vélo/Marche,4,3,6,0,1,7.39,Faible
+CédricThomas,Attias,24,M,Gestion,M2,Général,2,0,83.3,5,8,2,11,8.55,2,1,0,0,0,8.4,Transport en commun,3,7,4,0,1,7.56,Faible
+Khady,Sakkaki,23,F,Droit,M1,Professionnel,3,0,82.1,2,8,0,11,8.72,0,0,0,1,12,48.4,Voiture,2,7,7,0,1,8.01,Moyen
+Jey,Ait mahammed,23,M,Informatique,L3,Technologique,1,0,86.5,1,10,2,11,14.58,4,0,1,1,8,37.7,Voiture,0,4,9,1,1,14.45,Bon
+Stone,Jida,21,M,Lettres,L3,Professionnel,3,1,82.4,3,10,2,12,10.52,1,0,1,1,12,9.0,Transport en commun,4,2,7,0,1,13.18,Bon
+Sandrine,Sall,22,F,Informatique,M1,Technologique,2,1,70.4,5,11,5,8,1.51,0,0,0,1,20,21.6,Voiture,3,5,6,1,1,4.37,Faible
+Japhet,Moudjalou mombo,20,M,Droit,L1,Général,1,0,51.6,5,11,2,12,7.38,1,0,0,0,0,1.7,Vélo/Marche,4,0,5,1,0,6.89,Faible
+Catherine,Adjagbe,21,F,Informatique,L2,Général,2,1,90.1,3,17,2,10,4.86,4,1,0,1,20,22.4,Voiture,4,5,4,0,1,8.93,Moyen
+Marie,Boudine-Mervillon,21,F,Gestion,L3,Technologique,1,0,96.5,3,1,2,11,12.71,3,1,1,1,12,64.9,Logement sur place,3,3,9,1,1,11.48,Moyen
+Stone,Obambi mbongo ngala,22,M,Sciences,L2,Général,2,1,59.0,4,12,2,11,6.31,3,1,1,0,0,13.9,Transport en commun,1,10,8,0,1,6.8,Faible
+Esther,Montean,22,F,Sciences,L2,Général,3,0,85.8,3,11,4,11,8.5,1,1,0,1,20,12.4,Transport en commun,5,8,8,1,1,9.14,Moyen
+Magnificath,Dahouede,22,F,Gestion,L2,Général,0,1,55.3,6,10,1,7,17.45,4,1,0,0,0,3.7,Vélo/Marche,3,6,7,0,1,9.15,Moyen
+Mouniratou,Sahadia,23,F,Mathematiques,L3,Général,2,0,77.3,4,7,2,11,13.22,3,1,1,1,12,18.1,Transport en commun,3,8,5,1,1,10.53,Moyen
+Mohammadreza,Alabdullah alomar,22,M,Gestion,M1,Général,3,0,80.6,2,10,5,5,6.37,3,0,0,0,0,16.1,Transport en commun,5,7,6,0,1,12.04,Bon
+Mariamari,Mbengue,20,F,Mathematiques,L1,Général,4,0,67.2,4,3,1,12,13.94,5,0,1,0,0,19.0,Transport en commun,5,3,6,0,1,16.05,Excellent
+Catherine,Rakotonjanahary,24,F,Mathematiques,M2,Général,2,1,75.5,2,12,3,10,8.07,1,0,1,1,16,0.5,Vélo/Marche,3,4,6,1,0,10.24,Moyen
+Koussaila,Montean,23,M,Gestion,L3,Technologique,4,0,87.6,5,13,2,12,13.93,2,0,1,0,0,14.3,Transport en commun,2,8,6,0,1,13.24,Bon
+Henoc,Mbengue,22,M,Mathematiques,M1,Général,2,1,72.2,3,7,3,11,9.23,4,0,1,1,25,16.3,Transport en commun,5,3,9,1,0,10.32,Moyen
+Christa,Agbagno,21,F,Mathematiques,L3,Général,1,0,63.2,4,21,1,9,7.15,3,1,1,1,30,4.2,Vélo/Marche,4,6,10,0,1,5.51,Faible
+Mondesire,Mouissi amoussou,24,F,Sciences,M1,Général,3,0,54.4,5,10,2,8,6.8,2,0,0,0,0,4.2,Vélo/Marche,3,7,5,0,1,5.82,Faible
+Vianney,Baouya,21,M,Droit,L1,Technologique,2,0,67.7,5,11,3,7,11.89,0,0,1,0,0,5.8,Transport en commun,3,5,6,1,0,7.8,Faible
+Grace,Chanwin,24,F,Sciences,M1,Général,2,1,55.2,4,18,2,11,14.27,2,1,0,1,8,22.4,Voiture,3,6,7,0,1,12.87,Bon
+Abdoul,Sy,20,M,Informatique,L1,Général,2,0,68.0,4,22,3,11,12.22,2,1,1,1,12,16.8,Transport en commun,4,7,5,1,1,11.41,Moyen
+Francis,Attias,24,M,Informatique,M1,Général,3,1,66.6,4,5,1,10,9.16,0,0,0,1,12,33.6,Voiture,3,7,7,1,1,7.36,Faible
+Ousmane,Tchassama,24,M,Droit,M2,Général,3,1,86.9,2,8,3,9,3.97,4,0,1,1,25,6.3,Transport en commun,4,6,7,0,0,7.31,Faible
+Akoete,Djokpo,19,M,Mathematiques,L1,Professionnel,2,1,75.2,3,10,4,10,8.37,1,1,0,0,0,43.8,Voiture,4,5,7,1,1,10.4,Moyen
+Anas,Paucarima,19,M,Informatique,L1,Professionnel,1,0,100.0,0,7,1,8,6.04,1,0,0,0,0,24.5,Voiture,4,7,8,0,0,6.49,Faible
+Ismael,Azerguerras,23,M,Lettres,M1,Général,2,1,41.8,7,15,1,7,16.0,2,1,1,0,0,9.0,Transport en commun,4,1,7,0,1,11.98,Moyen
+Souha,Sahadia,20,F,Sciences,L1,Général,2,1,79.0,2,7,4,8,9.29,2,0,1,1,20,1.8,Vélo/Marche,4,9,2,1,1,6.78,Faible
+Koulbou,Garcia,23,M,Sciences,M1,Technologique,1,0,66.8,3,17,3,8,11.94,0,0,1,1,16,5.3,Transport en commun,3,5,5,0,0,12.0,Moyen
+Thomas,Moudjalou mombo,20,M,Mathematiques,L1,Général,3,1,58.7,7,14,0,12,9.49,1,0,0,0,0,56.5,Logement sur place,1,4,9,0,1,7.55,Faible
+Mageda,Paucarima,21,F,Informatique,L1,Général,2,0,73.5,4,17,2,6,12.43,0,1,0,0,0,6.7,Transport en commun,4,7,8,1,0,11.42,Moyen
+Julfab,Belatar,23,M,Droit,M2,Général,1,0,72.3,3,7,1,9,13.53,0,1,1,0,0,7.2,Transport en commun,3,7,2,1,1,10.17,Moyen
+Christa,AdjoAwada,23,F,Mathematiques,L3,Professionnel,0,0,91.2,1,9,1,11,19.65,0,0,0,1,30,3.8,Vélo/Marche,1,3,4,1,1,13.46,Bon
+Georges,Agbagno,23,M,Sciences,M1,Général,1,0,75.5,2,15,5,12,9.07,0,0,1,0,0,29.6,Voiture,1,6,8,1,1,11.97,Moyen
+Sabridass,Megbenou,22,M,Sciences,L2,Général,4,0,62.9,5,15,3,7,14.76,1,0,1,1,8,5.8,Transport en commun,2,6,6,1,1,11.29,Moyen
+Omar,Faviere--Prado,23,M,Sciences,L3,Technologique,1,0,79.3,2,10,3,6,11.86,2,1,1,0,0,7.2,Transport en commun,4,5,2,1,1,9.16,Moyen
+Ismael,Sagnon,21,M,Mathematiques,L3,Général,1,1,70.3,3,10,2,11,8.6,4,0,1,0,0,9.6,Transport en commun,4,9,9,0,1,8.08,Moyen
+Koulbou,Boudine-Mervillon,23,M,Mathematiques,L3,Général,2,0,56.0,5,9,1,9,8.87,2,0,1,1,30,10.2,Transport en commun,2,5,8,1,0,6.62,Faible
+Hafizou,Grosdoy,21,M,Lettres,L3,Professionnel,1,0,70.0,4,10,4,8,12.59,3,0,1,0,0,9.5,Transport en commun,4,5,5,0,1,11.8,Moyen
+Brandon,Bertolini,22,M,Psychologie,L3,Général,0,0,77.7,2,6,0,10,9.67,1,0,0,1,8,12.6,Transport en commun,2,4,9,1,0,5.76,Faible
+Simeon,Sall,22,M,Droit,L2,Général,1,0,75.2,3,5,2,11,11.2,3,1,0,0,0,30.3,Voiture,4,4,5,1,1,8.31,Moyen
+Japhet,Makila,20,M,Informatique,L1,Général,2,1,79.3,2,16,2,11,13.33,2,1,1,0,0,30.8,Voiture,3,6,6,1,1,12.99,Bon
+Beni,Bertolini,22,M,Informatique,M1,Général,2,0,65.6,4,10,3,10,20.0,2,0,0,0,0,28.8,Voiture,4,4,6,1,1,17.85,Excellent
+Mohamed,Wu,20,M,Droit,L1,Général,1,1,79.1,2,17,2,12,10.92,0,0,0,1,12,1.9,Vélo/Marche,3,5,3,0,1,12.34,Bon
+Dourra,Richir,22,F,Sciences,L3,Général,2,0,75.9,2,14,2,9,6.51,1,0,1,1,25,28.9,Voiture,2,6,8,0,0,7.35,Faible
+Sara,Schwartz,19,F,Droit,L1,Général,4,1,76.1,2,13,4,9,12.31,2,0,1,0,0,2.3,Vélo/Marche,4,6,8,1,1,16.38,Excellent
+Vianney,Alasabi,22,M,Mathematiques,L3,Technologique,1,0,74.5,5,7,3,11,8.96,1,1,1,0,0,2.4,Vélo/Marche,0,6,6,0,0,6.65,Faible
+Eva,Ouattara,22,F,Lettres,L3,Général,1,0,100.0,2,5,1,6,18.0,4,0,1,1,16,53.2,Logement sur place,5,6,8,1,1,13.81,Bon
+Abigail,Senin,20,F,Sciences,L1,Général,1,1,91.8,1,9,3,11,8.91,1,0,0,0,0,30.8,Voiture,3,7,4,0,0,7.23,Faible
+Stone,Fontbonne,21,M,Sciences,L1,Général,2,0,78.7,2,19,1,8,10.87,0,0,1,0,0,14.5,Transport en commun,3,10,8,1,1,11.51,Moyen
+Christa,Piquer,20,F,Gestion,L1,Technologique,3,1,61.2,4,15,2,6,13.17,2,1,0,0,0,37.4,Voiture,3,8,7,1,1,12.85,Bon
+Delicia,Tchassama,21,F,Informatique,L3,Général,1,1,69.3,4,8,3,10,12.67,4,1,1,1,16,81.8,Logement sur place,1,5,6,0,1,8.89,Moyen
+Hirche Luca,Motondo masengi,24,M,Lettres,M1,Général,2,0,99.9,1,9,2,8,16.08,1,1,1,0,0,17.0,Transport en commun,3,8,8,1,1,15.3,Excellent
+Georges,Motondo masengi,21,M,Mathematiques,L1,Général,0,0,65.0,4,6,2,5,13.34,2,1,1,0,0,17.1,Transport en commun,5,3,5,1,1,7.78,Faible
+Blanche,Sall,21,F,Gestion,L3,Général,2,0,71.3,3,3,3,7,19.7,1,1,1,0,0,25.3,Voiture,2,4,9,0,0,14.12,Bon
+Awa,Intwari,21,F,Droit,L2,Général,3,1,70.5,6,12,5,12,12.51,2,1,1,0,0,4.8,Vélo/Marche,4,7,8,1,1,13.05,Bon
+Khamal,Chan,22,M,Gestion,L2,Technologique,1,1,79.9,2,20,3,8,15.74,3,0,1,1,20,3.3,Vélo/Marche,3,7,7,1,0,14.14,Bon
+Ismael,Belatar,25,M,Psychologie,M2,Général,2,0,67.0,5,20,0,10,9.02,4,0,0,1,20,25.7,Voiture,4,7,6,0,0,6.37,Faible
+Cheikh,Cihyoka,22,M,Informatique,L2,Général,1,0,76.8,5,14,2,6,18.3,0,1,1,0,0,7.6,Transport en commun,2,4,8,1,0,11.99,Moyen
+Awa,Dede,21,F,Sciences,L2,Général,3,1,67.4,3,8,2,12,9.48,1,1,1,0,0,2.6,Vélo/Marche,3,4,9,0,1,12.74,Bon
+Dourra,El abi,21,F,Droit,L1,Technologique,0,1,95.0,4,4,2,9,16.45,2,1,1,0,0,6.8,Transport en commun,5,6,10,0,0,8.42,Moyen
+Malik-Adjhacy,Kamrach,19,M,Informatique,L1,Général,3,0,63.0,4,16,2,7,14.19,0,1,1,1,20,8.0,Transport en commun,2,5,6,1,1,11.5,Moyen
+Kouaho,Fall,20,M,Informatique,L1,Général,1,0,89.6,2,13,3,11,11.05,2,0,1,0,0,60.5,Logement sur place,3,7,8,1,1,11.4,Moyen
+Louise,Iamundo,19,F,Gestion,L1,Général,3,1,64.6,5,9,1,12,16.48,2,1,0,1,20,21.5,Voiture,3,5,9,1,1,13.38,Bon
+Mahamat,Bensmaine,21,M,Informatique,L3,Général,1,0,60.3,5,9,2,8,10.75,1,1,0,0,0,13.6,Transport en commun,3,5,6,0,1,7.04,Faible
+Mohamed,Sagnon,22,M,Sciences,L2,Général,2,0,62.8,5,14,3,7,16.0,3,1,1,0,0,62.5,Logement sur place,3,2,9,0,1,12.12,Bon
+Audrey,Zebriquane,22,F,Droit,L2,Général,1,1,46.6,6,7,2,12,12.24,1,0,1,0,0,42.0,Voiture,3,7,7,0,1,9.06,Moyen
+Naela,Badaoui,21,F,Gestion,L1,Général,3,1,81.0,2,12,5,9,9.37,5,0,0,1,20,12.9,Transport en commun,0,6,5,1,0,11.89,Moyen
+Paola,Grosdoy,19,F,Mathematiques,L1,Général,1,0,55.4,8,5,2,8,12.02,3,0,1,1,25,42.5,Voiture,5,0,6,0,1,6.33,Faible
+Eva,Motondo masengi,22,F,Gestion,L3,Général,1,0,68.3,4,22,4,4,10.93,3,0,1,0,0,9.3,Transport en commun,4,6,4,1,1,8.18,Moyen
+Mahamat,Tchassama,25,M,Sciences,M2,Général,2,0,86.2,2,8,4,9,9.12,0,0,1,0,0,4.7,Vélo/Marche,2,5,7,0,1,10.76,Moyen
+Seyed,Le page,21,M,Informatique,L1,Général,0,0,85.7,1,14,4,6,11.69,4,1,0,0,0,4.8,Vélo/Marche,3,7,7,1,1,10.93,Moyen
+Mariamari,Ayedi,22,F,Lettres,M1,Technologique,1,1,51.1,6,5,0,8,12.33,3,0,1,0,0,19.5,Transport en commun,4,5,7,1,0,5.5,Faible
+Simeon,Laclau,22,M,Sciences,L3,Professionnel,4,0,79.0,3,10,5,4,1.47,1,1,1,0,0,12.5,Transport en commun,5,4,9,1,1,6.51,Faible
+Thomas,Cherigui,21,M,Sciences,L3,Professionnel,4,1,92.2,3,15,1,12,12.71,1,1,1,0,0,19.4,Transport en commun,5,9,7,0,0,14.43,Bon
+Hirche Luca,Redombo-Agnorogoule,22,M,Mathematiques,L2,Technologique,1,1,63.8,4,17,0,5,13.62,1,1,0,1,16,20.9,Voiture,4,9,6,1,1,9.73,Moyen
+Kouaho,Azerguerras,19,M,Sciences,L1,Général,4,0,82.2,2,15,2,4,16.32,5,1,0,0,0,0.5,Vélo/Marche,2,5,6,1,0,16.45,Excellent
+Thomas,Ghedhoui,21,M,Informatique,L1,Technologique,2,0,55.7,6,10,1,7,6.1,4,1,0,0,0,1.0,Vélo/Marche,5,6,3,1,1,5.34,Faible
+Belicia,Dupont,22,M,Informatique,L3,Général,1,0,80.2,2,8,1,12,6.93,4,1,1,0,0,13.7,Transport en commun,4,4,8,0,1,7.64,Faible
+Anas,Wu,20,M,Psychologie,L2,Général,2,1,76.1,3,6,2,8,11.6,3,0,0,0,0,3.8,Vélo/Marche,3,2,7,1,1,11.17,Moyen
+Railey,Rakotonjanahary,25,M,Sciences,M2,Général,2,1,84.6,5,19,2,8,8.09,2,1,1,0,0,18.0,Transport en commun,3,8,7,0,0,8.32,Moyen
+Daro,Abbes,22,F,Informatique,L2,Général,4,0,83.6,3,12,3,10,6.28,1,0,0,0,0,14.5,Transport en commun,3,4,6,0,1,9.14,Moyen
+Hadja,Kouleta,21,F,Mathematiques,L1,Technologique,1,1,52.3,6,12,1,9,9.23,1,1,0,0,0,15.9,Transport en commun,4,8,7,1,1,6.4,Faible
+Catherine,Sagnon,23,F,Mathematiques,L3,Général,2,0,76.2,2,17,3,12,9.43,0,0,0,1,8,6.5,Transport en commun,2,7,4,1,1,12.76,Bon
+Esther,Giraud,19,F,Mathematiques,L1,Général,0,1,97.2,0,14,5,8,6.94,2,0,1,0,0,18.4,Transport en commun,0,6,7,1,1,11.37,Moyen
+Anny,Agbagno,22,F,Mathematiques,L2,Professionnel,0,0,39.0,7,10,2,8,6.92,4,0,1,0,0,31.8,Voiture,1,5,6,0,1,1.12,Faible
+Olafemi,Dupont,21,M,Informatique,L3,Général,0,0,89.5,1,15,3,12,10.34,5,1,1,1,20,112.5,Logement sur place,3,7,7,0,1,9.91,Moyen
+Audrey,Crespo,25,F,Gestion,M2,Général,4,1,99.6,1,8,5,9,5.3,1,0,1,0,0,32.8,Voiture,2,3,5,1,1,15.09,Excellent
+Dania,Toubol,22,F,Sciences,M1,Professionnel,3,0,50.2,5,3,1,10,5.23,2,1,0,1,8,14.7,Transport en commun,4,8,8,0,1,3.84,Faible
+Souha,Belatar,21,F,Sciences,L3,Général,3,0,63.3,5,18,2,8,11.07,2,1,1,0,0,3.9,Vélo/Marche,1,6,7,1,1,13.55,Bon
+Koulbou,Fall,23,M,Sciences,L3,Général,2,0,82.3,5,8,4,3,16.52,2,0,1,1,8,20.6,Voiture,5,9,4,1,1,12.84,Bon
+Abdou,Ovono etoubembe,25,M,Informatique,M2,Général,1,0,59.8,4,9,5,11,13.59,2,1,1,1,12,50.0,Logement sur place,4,5,9,1,1,13.13,Bon
+Thomas,Djokpo,21,M,Droit,L1,Général,1,0,95.8,0,10,3,12,15.45,1,0,0,1,16,4.3,Vélo/Marche,5,6,6,0,1,13.04,Bon
+Abdoul,Tobada,21,M,Psychologie,L1,Technologique,1,1,90.9,1,8,1,12,3.94,4,1,1,1,8,5.3,Transport en commun,4,6,6,1,1,6.54,Faible
+Rawaa,Traye Balezin,20,F,Psychologie,L1,Général,1,0,51.8,6,17,4,8,5.45,3,1,0,0,0,2.9,Vélo/Marche,1,7,8,0,0,4.48,Faible
+Dourra,Dagou,21,F,Psychologie,L1,Général,3,0,62.1,5,13,1,9,10.84,3,0,0,1,12,24.0,Voiture,3,9,9,0,1,9.98,Moyen
+Mahamat,Sy,23,M,Droit,L3,Général,2,1,86.3,2,9,2,10,13.98,1,1,0,0,0,9.4,Transport en commun,1,5,6,0,1,10.25,Moyen
+Jessica,Martinez,23,F,Lettres,L3,Général,0,0,85.7,2,5,2,10,13.22,0,1,0,1,12,1.2,Vélo/Marche,5,5,7,0,1,9.53,Moyen
+Louange,Irakoze,21,F,Mathematiques,L3,Professionnel,0,0,100.0,0,13,2,11,5.69,1,1,1,0,0,37.4,Voiture,2,5,8,1,0,10.96,Moyen
+Hafizou,Osmas,21,M,Sciences,L1,Général,0,1,59.9,4,0,4,10,15.12,3,1,1,1,30,14.7,Transport en commun,3,0,9,1,1,10.16,Moyen
+Mbayame,Senin,21,M,Sciences,L3,Général,2,1,97.3,2,12,4,8,10.49,4,1,1,1,20,7.2,Transport en commun,4,4,7,1,1,13.9,Bon
+Omar,Zouaoui,20,M,Sciences,L2,Général,4,1,59.4,4,18,3,9,13.76,1,0,0,1,8,7.6,Transport en commun,5,4,8,0,1,12.25,Bon
+Salim,Laclau,21,M,Lettres,L3,Technologique,2,1,82.0,3,11,0,11,8.5,3,0,0,0,0,6.2,Transport en commun,4,10,5,1,0,6.64,Faible
+Jey,Manantsoa,21,M,Informatique,L3,Professionnel,3,0,88.3,1,17,3,12,4.93,2,0,1,1,25,10.9,Transport en commun,4,6,4,1,1,11.97,Moyen
+Jonathan,Pham Huu,21,M,Gestion,L2,Général,2,1,26.1,7,5,3,8,14.01,1,1,1,0,0,7.4,Transport en commun,3,7,8,1,1,8.23,Moyen
+Koussaila,Djokpo,21,M,Droit,L1,Général,1,0,88.6,1,21,2,10,12.58,3,0,0,0,0,14.3,Transport en commun,3,2,5,1,0,12.06,Bon
+Abdoul,Crespo,19,M,Lettres,L1,Général,0,1,96.2,0,16,5,8,6.07,3,1,1,1,25,26.7,Voiture,1,5,5,0,1,9.47,Moyen
+Wahiba,Tobada,24,F,Lettres,M1,Technologique,3,0,91.5,1,13,4,10,8.26,1,0,0,1,20,20.2,Voiture,4,8,8,1,1,10.94,Moyen
+Emmanuel,Martins,23,M,Mathematiques,M2,Général,3,1,100.0,1,8,3,11,13.41,1,0,1,1,12,6.3,Transport en commun,3,10,7,0,1,16.63,Excellent
+Manon,Haddad,22,F,Gestion,L3,Technologique,1,1,89.4,1,7,0,8,11.58,2,0,0,1,30,13.5,Transport en commun,0,4,7,1,1,8.71,Moyen
+CédricThomas,Coly,19,M,Droit,L1,Général,2,1,65.4,4,11,3,4,12.71,0,1,0,0,0,33.0,Voiture,5,2,4,1,1,9.77,Moyen
+Dourra,Ursini,22,F,Sciences,L2,Technologique,2,0,93.8,2,17,4,12,8.81,4,1,0,1,8,1.3,Vélo/Marche,3,4,5,1,0,13.83,Bon
+Seyed,Chan,23,M,Psychologie,L3,Général,2,0,64.5,5,4,2,9,16.21,2,0,0,0,0,1.5,Vélo/Marche,4,4,10,1,1,13.58,Bon
+Louis,Jday,23,M,Gestion,M1,Général,4,1,75.3,3,11,4,8,10.38,0,1,0,0,0,14.6,Transport en commun,4,4,6,1,1,13.22,Bon
+Aimee Veronica,Keita,21,F,Sciences,L1,Général,2,1,87.3,1,15,2,8,1.8,0,0,1,0,0,18.3,Transport en commun,4,7,6,0,0,5.78,Faible
+Abigail,Nait mohamed,21,F,Mathematiques,L1,Général,2,0,81.2,4,16,3,10,11.21,5,1,0,1,8,4.3,Vélo/Marche,1,6,7,1,1,11.7,Moyen
+Hadja,Bertolini,21,F,Sciences,L3,Professionnel,0,1,95.6,1,15,3,7,13.1,3,0,0,0,0,24.6,Voiture,2,3,5,1,1,10.99,Moyen
+Emmanuel,Koyakosso esso,22,M,Gestion,L2,Technologique,0,1,100.0,0,4,3,8,11.93,3,0,0,0,0,18.7,Transport en commun,4,9,9,0,1,9.13,Moyen
+CédricThomas,Ayachi,19,M,Gestion,L1,Technologique,1,0,55.8,5,17,4,6,9.18,0,1,1,1,16,46.2,Voiture,4,10,7,0,1,5.72,Faible
+Delicia,Megbenou,20,F,Sciences,L1,Général,0,1,68.7,4,11,2,7,3.38,4,1,1,0,0,3.3,Vélo/Marche,3,2,6,0,1,5.64,Faible
+Anny,Zebriquane,22,F,Droit,L2,Général,3,0,79.1,5,6,2,11,8.33,1,0,1,1,16,25.1,Voiture,3,8,9,0,1,6.91,Faible
+Clarissia,Kape amani,22,F,Informatique,M1,Technologique,2,0,66.6,3,11,3,6,8.69,2,0,1,1,30,1.6,Vélo/Marche,2,5,8,1,1,8.53,Moyen
+Audrey,Mouissi amoussou,25,F,Psychologie,M2,Général,1,0,72.8,4,1,1,12,8.3,5,1,0,0,0,15.0,Transport en commun,5,3,10,0,1,6.98,Faible
+Eric,Sall,21,M,Mathematiques,L3,Général,3,1,86.4,3,14,2,6,13.13,0,1,0,1,8,14.4,Transport en commun,2,2,6,1,1,13.65,Bon
+Manon,Baouya,21,F,Gestion,L2,Général,1,1,84.3,3,10,0,9,9.53,2,1,1,0,0,8.8,Transport en commun,2,5,10,1,1,8.43,Moyen
+Yowan,Cabrera belmar,19,M,Informatique,L1,Général,1,0,78.0,3,5,1,10,16.05,0,1,1,1,20,33.5,Voiture,4,4,8,0,0,11.2,Moyen
+Francois,Hachem majdalani,22,M,Mathematiques,L2,Général,1,1,76.4,3,10,3,11,9.94,2,1,1,0,0,0.5,Vélo/Marche,2,6,10,1,0,10.51,Moyen
+Cheikh,Garcia,20,M,Lettres,L2,Général,1,1,70.4,4,7,3,11,15.42,1,0,1,0,0,13.2,Transport en commun,5,10,9,0,0,10.34,Moyen
+Dania,Hounhuedo,23,F,Informatique,L3,Général,1,1,96.5,1,8,1,9,11.61,4,0,1,1,16,4.4,Vélo/Marche,0,4,6,1,1,7.48,Faible
+Ousmane,Rakotonjanahary,21,M,Gestion,L2,Professionnel,2,0,100.0,1,0,1,9,11.8,1,0,1,0,0,24.5,Voiture,0,2,5,0,1,10.56,Moyen
+Mahamat,Paucarima,19,M,Droit,L1,Général,2,1,90.3,2,3,1,10,8.21,2,0,0,1,20,0.8,Vélo/Marche,3,5,4,0,1,7.7,Faible
+Jessica,Piquer,21,F,Informatique,L1,Général,4,0,55.6,5,10,2,10,5.67,4,1,0,0,0,32.1,Voiture,3,8,3,0,1,5.51,Faible
+Ousmane,Baouya,22,M,Psychologie,L2,Général,0,0,69.8,4,9,1,8,10.52,5,1,1,0,0,32.8,Voiture,2,5,6,0,0,5.5,Faible
+Dourra,Tobada,21,F,Gestion,L1,Technologique,1,0,77.2,3,16,2,10,17.21,2,0,0,1,20,32.2,Voiture,3,7,9,1,1,12.53,Bon
+Mohamed,Pham Huu,19,M,Sciences,L1,Général,0,0,58.9,4,8,3,9,9.06,2,0,1,0,0,3.0,Vélo/Marche,3,6,6,0,1,3.11,Faible
+Hadja,Gakosso,23,F,Mathematiques,M2,Général,2,1,75.3,3,8,3,7,8.45,0,1,1,0,0,17.9,Transport en commun,4,6,6,1,1,10.08,Moyen
+Caroline,Chan,20,F,Informatique,L2,Général,0,0,74.4,3,9,2,8,10.15,0,1,1,1,25,0.5,Vélo/Marche,0,9,8,0,1,5.38,Faible
+Hirche Luca,Alasabi,21,M,Informatique,L2,Général,3,1,91.3,4,10,3,10,17.52,2,0,0,1,16,33.9,Voiture,5,3,5,1,1,16.0,Excellent
+Augustin,Gaye,24,M,Informatique,M1,Général,2,0,66.0,3,11,4,7,13.79,0,1,1,0,0,23.1,Voiture,3,3,10,1,1,11.73,Moyen
+Mathieu,Pham Huu,25,M,Informatique,M2,Technologique,2,0,92.6,2,9,2,12,15.41,1,0,1,1,12,13.6,Transport en commun,2,4,6,1,1,16.37,Excellent
+Hugo,El alaoui es sousy,22,M,Sciences,L3,Technologique,2,1,58.7,5,14,2,8,3.27,0,1,1,1,20,23.6,Voiture,0,6,8,0,1,2.78,Faible
+Jessica,Krim,23,F,Droit,M1,Général,1,1,60.9,7,23,3,3,7.67,2,1,0,0,0,1.8,Vélo/Marche,3,6,6,1,1,6.87,Faible
+Emmanuel,Tobada,20,M,Psychologie,L2,Général,1,0,67.9,4,7,2,10,7.8,1,0,0,1,20,13.5,Transport en commun,2,7,7,0,1,6.82,Faible
+Awa,Elcadhi,20,F,Sciences,L2,Professionnel,1,0,74.8,5,13,3,2,15.12,0,0,1,0,0,6.2,Transport en commun,2,5,9,0,1,9.08,Moyen
+Balla,Jday,20,M,Informatique,L2,Général,2,0,35.3,7,11,4,6,13.31,1,1,0,1,25,64.8,Logement sur place,2,5,7,1,1,8.29,Moyen
+Dania,Dede,21,F,Mathematiques,L3,Technologique,1,0,81.3,2,16,2,12,14.81,2,0,1,1,30,35.0,Voiture,4,6,9,1,1,13.64,Bon
+Mondesire,Goursolle,21,F,Mathematiques,L3,Général,0,1,100.0,1,12,3,12,3.67,2,0,1,1,16,23.8,Voiture,3,9,5,1,1,4.49,Faible
+Vavo,Alabdullah alomar,20,F,Mathematiques,L2,Professionnel,4,1,84.4,2,7,3,11,15.02,2,1,0,1,8,48.9,Voiture,1,3,4,1,1,14.13,Bon
+Francis,Adam,20,M,Lettres,L1,Technologique,0,0,70.6,5,5,0,6,13.31,3,0,1,0,0,7.7,Transport en commun,3,3,4,1,0,6.89,Faible
+Ousmane,Monasse,22,M,Lettres,L3,Professionnel,3,1,56.6,7,14,1,9,7.29,0,0,0,0,0,41.6,Voiture,4,6,9,1,1,8.43,Moyen
+Hirche Luca,Redombo-Agnorogoule,20,M,Gestion,L1,Technologique,3,1,45.0,6,6,4,12,10.05,0,1,1,0,0,7.1,Transport en commun,1,10,8,1,1,7.59,Faible
+Evadnee,Mouissi amoussou,23,F,Gestion,L3,Général,1,0,47.7,6,17,5,11,7.4,0,0,0,0,0,23.8,Voiture,4,3,6,0,1,10.6,Moyen
+Khady,Khelouat,23,F,Psychologie,L3,Professionnel,1,0,71.9,4,14,4,12,10.43,2,0,0,1,25,24.0,Voiture,3,5,7,1,0,10.11,Moyen
+Eva,Pham Huu,21,F,Psychologie,L3,Général,1,1,100.0,0,11,4,12,12.51,3,1,0,1,16,0.5,Vélo/Marche,5,4,9,0,1,14.96,Bon
+Mikael,Roumagnac,23,M,Mathematiques,M1,Général,2,0,30.5,9,4,2,11,16.14,0,0,1,0,0,8.1,Transport en commun,1,6,6,0,1,8.83,Moyen
+Kenza,Azerguerras,24,F,Droit,M1,Technologique,2,0,85.2,3,14,2,6,7.23,2,1,0,0,0,0.5,Vélo/Marche,5,1,4,1,1,8.06,Moyen
+Belicia,Ganda-Te-Grembombo,22,F,Droit,L2,Technologique,3,0,63.2,5,19,2,10,9.02,2,1,0,1,30,105.1,Logement sur place,3,3,4,0,0,9.6,Moyen
+Nehuan,Nait mohamed,22,M,Mathematiques,L3,Professionnel,4,0,68.6,3,9,0,8,6.61,5,1,1,0,0,2.3,Vélo/Marche,3,8,5,0,1,8.11,Moyen
+Salim,Attias,23,M,Gestion,L3,Général,2,1,59.0,4,7,4,6,13.71,3,0,0,0,0,14.1,Transport en commun,3,6,7,0,0,9.27,Moyen
+Sara,Coly,21,F,Lettres,L1,Technologique,1,0,52.1,7,11,5,11,4.81,2,0,1,1,20,28.1,Voiture,0,4,5,1,1,4.94,Faible
+Coomi,Andriamampianina,20,F,Droit,L1,Technologique,1,0,76.0,2,13,4,12,11.47,2,1,1,0,0,4.0,Vélo/Marche,5,5,9,1,1,10.18,Moyen
+Aimee Veronica,Gaye,21,F,Psychologie,L1,Général,3,1,78.2,2,8,3,9,6.14,5,1,1,1,12,11.9,Transport en commun,3,5,5,0,1,9.12,Moyen
+Cheikh,Ekoga bideng,21,M,Informatique,L2,Général,1,1,84.7,2,15,2,10,10.97,5,1,0,0,0,16.8,Transport en commun,1,7,6,0,0,9.82,Moyen
+Souha,Yassir,23,F,Gestion,L3,Général,0,1,47.0,7,21,1,4,15.19,2,1,0,1,16,3.1,Vélo/Marche,0,1,4,0,1,5.44,Faible
+Hugo,Grosdoy,23,M,Lettres,M1,Général,2,0,88.0,3,13,2,12,8.86,2,0,1,1,16,27.1,Voiture,1,3,6,1,0,10.76,Moyen
+Marie Paul,Dusabe,21,M,Lettres,L1,Professionnel,2,0,88.3,1,9,3,11,11.64,2,0,1,0,0,6.4,Transport en commun,3,3,7,1,0,11.13,Moyen
+Omar,Barry,21,M,Informatique,L1,Général,4,0,80.8,3,13,2,10,7.41,1,1,0,0,0,4.3,Vélo/Marche,3,7,9,1,1,11.06,Moyen
+Tova,Mbengue,24,F,Psychologie,M2,Technologique,2,0,67.3,5,17,5,6,10.37,2,1,1,0,0,14.7,Transport en commun,3,5,7,0,1,10.95,Moyen
+Rawaa,Sy,21,F,Sciences,L1,Professionnel,0,1,78.9,2,12,4,5,4.88,1,0,1,0,0,9.5,Transport en commun,2,9,8,1,1,3.1,Faible
+Manon,Goursolle,21,F,Psychologie,L2,Général,4,0,71.4,3,13,1,12,13.49,4,1,0,0,0,45.5,Voiture,3,7,9,1,1,11.96,Moyen
+Japhet,Coly,22,M,Psychologie,L3,Technologique,1,0,89.5,1,15,1,7,9.22,2,0,1,1,12,38.2,Voiture,3,5,8,0,1,10.11,Moyen
+Dania,Gbizie,22,F,Sciences,L2,Général,1,0,68.1,4,7,3,9,10.01,3,0,0,1,20,11.9,Transport en commun,0,5,5,0,0,5.38,Faible
+Francois,Alabdullah alomar,19,M,Gestion,L1,Technologique,2,0,75.7,2,13,2,7,11.06,2,0,1,1,12,8.0,Transport en commun,2,8,8,0,1,9.2,Moyen
+Esther,Djema,21,F,Sciences,L1,Général,0,1,46.2,8,4,4,3,3.33,3,1,1,0,0,7.1,Transport en commun,1,9,9,1,0,0.0,Faible
+Hugo,Kouleta,19,M,Informatique,L1,Professionnel,2,0,78.9,3,8,3,10,8.17,1,1,0,1,12,5.6,Transport en commun,5,5,6,1,1,7.18,Faible
+Abdou,Intwari,21,M,Sciences,L3,Général,1,0,62.0,5,17,1,11,11.31,2,1,1,0,0,14.2,Transport en commun,4,3,8,1,1,10.25,Moyen
+Salim,Intwari,22,M,Informatique,L2,Général,2,0,82.2,3,15,2,5,10.19,2,1,1,1,25,29.4,Voiture,5,1,8,1,0,10.83,Moyen
+Georges,Dupont,19,M,Sciences,L1,Technologique,1,0,86.6,2,10,2,12,19.07,1,0,1,1,25,6.7,Transport en commun,2,1,6,1,1,16.92,Excellent
+Kenza,Ayedi,22,F,Mathematiques,L3,Général,3,0,64.2,4,20,4,8,15.58,4,1,0,1,20,3.8,Vélo/Marche,4,7,8,1,0,13.25,Bon
+Bintou,Monasse,23,F,Informatique,M1,Général,3,1,74.5,3,4,0,6,11.33,0,1,1,1,20,11.6,Transport en commun,3,6,6,0,0,9.2,Moyen
+Jey,Ursini,19,M,Informatique,L1,Général,1,0,76.8,5,10,4,6,6.91,2,1,1,0,0,1.3,Vélo/Marche,3,4,8,1,0,7.68,Faible
+Manal,Billel koussaila,21,F,Informatique,L2,Technologique,1,1,79.9,4,12,3,11,8.92,0,1,0,0,0,21.7,Voiture,2,8,6,1,0,7.24,Faible
+Francis,El alaoui es sousy,23,M,Sciences,L3,Général,1,1,86.6,2,0,3,4,13.3,4,0,0,1,20,13.1,Transport en commun,4,5,7,1,1,7.69,Faible
+Aimee Veronica,Lehie-Bi,20,F,Sciences,L1,Général,1,1,84.5,2,10,0,6,11.09,1,1,1,0,0,12.3,Transport en commun,5,4,8,0,1,10.91,Moyen
+Tova,Zebriquane,20,F,Lettres,L2,Général,3,1,67.9,5,5,3,10,15.65,2,0,1,0,0,6.4,Transport en commun,2,8,3,0,1,12.37,Bon
+Blanche,Belatar,23,F,Informatique,L3,Général,2,0,99.6,1,5,3,10,11.06,0,0,0,1,12,42.3,Voiture,2,8,8,0,1,9.83,Moyen
+Nehuan,El abi,23,M,Informatique,M1,Général,1,0,86.0,1,10,3,6,11.24,1,0,1,1,8,1.7,Vélo/Marche,4,5,8,0,1,10.75,Moyen
+Marie,Crespo,24,F,Informatique,M1,Général,1,0,96.5,1,2,4,12,16.97,4,0,1,0,0,36.7,Voiture,5,7,6,0,1,12.5,Bon
+Catherine,Barry,21,F,Informatique,L3,Général,0,1,79.5,3,7,3,6,6.63,0,0,0,0,0,8.5,Transport en commun,4,7,7,1,1,5.21,Faible
+Salim,Sangwe,22,M,Droit,L3,Général,2,1,80.5,2,2,4,8,17.39,2,0,0,0,0,38.3,Voiture,2,10,5,1,1,11.45,Moyen
+Boussad,Essabe mbome oye,22,M,Mathematiques,L2,Général,1,1,72.1,5,12,2,8,13.72,1,0,1,1,12,23.5,Voiture,3,5,5,1,1,11.04,Moyen
+Esther,Lakhal,23,F,Gestion,L3,Technologique,4,0,66.9,8,12,4,8,20.0,1,0,1,0,0,2.0,Vélo/Marche,3,3,7,1,1,17.24,Excellent
+Marie,Cabrera belmar,21,F,Informatique,L2,Général,3,1,89.6,2,9,1,9,8.13,2,0,1,1,20,32.1,Voiture,4,7,10,1,1,8.95,Moyen
+Mondesire,Agbagno,21,F,Mathematiques,L1,Général,1,0,78.2,3,16,4,8,16.99,2,1,0,1,12,20.6,Voiture,4,6,8,0,0,13.04,Bon
+Ikram,Zebriquane,23,F,Lettres,L3,Technologique,2,0,71.9,4,10,5,8,11.31,2,1,1,0,0,0.6,Vélo/Marche,3,6,5,0,1,11.0,Moyen
+Tova,Intwari,21,F,Sciences,L3,Général,4,0,57.6,5,11,2,9,10.09,2,1,1,0,0,2.6,Vélo/Marche,2,5,8,0,1,10.63,Moyen
+Eric,Giraud,20,M,Mathematiques,L2,Technologique,2,0,98.9,2,6,3,12,11.96,1,1,1,0,0,18.2,Transport en commun,5,2,8,1,1,13.74,Bon
+Mamadou,Khelouat,23,M,Informatique,M2,Général,1,0,75.8,2,0,3,8,11.28,1,0,0,1,20,19.6,Transport en commun,4,6,4,0,1,6.51,Faible
+Mahamat,Laclau,19,M,Gestion,L1,Général,1,0,54.4,6,10,0,11,7.84,0,0,1,0,0,24.7,Voiture,5,5,6,1,1,7.74,Faible
+Francoise,Monasse,20,F,Mathematiques,L2,Général,3,0,75.3,2,10,2,9,10.3,3,0,0,1,16,22.9,Voiture,3,5,7,0,0,9.45,Moyen
+Mathieu,Abbes,19,M,Mathematiques,L1,Technologique,2,1,70.8,5,20,2,10,11.97,3,1,0,0,0,19.4,Transport en commun,4,5,7,1,1,12.91,Bon
+Ayedi,Haddad,23,F,Droit,M1,Technologique,2,1,70.1,4,14,4,11,9.18,0,1,0,0,0,26.2,Voiture,4,5,7,0,1,14.13,Bon
+Kenza,Kouleta,21,F,Sciences,L3,Général,3,1,83.2,3,9,4,6,12.85,1,0,0,1,25,15.4,Transport en commun,2,6,7,1,1,10.28,Moyen
+Grace,Ahmat,22,F,Lettres,L2,Général,3,0,70.8,6,12,3,11,9.68,0,0,1,0,0,5.4,Transport en commun,5,5,5,0,1,11.08,Moyen
+Abdoul,Traye Balezin,22,M,Gestion,L3,Professionnel,4,1,69.1,5,16,3,8,12.54,5,1,0,1,20,43.8,Voiture,0,8,6,0,1,12.05,Bon
+Sara,Gakosso,22,F,Gestion,L2,Général,0,1,95.8,0,14,3,7,12.08,3,0,1,0,0,0.5,Vélo/Marche,4,7,6,1,1,11.34,Moyen
+Kouaho,Attias,22,M,Lettres,M1,Général,2,0,46.2,7,19,2,11,12.52,1,1,1,1,8,8.2,Transport en commun,5,5,9,1,1,11.49,Moyen
+Sandrine,Ahmat,20,F,Sciences,L2,Professionnel,3,0,73.2,3,7,2,8,5.67,2,1,1,1,8,23.5,Voiture,2,3,6,1,1,6.97,Faible
+Lyes,Boudine-Mervillon,22,M,Sciences,L2,Technologique,3,0,88.9,2,16,3,10,14.97,1,1,1,1,25,10.0,Transport en commun,3,7,6,1,1,15.61,Excellent
+Abdoul,Sossoumihen,25,M,Informatique,M2,Général,2,0,84.0,2,9,5,2,7.51,2,1,1,0,0,0.5,Vélo/Marche,3,5,6,1,1,7.01,Faible
+Grace,Rakotonjanahary,21,F,Lettres,L1,Technologique,1,1,90.3,1,12,3,11,10.09,3,0,1,0,0,1.2,Vélo/Marche,4,5,10,1,1,14.23,Bon
+Boussad,Montanary,20,M,Gestion,L1,Technologique,3,1,100.0,1,8,3,12,8.35,1,1,1,0,0,18.8,Transport en commun,4,3,8,0,0,15.21,Excellent
+Omar,Lehie-Bi,21,M,Psychologie,L3,Général,2,0,100.0,0,10,3,9,11.07,4,1,1,0,0,60.3,Logement sur place,3,6,5,0,1,12.32,Bon
+Dourra,Moudjalou mombo,25,F,Sciences,M2,Général,0,1,55.5,4,12,2,8,10.38,2,1,1,1,20,14.4,Transport en commun,4,10,8,0,0,7.22,Faible
+Kenza,Martinez,20,F,Lettres,L2,Général,2,1,48.2,6,14,3,8,13.27,0,1,1,0,0,12.7,Transport en commun,2,4,5,1,1,10.27,Moyen
+Taisir,Tobada,21,F,Informatique,L1,Professionnel,1,1,79.2,4,11,2,10,10.97,2,1,1,0,0,6.9,Transport en commun,2,7,7,1,0,9.52,Moyen
+Khady,Coly,20,F,Sciences,L2,Technologique,1,0,52.3,6,0,2,8,9.31,2,1,1,1,8,5.3,Transport en commun,3,8,9,1,1,3.83,Faible
+Syrine,Keita,21,F,Informatique,L2,Général,0,1,43.2,6,11,3,11,3.97,4,0,0,1,20,0.5,Vélo/Marche,4,4,3,0,1,3.37,Faible
+Beni,Et touil mendez,19,M,Mathematiques,L1,Technologique,2,0,79.1,4,18,3,12,14.16,1,0,0,1,12,5.7,Transport en commun,2,0,5,0,0,12.99,Bon
+Anas,Terkmani,23,M,Informatique,L3,Général,2,0,83.1,2,11,2,11,12.77,1,0,1,0,0,10.7,Transport en commun,4,7,7,1,1,13.43,Bon
+Nicolas,Dushime,23,M,Sciences,M2,Général,2,0,100.0,0,18,3,9,14.32,2,1,0,0,0,4.0,Vélo/Marche,3,6,6,0,1,15.58,Excellent
+Louange,Djokpo,21,F,Mathematiques,L2,Général,2,0,86.3,1,10,3,6,10.1,2,1,1,0,0,1.6,Vélo/Marche,4,6,7,1,1,11.3,Moyen
+Naela,Nait mohamed,21,F,Gestion,L2,Général,3,1,100.0,1,3,3,8,12.16,1,0,0,0,0,22.8,Voiture,0,6,7,0,0,9.44,Moyen
+Jonathan,Sossoumihen,20,M,Droit,L2,Technologique,1,0,79.7,3,9,4,9,8.32,5,0,1,0,0,40.5,Voiture,4,8,4,0,1,8.2,Moyen
+Yacine,Dione,21,M,Mathematiques,L1,Général,1,0,55.8,6,8,2,6,7.97,1,1,1,1,25,49.7,Voiture,3,5,8,1,1,3.55,Faible
+Leilath,Wu,23,F,Lettres,M1,Technologique,3,0,87.2,1,10,5,12,9.72,1,0,0,0,0,17.3,Transport en commun,5,10,4,0,1,12.38,Bon
+Steph,Rakotonjanahary,21,M,Gestion,L2,Général,1,1,95.3,0,5,3,10,14.3,4,0,1,0,0,1.0,Vélo/Marche,4,7,7,0,1,14.82,Bon
+Manal,Makila,20,F,Informatique,L2,Général,4,0,80.3,2,11,4,6,9.76,0,0,1,0,0,24.3,Voiture,4,8,6,1,1,10.38,Moyen
+Lea,Kuzmenko,22,F,Psychologie,L3,Professionnel,3,1,97.2,4,9,3,5,10.59,1,0,1,0,0,2.1,Vélo/Marche,5,6,10,1,1,11.86,Moyen
+Grace,Dagou,21,F,Informatique,L2,Général,2,0,72.0,5,17,1,11,11.72,2,1,1,0,0,19.9,Transport en commun,4,6,7,1,1,11.01,Moyen
+Francis,Khalil,23,M,Gestion,L3,Général,4,0,82.7,2,5,0,5,10.9,0,0,0,0,0,27.2,Voiture,2,2,7,1,0,9.05,Moyen
+Naela,Ganda-Te-Grembombo,21,F,Lettres,L1,Général,0,0,71.2,4,12,3,9,14.65,5,0,1,0,0,23.3,Voiture,4,4,8,0,1,9.97,Moyen
+Bintou,Montanary,24,F,Sciences,M1,Technologique,1,0,100.0,0,13,3,8,7.96,2,1,0,0,0,54.6,Logement sur place,4,8,7,0,0,11.93,Moyen
+Leilath,Montean,23,F,Sciences,M2,Général,2,0,87.5,3,15,3,11,11.18,2,0,0,0,0,24.1,Voiture,3,5,7,1,1,14.81,Bon
+Esther,El malki,22,F,Mathematiques,L3,Général,1,0,56.1,5,9,2,11,12.6,0,0,1,1,12,21.3,Voiture,4,3,5,0,1,7.44,Faible
+Daro,Richir,23,F,Informatique,M2,Général,4,1,100.0,1,12,2,7,4.56,1,1,1,0,0,5.5,Transport en commun,4,4,7,0,1,11.85,Moyen
+Wahiba,Alasabi,20,F,Sciences,L1,Général,0,1,62.3,7,13,2,11,11.81,2,1,1,0,0,46.6,Voiture,5,4,3,1,0,7.37,Faible
+Francis,Koyakosso esso,21,M,Lettres,L2,Technologique,2,0,74.2,3,3,3,8,15.9,2,0,1,1,25,3.6,Vélo/Marche,5,5,8,0,1,10.45,Moyen
+Kenza,Conde,22,F,Psychologie,L3,Général,2,0,81.5,3,9,2,9,9.47,3,0,0,0,0,42.4,Voiture,2,4,10,1,1,7.26,Faible
+Eva,Dushime,23,F,Psychologie,L3,Général,2,1,82.8,3,11,3,9,6.68,1,0,1,1,16,6.7,Transport en commun,3,9,7,0,1,10.5,Moyen
+Mohamed,Dede,20,M,Psychologie,L2,Général,1,0,81.7,3,11,2,12,12.57,2,1,1,1,25,2.5,Vélo/Marche,1,6,7,0,1,11.68,Moyen
+Marie,Badaoui,20,F,Gestion,L2,Général,1,0,55.9,4,11,3,9,11.48,1,0,0,0,0,31.5,Voiture,2,2,4,0,0,7.58,Faible
+Bintou,Koyakosso esso,20,F,Mathematiques,L1,Professionnel,3,1,81.8,3,13,1,5,16.59,2,0,1,1,20,0.5,Vélo/Marche,4,9,5,1,1,12.98,Bon
+Safiatou,Belatar,20,F,Psychologie,L2,Général,1,1,91.6,3,21,1,7,12.46,2,0,1,1,20,32.1,Voiture,3,5,8,0,1,10.95,Moyen
+Simeon,El abi,21,M,Gestion,L1,Professionnel,3,0,91.1,2,8,3,11,7.21,0,1,0,0,0,5.5,Transport en commun,3,7,4,1,1,11.69,Moyen
+Anas,Faviere--Prado,21,M,Informatique,L3,Général,2,0,53.2,7,13,3,8,7.04,2,0,1,1,16,38.9,Voiture,4,6,5,1,1,5.87,Faible
+Elodie,Dede,20,F,Psychologie,L1,Général,3,0,63.5,5,18,1,9,14.07,0,1,1,0,0,21.2,Voiture,4,6,8,0,1,12.98,Bon
+Catherine,Dagou,21,F,Droit,L1,Technologique,2,1,57.3,5,2,4,8,12.16,2,0,0,0,0,19.7,Transport en commun,2,5,8,1,1,7.71,Faible
+Emmanuel,Terkmani,23,M,Gestion,L3,Général,1,0,79.4,3,12,2,2,10.58,2,0,1,1,12,8.2,Transport en commun,2,6,7,1,1,8.58,Moyen
+Bintou,Andriamampianina,22,F,Informatique,L3,Technologique,2,0,49.2,6,3,2,7,11.46,0,1,1,1,8,1.1,Vélo/Marche,3,5,7,1,0,9.82,Moyen
+Delicia,Ursini,22,F,Gestion,M1,Professionnel,3,0,56.0,5,22,1,9,12.48,4,1,1,1,25,31.9,Voiture,3,6,7,0,1,11.21,Moyen
+Esther,Tchassama,22,F,Psychologie,L3,Général,2,0,63.4,7,14,2,5,12.22,2,1,1,0,0,3.4,Vélo/Marche,5,5,5,1,1,9.66,Moyen
+Belicia,Irakoze,20,F,Droit,L2,Général,4,1,45.3,7,13,2,6,5.08,4,1,1,1,20,8.4,Transport en commun,4,5,7,1,1,6.65,Faible
+Emmanuel,Roumagnac,22,M,Mathematiques,M1,Technologique,2,1,73.6,5,2,2,8,15.42,0,0,1,1,16,16.5,Transport en commun,3,2,7,0,1,10.72,Moyen
+Youssef,Djokpo,22,M,Informatique,L2,Général,1,1,40.3,6,8,3,8,15.68,4,1,0,0,0,11.8,Transport en commun,4,5,7,0,1,9.03,Moyen
+Eric,Djema,20,M,Psychologie,L1,Général,1,0,81.8,3,9,2,10,17.68,0,0,1,1,25,4.0,Vélo/Marche,2,6,3,0,0,10.75,Moyen
+Paola,Abbes,23,F,Gestion,L3,Général,4,0,67.6,6,20,3,8,16.85,2,0,0,0,0,2.7,Vélo/Marche,4,10,10,0,1,15.44,Excellent
+Cheikh,Motondo masengi,24,M,Lettres,M2,Général,1,0,64.0,4,15,1,10,16.21,4,1,1,0,0,2.4,Vélo/Marche,2,7,5,0,1,9.31,Moyen
+Hirche Luca,Baouya,21,M,Droit,L2,Technologique,3,0,66.6,4,3,2,7,9.71,1,1,1,0,0,35.8,Voiture,4,4,7,1,0,8.31,Moyen
+Abdoul,Intwari,21,M,Informatique,L1,Général,3,1,73.0,5,13,0,10,11.95,0,1,0,0,0,0.6,Vélo/Marche,3,3,7,0,1,8.98,Moyen
+Kenza,Haddad,20,F,Sciences,L1,Général,1,0,83.5,2,3,3,12,15.23,3,1,1,1,8,67.9,Logement sur place,1,6,6,1,1,11.04,Moyen
+Elodie,Moudjalou mombo,20,F,Informatique,L1,Général,0,0,95.1,1,3,3,10,3.96,2,1,1,0,0,4.0,Vélo/Marche,2,4,7,1,1,5.06,Faible
+Mamadou,Attias,20,M,Gestion,L2,Général,2,0,90.2,2,13,4,8,9.97,2,0,0,1,25,2.1,Vélo/Marche,3,4,5,1,0,11.46,Moyen
+Jey,Djema,22,M,Psychologie,L3,Général,1,1,100.0,1,15,2,7,4.32,0,1,0,0,0,15.5,Transport en commun,4,4,10,1,1,8.21,Moyen
+Catherine,Kuzmenko,20,F,Gestion,L1,Technologique,3,0,84.8,3,13,4,9,11.87,2,1,1,0,0,1.5,Vélo/Marche,1,5,6,0,1,12.96,Bon
+Nehuan,M'jahad,25,M,Droit,M2,Général,2,0,76.2,4,20,3,8,15.61,0,1,0,1,12,16.6,Transport en commun,4,7,8,1,0,11.25,Moyen
+Youssef,Alabdullah alomar,24,M,Lettres,M1,Technologique,2,0,66.7,4,13,0,10,10.87,4,1,1,0,0,34.2,Voiture,4,1,5,1,1,12.07,Bon
+Jey,Laclau,22,M,Mathematiques,L3,Technologique,3,1,67.2,3,12,2,4,8.64,2,1,1,1,20,0.9,Vélo/Marche,4,8,8,0,1,7.09,Faible
+Boussad,Kouleta,22,M,Mathematiques,M1,Général,1,0,82.6,2,5,2,9,11.88,3,1,1,1,16,29.0,Voiture,4,5,6,0,1,8.87,Moyen
+Augustin,Keita,19,M,Gestion,L1,Général,2,1,58.0,5,15,3,10,12.37,1,0,0,1,25,9.0,Transport en commun,2,4,4,0,1,10.62,Moyen
+Souha,Kamrach,22,F,Gestion,L2,Général,1,1,77.7,2,3,0,9,12.64,4,1,1,0,0,3.1,Vélo/Marche,3,7,5,0,1,9.45,Moyen
+Nehuan,Ulukuz,22,M,Informatique,L3,Général,1,0,73.7,3,21,3,8,6.18,2,0,0,1,30,3.5,Vélo/Marche,5,5,5,0,1,6.27,Faible
+Bintou,Goursolle,23,F,Gestion,M1,Technologique,2,1,62.4,5,15,3,8,11.73,4,0,1,1,30,45.2,Voiture,3,3,7,0,1,10.55,Moyen
+Francois,Roumagnac,22,M,Gestion,M1,Technologique,3,0,57.2,4,25,3,6,11.5,1,0,0,0,0,2.1,Vélo/Marche,3,2,10,0,1,11.79,Moyen
+Belicia,Kamrach,19,F,Sciences,L1,Général,1,1,100.0,2,13,2,10,14.4,3,0,1,1,25,36.3,Voiture,4,7,10,1,1,13.09,Bon
+Miryam,Ursini,23,F,Sciences,M2,Général,2,0,51.7,5,16,3,10,10.51,2,0,1,0,0,14.1,Transport en commun,2,7,6,0,1,8.3,Moyen
+Cheikh,Keita,21,M,Sciences,L1,Professionnel,2,0,72.9,5,10,0,5,18.3,0,0,1,0,0,0.7,Vélo/Marche,4,5,9,1,1,11.19,Moyen
+Hadja,Nait mohamed,23,F,Informatique,M1,Professionnel,1,0,93.6,3,11,0,11,11.11,1,0,0,0,0,11.2,Transport en commun,5,8,5,1,0,9.47,Moyen
+Simeon,Intwari,25,M,Mathematiques,M2,Général,1,0,82.5,4,6,3,7,8.98,0,0,0,1,30,30.6,Voiture,0,6,3,1,1,4.64,Faible
+Louange,Ponnou,20,F,Sciences,L1,Général,4,1,66.4,4,4,2,8,6.99,1,0,1,1,12,23.3,Voiture,4,8,7,0,1,10.02,Moyen
+Ousmane,Toubol,23,M,Gestion,L3,Général,2,0,54.9,6,12,2,12,8.85,1,0,0,0,0,12.1,Transport en commun,2,3,8,1,1,7.74,Faible
+Youssouf,Dede,20,M,Informatique,L1,Professionnel,2,1,76.1,3,11,1,12,7.76,2,1,1,0,0,35.4,Voiture,3,3,8,0,1,8.34,Moyen
+Stone,Adam,20,M,Psychologie,L2,Général,2,0,31.8,8,6,2,5,10.21,2,0,1,1,8,2.3,Vélo/Marche,4,4,9,0,0,3.84,Faible
+Louise,Camara,20,F,Psychologie,L2,Général,0,1,76.7,2,7,0,6,17.21,2,0,1,0,0,43.3,Voiture,4,5,6,1,1,10.3,Moyen
+Mondesire,Monasse,21,F,Lettres,L3,Général,2,0,74.6,3,11,2,6,5.25,0,0,1,0,0,33.7,Voiture,4,8,7,0,0,6.42,Faible
+Leilath,El abi,25,F,Informatique,M2,Général,2,0,91.1,2,6,3,12,5.52,3,0,0,1,8,22.2,Voiture,5,6,8,0,1,8.91,Moyen
+Belicia,Iamundo,21,M,Psychologie,L3,Général,2,0,55.7,5,13,2,7,9.91,4,1,1,1,25,30.7,Voiture,3,4,9,0,0,9.22,Moyen
+Ikram,Ali,21,F,Lettres,L2,Professionnel,1,1,68.8,3,6,5,5,5.62,1,0,0,0,0,14.1,Transport en commun,4,6,5,0,0,3.07,Faible
+Salim,Tobada,24,M,Psychologie,M1,Général,0,0,81.0,2,12,2,12,7.07,0,0,0,0,0,20.2,Voiture,3,5,7,0,1,8.78,Moyen
+Rawaa,El abi,24,F,Psychologie,M2,Général,1,0,77.3,2,5,2,10,12.09,2,0,0,1,12,14.8,Transport en commun,3,4,8,1,1,8.21,Moyen
+Mamadou,Paire,21,M,Psychologie,L1,Général,4,0,52.5,6,5,3,12,10.6,3,1,1,1,30,7.9,Transport en commun,3,5,7,0,1,10.07,Moyen
+Jihad,Piquer,24,M,Lettres,M2,Général,2,1,63.6,7,0,1,10,12.47,2,1,1,0,0,15.1,Transport en commun,4,5,6,1,1,10.48,Moyen
+Yacine,Dagou,20,M,Informatique,L1,Général,2,0,96.4,0,10,4,9,13.05,2,0,1,0,0,5.4,Transport en commun,3,4,7,1,1,13.27,Bon
+Louis,Cabrera belmar,24,M,Sciences,M1,Général,0,0,78.1,4,18,3,10,15.9,0,0,0,0,0,10.4,Transport en commun,4,4,8,1,1,12.08,Bon
+Ikram,Adjagbe,21,F,Sciences,L1,Général,0,0,47.4,5,18,1,8,12.24,3,0,1,1,12,5.9,Transport en commun,4,7,5,1,1,6.01,Faible
+Georges,Keita,19,M,Sciences,L1,Général,2,1,88.1,1,13,4,12,15.38,1,1,1,1,20,2.4,Vélo/Marche,0,6,5,1,1,14.15,Bon
+Ayedi,Ovono etoubembe,20,F,Informatique,L2,Général,2,1,48.4,6,1,0,12,11.21,1,0,0,0,0,7.0,Transport en commun,3,8,10,1,1,7.9,Faible
+Hugo,Adam,22,M,Informatique,L3,Général,2,0,69.1,4,15,5,5,12.28,0,0,0,1,12,34.4,Voiture,3,5,7,1,1,9.75,Moyen
+Abigail,Lehie-Bi,21,F,Droit,L2,Professionnel,1,0,83.0,3,12,4,11,12.23,1,0,1,1,8,8.6,Transport en commun,3,3,8,0,1,11.39,Moyen
+Akoete,Sall,20,M,Sciences,L1,Professionnel,3,0,93.4,1,9,3,6,11.88,2,0,1,1,20,24.8,Voiture,4,4,7,1,1,13.86,Bon
+Olafemi,Tourret,23,M,Droit,L3,Général,1,0,36.6,9,17,1,12,11.58,2,0,0,1,20,3.5,Vélo/Marche,3,8,9,1,1,7.34,Faible
+Mouniratou,Le page,25,F,Psychologie,M2,Général,1,0,85.4,2,14,1,12,17.72,5,0,1,0,0,9.9,Transport en commun,4,2,7,1,1,14.68,Bon
+Railey,Dahouede,20,M,Lettres,L2,Professionnel,2,1,87.8,3,21,2,6,13.45,0,0,0,0,0,2.2,Vélo/Marche,4,9,8,1,1,12.78,Bon
+Stone,Adam,20,M,Sciences,L1,Général,1,0,65.1,3,4,2,10,9.1,5,0,1,1,25,2.7,Vélo/Marche,3,3,5,0,1,7.44,Faible
+Audrey,Kaba,20,F,Droit,L2,Technologique,1,1,75.5,2,4,2,11,19.71,2,1,0,1,25,17.3,Transport en commun,4,7,4,0,1,14.28,Bon
+Rama,Attias,21,F,Lettres,L1,Professionnel,2,0,25.2,8,5,5,7,9.37,2,0,0,0,0,16.8,Transport en commun,0,3,6,1,1,7.45,Faible
+Jihad,Gbizie,24,M,Sciences,M1,Général,2,1,30.0,7,10,2,6,10.78,4,1,1,1,20,4.3,Vélo/Marche,0,4,4,0,1,7.17,Faible
+Mathieu,Essabe mbome oye,24,M,Informatique,M1,Général,3,0,91.7,1,19,3,9,7.64,2,1,1,0,0,11.6,Transport en commun,1,1,3,1,1,12.46,Bon
+Sara,Djema,21,F,Gestion,L3,Professionnel,2,0,65.4,4,8,3,9,13.53,1,1,1,0,0,35.8,Voiture,3,10,7,0,0,12.52,Bon
+Anas,Mbengue,22,M,Sciences,L2,Général,0,0,68.5,4,8,4,7,17.22,4,1,1,0,0,3.4,Vélo/Marche,2,7,4,1,1,9.92,Moyen
+Yowan,Ganda-Te-Grembombo,23,M,Mathematiques,M1,Général,1,0,77.8,2,13,0,12,5.13,2,0,1,1,20,0.5,Vélo/Marche,5,7,9,1,1,4.59,Faible
+Hirche Luca,Dushime,21,M,Mathematiques,L3,Général,4,0,68.1,5,15,2,6,9.75,2,0,1,1,8,19.0,Transport en commun,3,4,9,0,1,11.21,Moyen
+Mouniratou,Roumagnac,24,F,Mathematiques,M1,Général,2,1,66.7,5,0,4,9,15.04,4,1,1,0,0,1.0,Vélo/Marche,4,3,4,0,1,13.02,Bon
+Ikram,Bensmaine,21,F,Mathematiques,L3,Technologique,2,1,80.3,2,16,4,9,6.77,1,1,1,1,25,70.4,Logement sur place,2,7,7,0,1,10.31,Moyen
+Djidou,Crespo,22,M,Mathematiques,M1,Technologique,0,0,50.1,6,8,4,10,12.98,2,0,1,1,25,16.9,Transport en commun,2,3,10,1,1,7.75,Faible
+Youssef,Cabrera belmar,23,M,Gestion,L3,Professionnel,2,0,92.6,3,10,3,12,5.85,3,0,1,1,25,11.4,Transport en commun,2,5,6,1,0,8.66,Moyen
+Ahmed,Belatar,22,M,Droit,L2,Général,0,0,70.3,4,18,2,8,12.35,2,1,0,0,0,10.1,Transport en commun,4,3,8,0,1,11.24,Moyen
+Rawaa,Montean,23,F,Lettres,M2,Général,2,0,57.9,5,10,3,2,11.1,0,1,1,0,0,15.3,Transport en commun,3,6,10,0,1,8.77,Moyen
+Ahmed,Ulukuz,20,M,Informatique,L2,Général,4,0,55.8,6,3,0,8,20.0,3,0,0,0,0,1.7,Vélo/Marche,3,1,4,1,0,12.61,Bon
+Abdoul,Martinez,23,M,Informatique,L3,Général,4,1,74.7,5,4,3,11,13.63,0,1,1,1,16,47.9,Voiture,3,2,5,1,1,12.19,Bon
+Awa,Paucarima,20,F,Sciences,L1,Général,2,1,69.1,7,11,3,9,2.54,3,0,0,1,12,17.7,Transport en commun,4,4,8,0,1,5.12,Faible
+Akoete,Hounhuedo,21,M,Gestion,L3,Professionnel,2,1,49.2,6,9,3,9,10.52,4,0,0,1,16,3.7,Vélo/Marche,1,7,10,0,1,6.83,Faible
+Naela,Ponnou,21,F,Psychologie,L3,Technologique,4,0,64.4,5,11,5,10,13.93,1,0,0,1,25,14.9,Transport en commun,4,4,6,1,1,13.49,Bon
+Vincent,Chan,20,M,Sciences,L1,Général,2,1,61.1,5,9,3,11,9.23,0,0,1,0,0,2.6,Vélo/Marche,3,8,10,1,1,10.1,Moyen
+Cheikh,Motondo masengi,21,M,Psychologie,L1,Général,0,1,94.2,1,17,2,5,9.07,1,1,0,1,20,0.5,Vélo/Marche,4,9,7,1,1,8.16,Moyen
+Belicia,Manantsoa,23,M,Mathematiques,L3,Général,2,0,76.1,2,11,1,9,9.25,2,0,1,0,0,17.9,Transport en commun,2,5,3,1,0,8.55,Moyen
+Rawaa,Chanwin,23,F,Sciences,M1,Général,1,0,99.1,0,2,4,9,12.88,4,1,1,0,0,18.8,Transport en commun,3,2,10,1,1,13.36,Bon
+Miryam,Jday,22,F,Mathematiques,L2,Technologique,2,1,62.6,5,15,1,9,6.03,2,0,0,0,0,15.8,Transport en commun,2,8,6,1,1,9.6,Moyen
+Safiatou,Dede,21,F,Droit,L1,Général,2,0,69.3,3,21,1,4,8.67,0,0,1,1,20,3.6,Vélo/Marche,5,2,8,1,1,8.41,Moyen
+Nehuan,Garcia,21,M,Sciences,L3,Professionnel,2,0,80.2,2,12,1,12,14.73,2,0,0,1,25,16.6,Transport en commun,3,4,4,0,1,13.36,Bon
+Dania,Bensmaine,19,F,Mathematiques,L1,Général,1,0,83.7,4,12,3,9,8.95,3,1,1,0,0,1.0,Vélo/Marche,5,2,5,0,1,9.89,Moyen
+Vincent,Moenza,20,M,Mathematiques,L2,Général,1,0,85.5,2,7,1,10,8.72,1,0,1,0,0,16.9,Transport en commun,3,8,4,0,0,7.05,Faible
+Boussad,Iamundo,20,M,Informatique,L1,Technologique,2,0,59.8,4,10,5,12,5.57,3,1,0,0,0,14.5,Transport en commun,2,7,4,1,1,6.04,Faible
+Elodie,Dusabe,21,F,Sciences,L1,Général,3,1,60.2,5,14,5,10,13.25,1,0,0,1,16,19.2,Transport en commun,3,9,7,1,1,14.3,Bon
+Omar,Fall,21,M,Mathematiques,L1,Général,2,1,68.3,4,17,5,5,12.42,3,0,1,1,12,40.7,Voiture,0,5,8,0,1,11.47,Moyen
+Louis,Paire,20,M,Lettres,L2,Général,1,1,97.7,1,13,0,9,14.49,1,0,1,1,20,34.2,Voiture,5,4,6,1,1,13.29,Bon
+Yacine,Martins,19,M,Mathematiques,L1,Général,4,0,58.0,6,20,5,11,10.37,1,0,0,1,25,71.0,Logement sur place,4,4,4,0,1,10.47,Moyen
+Harold,Rakotonjanahary,21,M,Sciences,L2,Technologique,4,1,65.6,4,11,5,9,12.0,4,1,0,0,0,67.3,Logement sur place,4,3,5,0,1,12.92,Bon
+Boussad,Cihyoka,22,M,Psychologie,L2,Général,1,0,85.7,2,5,5,12,11.97,2,1,1,0,0,26.6,Voiture,3,9,7,0,1,11.75,Moyen
+Elodie,Ait mahammed,21,F,Psychologie,L2,Technologique,0,0,84.8,2,6,3,7,5.39,1,1,0,0,0,56.4,Logement sur place,3,10,7,1,1,4.87,Faible
+Yacine,Et touil mendez,22,M,Psychologie,L2,Général,3,0,82.9,3,17,3,12,19.74,4,1,1,0,0,36.4,Voiture,5,4,7,1,1,20.0,Excellent
+Taisir,Gbizie,23,F,Informatique,M1,Général,3,0,75.3,3,16,1,11,14.52,2,1,1,0,0,23.4,Voiture,2,7,10,1,1,17.2,Excellent
+Jessica,Dupont,19,F,Informatique,L1,Technologique,4,1,57.0,4,3,4,9,11.1,1,1,0,0,0,1.4,Vélo/Marche,4,5,8,1,1,11.91,Moyen
+Omar,Wu,21,M,Sciences,L2,Général,3,0,62.9,5,10,0,10,9.95,2,1,1,1,20,0.9,Vélo/Marche,3,6,8,0,1,8.07,Moyen
+Hirche Luca,Baouya,20,M,Gestion,L1,Général,2,0,92.0,2,10,2,7,15.83,4,1,1,0,0,32.7,Voiture,5,8,10,1,1,13.43,Bon
+Belicia,Ulukuz,19,M,Gestion,L1,Général,2,0,86.4,1,7,5,8,11.16,2,0,1,0,0,12.1,Transport en commun,4,3,6,0,1,11.29,Moyen
+Louange,Richir,23,F,Informatique,L3,Général,0,1,52.6,5,4,2,10,14.27,1,0,1,1,20,30.3,Voiture,5,4,10,0,1,7.17,Faible
+Salim,Tchassama,23,M,Mathematiques,L3,Général,1,0,87.9,1,7,1,9,8.6,2,1,1,0,0,6.8,Transport en commun,3,8,9,0,1,7.95,Faible
+Jessica,Dushime,22,F,Informatique,M1,Général,2,1,94.9,1,6,5,9,7.47,2,0,1,1,30,9.1,Transport en commun,2,7,6,0,1,8.92,Moyen
+Youssef,Nait mohamed,22,M,Psychologie,L3,Général,2,0,74.9,4,4,5,11,10.19,3,0,0,1,16,21.7,Voiture,3,6,8,0,1,9.91,Moyen
+Vavo,Crespo,24,F,Mathematiques,M2,Général,2,0,80.8,3,15,1,4,10.84,0,1,1,0,0,44.4,Voiture,4,7,6,0,1,10.72,Moyen
+Djidou,Gaye,20,M,Lettres,L1,Professionnel,3,1,90.2,1,12,4,10,12.41,2,0,1,1,30,1.7,Vélo/Marche,4,7,4,1,1,13.37,Bon
+Marie Paul,Grosdoy,21,M,Informatique,L1,Général,1,0,62.9,6,9,2,12,16.37,0,1,0,0,0,35.6,Voiture,0,8,7,0,0,10.27,Moyen
+Safiatou,Sossoumihen,20,F,Sciences,L1,Technologique,2,0,100.0,2,1,2,8,15.03,2,0,1,0,0,28.4,Voiture,3,7,4,1,1,14.96,Bon
+Catherine,Ouattara,21,F,Mathematiques,L1,Général,0,1,93.6,1,10,2,6,15.81,5,1,1,0,0,6.8,Transport en commun,2,5,7,0,1,11.05,Moyen
+Beni,Gbizie,21,M,Droit,L2,Général,2,0,82.4,3,14,0,8,8.02,0,0,1,1,8,7.9,Transport en commun,4,6,8,0,1,8.61,Moyen
+Daro,Chan,21,F,Droit,L3,Technologique,3,1,73.4,5,7,2,5,9.68,1,1,0,0,0,0.9,Vélo/Marche,2,5,6,0,1,6.29,Faible
+Ayedi,Sangwe,19,F,Mathematiques,L1,Général,2,0,81.9,2,5,0,10,14.48,2,1,1,0,0,0.5,Vélo/Marche,4,4,7,0,1,11.48,Moyen
+Syrine,Nait mohamed,25,F,Droit,M2,Technologique,4,0,49.0,6,10,4,9,15.42,3,1,1,1,8,11.7,Transport en commun,2,5,7,0,1,11.96,Moyen
+Blanche,Moudjalou mombo,24,F,Droit,M1,Général,1,0,100.0,3,13,3,10,13.62,1,0,1,0,0,1.8,Vélo/Marche,3,5,8,1,1,12.42,Bon
+Malik-Adjhacy,Grosdoy,19,M,Psychologie,L1,Général,2,0,92.1,2,1,4,9,8.66,2,0,1,0,0,3.9,Vélo/Marche,5,2,7,1,1,8.95,Moyen
+Abdou,Pham Huu,19,M,Psychologie,L1,Général,1,1,97.4,0,18,3,9,6.84,4,1,1,1,25,33.8,Voiture,2,7,6,0,1,8.02,Moyen
+Jonathan,Koyakosso esso,20,M,Mathematiques,L1,Général,2,1,74.5,5,5,1,10,11.69,3,1,1,0,0,15.2,Transport en commun,1,8,8,0,1,8.88,Moyen
+Ikram,Giraud,19,F,Lettres,L1,Technologique,3,0,68.2,3,9,5,6,7.41,3,1,0,1,25,18.1,Transport en commun,1,7,7,1,1,9.18,Moyen
+Catherine,Iamundo,21,F,Informatique,L1,Général,2,0,63.2,4,17,4,10,12.55,1,1,1,1,20,3.7,Vélo/Marche,3,7,3,0,1,10.37,Moyen
+Seyed,Djema,20,M,Informatique,L2,Professionnel,3,1,87.0,2,12,2,12,15.55,4,0,0,1,12,31.8,Voiture,3,5,6,0,1,11.93,Moyen
+Kouaho,Agbagno,21,M,Droit,L1,Professionnel,1,0,65.8,3,16,1,7,11.52,1,0,1,1,8,36.4,Voiture,2,4,6,1,1,9.35,Moyen
+Leilath,Montean,22,F,Mathematiques,L2,Général,3,0,71.0,3,19,3,10,5.84,1,1,1,1,8,13.3,Transport en commun,4,8,7,1,1,11.09,Moyen
+Louange,El abi,24,F,Sciences,M2,Général,0,0,82.7,4,4,3,12,8.86,1,1,0,1,16,43.9,Voiture,1,3,7,1,1,8.05,Moyen
+Ayedi,Ekoga bideng,22,F,Psychologie,L3,Technologique,3,0,63.5,5,16,4,6,14.09,2,0,1,1,20,33.5,Voiture,4,3,3,1,1,11.27,Moyen
+Harold,Ahmat,24,M,Psychologie,M2,Professionnel,1,1,90.7,2,18,0,11,12.6,4,0,1,1,8,23.7,Voiture,4,6,4,0,1,10.8,Moyen
+Khamal,Faviere--Prado,20,M,Droit,L1,Général,1,1,73.7,3,9,1,8,12.9,0,1,0,1,8,23.8,Voiture,5,6,5,0,1,7.91,Faible
+Akoete,Redombo-Agnorogoule,20,M,Mathematiques,L2,Général,2,0,49.9,5,10,3,12,17.52,3,1,0,1,20,2.0,Vélo/Marche,5,8,7,0,0,10.9,Moyen
+Mariamari,Toubol,22,F,Informatique,L3,Général,4,1,63.3,5,1,3,7,12.13,3,0,0,0,0,5.7,Transport en commun,3,2,9,1,1,9.77,Moyen
+Louis,Chan,19,M,Gestion,L1,Technologique,0,0,94.9,2,15,0,9,12.01,2,0,0,1,30,1.2,Vélo/Marche,3,5,4,1,1,8.2,Moyen
+Tova,Ponnou,20,F,Informatique,L1,Général,1,0,59.0,4,0,2,5,14.06,3,0,1,0,0,0.5,Vélo/Marche,4,3,6,0,1,7.44,Faible
+Mamadou,Redombo-Agnorogoule,22,M,Informatique,L3,Technologique,3,0,88.3,3,16,3,10,6.34,0,0,1,0,0,3.1,Vélo/Marche,1,7,7,0,1,10.55,Moyen
+Magnificath,Conde,23,F,Gestion,L3,Général,1,1,75.9,2,4,3,10,9.11,0,1,0,0,0,38.2,Voiture,2,8,5,0,1,6.36,Faible
+Francoise,Rakotonjanahary,20,F,Psychologie,L2,Général,1,0,71.3,4,18,2,10,7.99,4,1,1,1,25,4.9,Vélo/Marche,1,7,7,0,1,7.6,Faible
+Jessica,Mbengue,22,F,Lettres,L2,Général,2,0,100.0,1,13,2,10,13.29,2,1,1,0,0,63.2,Logement sur place,3,4,8,0,1,13.45,Bon
+Steph,Coly,21,M,Mathematiques,L2,Général,1,0,53.5,5,16,4,9,7.31,1,1,1,1,20,16.4,Transport en commun,3,4,5,1,1,5.29,Faible
+Boussad,Kouleta,19,M,Sciences,L1,Général,4,0,62.2,5,7,5,5,12.94,2,0,0,1,8,4.9,Vélo/Marche,2,5,7,1,1,12.1,Bon
+Nehuan,Senin,21,M,Mathematiques,L2,Général,3,0,73.6,3,4,2,11,9.98,4,1,1,0,0,12.4,Transport en commun,0,4,7,0,0,8.93,Moyen
+Rawaa,Bamba,21,F,Informatique,L1,Général,2,1,100.0,1,2,2,9,9.45,2,1,1,1,30,4.5,Vélo/Marche,4,5,5,0,0,6.73,Faible
+Clarissia,Nait mohamed,19,F,Psychologie,L1,Général,4,0,73.7,3,16,5,10,14.26,1,1,1,1,25,74.4,Logement sur place,0,4,7,0,1,16.09,Excellent
+Mouniratou,Camara,25,F,Sciences,M2,Général,2,1,78.4,3,14,2,9,5.74,2,0,1,1,20,33.8,Voiture,5,2,8,0,1,8.36,Moyen
+Syrine,Irakoze,22,F,Psychologie,L3,Professionnel,0,0,68.6,3,14,3,12,8.94,3,1,0,0,0,0.5,Vélo/Marche,2,6,9,0,1,9.24,Moyen
+Magnificath,Faviere--Prado,22,F,Informatique,L3,Général,1,0,79.7,5,12,3,8,20.0,0,1,1,0,0,53.1,Logement sur place,4,7,10,1,1,15.57,Excellent
+Stone,Richir,21,M,Psychologie,L2,Général,2,0,69.6,3,14,2,7,17.83,1,0,1,1,16,23.0,Voiture,3,9,6,0,1,11.06,Moyen
+Evadnee,Traye Balezin,20,F,Sciences,L2,Général,1,0,85.1,3,10,3,5,3.91,2,0,1,0,0,1.5,Vélo/Marche,1,5,6,1,1,6.78,Faible
+Stone,Moudjalou mombo,21,M,Lettres,L1,Professionnel,4,0,86.4,2,13,3,9,8.87,2,1,1,0,0,20.0,Voiture,3,1,7,1,0,11.49,Moyen
+Henoc,Ben jeddou,21,M,Sciences,L1,Général,3,0,70.3,3,7,3,12,11.04,1,1,1,0,0,18.7,Transport en commun,3,7,6,1,1,11.11,Moyen
+Manal,Goursolle,20,F,Psychologie,L1,Technologique,1,1,56.0,6,9,1,9,5.44,1,0,1,1,12,4.4,Vélo/Marche,4,8,9,0,1,3.05,Faible
+Ousmane,Grosdoy,24,M,Lettres,M1,Technologique,2,1,75.5,2,26,5,10,18.47,0,0,1,0,0,25.6,Voiture,4,8,7,1,1,17.34,Excellent
+Hafizou,Dushime,21,M,Lettres,L3,Général,2,0,96.4,1,11,2,11,10.91,0,0,0,1,20,1.6,Vélo/Marche,1,9,7,1,1,12.16,Bon
+Tova,Terkmani,21,F,Droit,L2,Général,4,0,60.8,4,1,3,9,10.09,1,0,1,1,20,12.1,Transport en commun,2,9,8,0,1,8.49,Moyen
+Nehuan,Moudjalou mombo,21,M,Psychologie,L2,Technologique,3,0,79.3,4,9,4,12,12.25,2,1,1,1,8,0.5,Vélo/Marche,2,3,7,0,1,11.51,Moyen
+Ikram,Khelouat,24,F,Gestion,M2,Général,2,0,54.7,8,6,2,12,12.19,2,0,1,0,0,62.4,Logement sur place,1,9,7,1,1,6.06,Faible
+Belicia,Elcadhi,19,M,Sciences,L1,Général,3,0,57.4,6,12,3,8,7.55,2,0,1,0,0,25.1,Voiture,3,5,7,0,1,11.11,Moyen
+Omar,Prevost-Debaisieux,20,M,Gestion,L1,Technologique,2,1,94.8,1,7,5,5,15.8,1,1,1,0,0,3.1,Vélo/Marche,5,7,7,0,1,13.94,Bon
+Koulbou,Kouleta,21,M,Mathematiques,L2,Général,2,0,85.1,2,10,2,11,11.42,1,0,1,0,0,7.5,Transport en commun,3,6,5,0,1,10.21,Moyen
+Omar,Sall,23,M,Lettres,M1,Technologique,0,0,79.6,2,7,2,10,15.77,1,1,1,0,0,3.2,Vélo/Marche,4,3,10,0,1,13.72,Bon
+Mageda,Dengue matsogni,24,F,Droit,M2,Général,1,0,36.9,9,12,4,6,8.61,0,0,0,0,0,26.2,Voiture,4,8,5,0,1,2.13,Faible
+Anas,Manantsoa,21,M,Droit,L1,Technologique,2,0,65.2,3,8,1,7,3.98,0,1,0,1,20,1.1,Vélo/Marche,4,4,10,0,1,6.95,Faible
+Miryam,Moudjalou mombo,23,F,Mathematiques,M1,Général,1,1,83.7,3,13,0,7,16.26,1,1,0,1,8,33.0,Voiture,2,10,7,1,1,9.89,Moyen
+Yassine,El abi,22,M,Lettres,M1,Général,0,0,50.8,6,21,4,9,13.61,5,0,1,1,12,51.3,Logement sur place,4,4,6,0,1,10.9,Moyen
+Grace,Khalil,20,F,Mathematiques,L1,Général,2,0,68.3,5,5,4,11,15.24,1,1,0,0,0,20.3,Voiture,4,3,8,1,1,12.3,Bon
+Naela,Roumagnac,21,F,Droit,L2,Professionnel,0,1,86.3,2,15,5,12,15.47,4,1,0,1,20,4.3,Vélo/Marche,2,4,8,1,1,11.85,Moyen
+Clarissia,Belatar,22,F,Droit,L2,Général,2,0,49.8,5,0,0,11,10.87,1,1,0,0,0,8.0,Transport en commun,2,9,10,0,1,6.15,Faible
+Mikael,Diop desbonnet,24,M,Sciences,M2,Général,2,1,47.1,6,10,1,8,9.41,1,0,0,1,12,11.7,Transport en commun,5,2,4,1,0,7.76,Faible
+CédricThomas,Tchassama,21,M,Psychologie,L1,Général,4,0,50.1,6,12,1,12,10.45,3,0,1,0,0,16.7,Transport en commun,4,8,7,1,1,7.23,Faible
+Khamal,M'jahad,22,M,Sciences,M1,Général,2,0,79.4,2,7,3,9,12.9,0,0,1,1,16,19.9,Transport en commun,2,10,9,1,1,8.93,Moyen
+Mariamari,Goursolle,22,F,Lettres,L2,Général,0,1,65.1,3,2,3,8,11.85,0,0,0,1,25,14.5,Transport en commun,3,5,8,1,1,7.92,Faible
+Anas,Sahadia,22,M,Informatique,L3,Général,2,0,88.0,3,11,2,6,3.85,5,0,1,0,0,7.8,Transport en commun,3,5,8,1,0,7.42,Faible
+Catherine,Lakhal,20,F,Gestion,L2,Général,3,0,75.9,2,19,0,8,10.35,2,0,1,1,16,39.9,Voiture,3,6,9,0,1,11.82,Moyen
+Sandrine,Bergoin,22,F,Sciences,L3,Général,4,0,100.0,3,10,3,10,16.17,0,1,1,1,25,1.5,Vélo/Marche,3,3,6,1,0,17.64,Excellent
+Henoc,Redombo-Agnorogoule,24,M,Sciences,M1,Général,2,0,54.2,6,14,3,5,10.8,0,1,1,0,0,11.3,Transport en commun,2,10,2,0,1,8.17,Moyen
+Caroline,Terkmani,22,F,Gestion,M1,Général,1,1,79.3,2,17,1,7,19.25,4,1,1,1,25,26.9,Voiture,4,7,6,1,1,14.16,Bon
+Hafizou,Mousali,22,M,Droit,M1,Technologique,3,1,61.3,4,23,4,8,7.15,4,1,0,1,30,1.1,Vélo/Marche,4,3,10,0,1,12.49,Bon
+Koulbou,Manantsoa,21,M,Informatique,L1,Général,1,1,83.6,5,6,1,7,12.12,2,0,1,1,8,22.0,Voiture,4,4,7,1,1,8.18,Moyen
+Delicia,Tchassama,23,F,Lettres,L3,Général,2,1,75.9,5,6,3,7,7.06,0,0,1,1,12,30.8,Voiture,2,6,5,1,1,6.35,Faible
+Anny,Badaoui,19,F,Sciences,L1,Général,2,0,58.1,5,10,4,12,7.55,3,1,0,1,20,19.5,Transport en commun,4,3,9,1,1,9.95,Moyen
+Leilath,Martinez,20,F,Sciences,L2,Professionnel,0,0,71.5,5,14,3,5,7.58,1,0,0,1,20,0.5,Vélo/Marche,2,2,8,1,1,5.0,Faible
+Balla,Kamrach,22,M,Sciences,L2,Professionnel,1,0,75.2,3,0,2,9,19.2,1,0,1,1,8,3.6,Vélo/Marche,3,6,7,1,1,13.43,Bon
+Beni,Moenza,21,M,Mathematiques,L2,Technologique,1,0,64.4,5,14,2,10,9.84,2,1,1,0,0,7.5,Transport en commun,5,8,8,1,1,9.52,Moyen
+Marie,Baouya,20,F,Informatique,L2,Général,2,0,85.6,3,12,4,8,8.13,1,0,1,0,0,4.8,Vélo/Marche,3,8,5,0,1,8.05,Moyen
+Delicia,Khalil,25,F,Sciences,M2,Général,4,1,57.5,5,8,2,8,10.79,2,1,1,1,30,59.2,Logement sur place,2,5,6,1,1,9.21,Moyen
+Louise,Alabdullah alomar,20,F,Lettres,L1,Général,1,0,100.0,0,13,3,9,9.95,4,1,1,1,20,19.0,Transport en commun,2,5,7,1,1,9.68,Moyen
+Ousmane,Cabrera belmar,21,M,Informatique,L3,Général,3,0,89.3,4,15,5,11,13.88,3,0,0,0,0,6.3,Transport en commun,3,6,9,1,0,15.42,Excellent
+Caroline,Aguigah,20,F,Sciences,L2,Général,0,0,79.6,3,16,5,12,3.05,1,1,1,0,0,47.8,Voiture,4,8,6,1,1,6.98,Faible
+Anas,Traye Balezin,21,M,Gestion,L1,Technologique,2,1,100.0,2,11,3,6,7.17,1,0,1,0,0,24.3,Voiture,5,3,7,0,1,9.38,Moyen
+Mohammadreza,Mbengue,20,M,Sciences,L1,Technologique,0,1,69.1,5,13,4,7,14.02,1,1,1,1,20,6.0,Transport en commun,4,4,9,0,1,8.05,Moyen
+Elodie,Paire,23,F,Psychologie,M2,Technologique,4,1,83.8,3,12,5,7,8.94,1,1,0,1,8,8.6,Transport en commun,4,5,10,1,0,11.98,Moyen
+Omar,Ursini,23,M,Informatique,M1,Général,3,0,77.6,4,17,2,9,7.93,2,0,0,0,0,4.0,Vélo/Marche,4,5,5,1,1,10.41,Moyen
+Ikram,Gaye,24,F,Informatique,M2,Technologique,2,1,86.8,1,13,2,8,7.76,1,1,1,0,0,63.8,Logement sur place,4,5,7,0,1,10.13,Moyen
+Georges,Laclau,23,M,Psychologie,M2,Général,3,0,97.9,0,14,1,11,13.55,0,1,1,1,25,13.1,Transport en commun,1,5,4,1,0,12.14,Bon

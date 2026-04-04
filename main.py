@@ -2,6 +2,9 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
+import os
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+os.makedirs('data', exist_ok=True)
 
 np.random.seed(42)
 n = 1000
@@ -78,7 +81,7 @@ print(f"Exemple : {prenom[0]} {nom[0]} ({genre[0]})")
 
 filiere = np.random.choice(
     ['Informatique', 'Mathematiques', 'Gestion', 'Lettres', 'Sciences', 'Psychologie', 'Droit'],
-    n, p=[0.22, 0.18, 0.16, 0.12, 0.18, 0.16, 0.14]
+    n, p=[0.20, 0.15, 0.15, 0.10, 0.15, 0.13, 0.12]
 )
 
 annee_etude = np.random.choice(
@@ -206,3 +209,90 @@ note_finale = ((score - s_min) / (s_max - s_min) * 20).round(2)
 print(f"Note moyenne : {note_finale.mean():.2f}/20")
 print(f"Écart-type   : {note_finale.std():.2f}")
 print(f"Min / Max    : {note_finale.min():.2f} / {note_finale.max():.2f}")
+
+
+
+
+df = pd.DataFrame({
+    'prenom':               prenom,
+    'nom':                  nom,
+    'age':                  age,
+    'genre':                genre,
+
+    'filiere':              filiere,
+    'annee_etude':          annee_etude,
+    'bac_serie':            bac_serie,
+    'mention_bac':          mention_bac,
+    'boursier':             boursier,
+
+
+    'taux_presence':        taux_presence,
+    'nb_absences':          nb_absences,
+    'heures_travail_sem':   heures_travail_sem,
+    'participation_cours':  participation_cours,
+    'nb_devoirs_rendus':    nb_devoirs_rendus,
+    'note_partiel_mi':      note_partiel_mi,
+    'utilisation_biblio':   utilisation_biblio,
+    'groupe_etude':         groupe_etude,
+    'ressources_ligne':     ressources_ligne,
+
+
+    'job_etudiant':         job_etudiant,
+    'heures_job_sem':       heures_job_sem,
+    'distance_univ':        distance_univ,
+    'transport':            transport,
+    'soutien_famille':      soutien_famille,
+    'stress_percu':         stress_percu,
+    'sante_percue':         sante_percue,
+    'sport_regulier':       sport_regulier,
+    'espace_travail':       espace_travail,
+
+    'note_finale':          note_finale,
+})
+
+df['mention'] = pd.cut(
+    df['note_finale'],
+    bins=[0, 8, 12, 15, 20],
+    labels=['Faible', 'Moyen', 'Bon', 'Excellent'],
+    include_lowest=True
+)
+
+print(f"\nDataset : {df.shape[0]} étudiants × {df.shape[1]} colonnes")
+print(f"\nRépartition des mentions :")
+print(df['mention'].value_counts().sort_index())
+
+
+
+fig, axes = plt.subplots(1, 3, figsize=(16, 4))
+
+axes[0].hist(df['note_finale'], bins=30, color='steelblue', edgecolor='white', alpha=0.85)
+axes[0].axvline(df['note_finale'].mean(), color='red', linestyle='--', label=f"Moy. {df['note_finale'].mean():.1f}")
+axes[0].set_title('Distribution des notes finales')
+axes[0].set_xlabel('Note /20')
+axes[0].legend()
+
+colors = ['#e74c3c','#f39c12','#2ecc71','#3498db']
+mentions = df['mention'].value_counts().sort_index()
+axes[1].bar(mentions.index, mentions.values, color=colors, edgecolor='white')
+axes[1].set_title('Répartition par mention')
+axes[1].set_ylabel('Nombre d\'étudiants')
+
+moy_filiere = df.groupby('filiere')['note_finale'].mean().sort_values()
+axes[2].barh(moy_filiere.index, moy_filiere.values, color='steelblue', alpha=0.8)
+axes[2].set_title('Note moyenne par filière')
+axes[2].set_xlabel('Note /20')
+axes[2].axvline(df['note_finale'].mean(), color='red', linestyle='--')
+
+plt.tight_layout()
+plt.savefig('data/verification_dataset.png', dpi=150)
+plt.show()
+
+
+
+
+df.to_csv('data/etudiants_notes.csv', index=False, encoding='utf-8-sig')
+
+print("Dataset exporté avec succès !")
+print(f"\nAperçu des 5 premiers étudiants :")
+df[['prenom', 'nom', 'filiere', 'annee_etude', 'note_partiel_mi',
+    'taux_presence', 'stress_percu', 'note_finale', 'mention']].head()
