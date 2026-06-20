@@ -1,0 +1,196 @@
+---
+title: "Prédiction des notes d'étudiants avec Machine learning"
+author: "Japhet KOYAKOSSO-ESSO"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output:
+  html_document:
+    toc: true
+    toc_depth: '2'
+    df_print: paged
+  pdf_document:
+    toc: true
+    toc_depth: 2
+subtitle: Analyse exploratoire et visualisation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE,
+                       fig.align = "center", fig.width = 7, fig.height = 4.5)
+library(tidyverse)
+library(corrplot)
+library(viridis)
+```
+
+# Introduction
+
+Ce rapport présente l'analyse exploratoire d'un dataset synthétique de 1000 étudiants,
+visant à identifier les facteurs corrélés à la note finale et à comparer les performances
+de différents modèles de prédiction entraînés en Python.
+
+```{r chargement}
+df <- read.csv("../data/etudiants_notes.csv")
+cat("Dimensions :", nrow(df), "lignes x", ncol(df), "colonnes\n")
+str(df[, c("note_finale", "taux_presence", "note_partiel_mi", "mention")])
+```
+
+```{r apercu}
+summary(df$note_finale)
+```
+
+# Distribution des notes
+
+```{r distribution}
+ggplot(df, aes(x = note_finale)) +
+  geom_histogram(aes(fill = mention), bins = 30, color = "white", alpha = 0.85) +
+  geom_vline(aes(xintercept = mean(note_finale)), color = "red", linetype = "dashed") +
+  scale_fill_manual(values = c("Faible"="#e74c3c","Moyen"="#f39c12",
+                                "Bon"="#2ecc71","Excellent"="#3498db")) +
+  labs(title = "Distribution des notes finales",
+       x = "Note /20", y = "Nombre d'étudiants", fill = "Mention") +
+  theme_minimal()
+```
+
+La note moyenne est de **`r round(mean(df$note_finale), 2)`/20** avec un écart-type de
+**`r round(sd(df$note_finale), 2)`**.
+
+# Répartition par mention
+
+```{r repartition-mention}
+df %>%
+  count(mention) %>%
+  mutate(mention = factor(mention, levels = c("Faible","Moyen","Bon","Excellent"))) %>%
+  ggplot(aes(x = mention, y = n, fill = mention)) +
+  geom_col(width = 0.6) +
+  geom_text(aes(label = n), vjust = -0.5) +
+  scale_fill_manual(values = c("Faible"="#e74c3c","Moyen"="#f39c12",
+                                "Bon"="#2ecc71","Excellent"="#3498db")) +
+  labs(title = "Répartition des étudiants par mention",
+       x = "", y = "Nombre d'étudiants") +
+  theme_minimal() +
+  theme(legend.position = "none")
+```
+
+# Analyse des corrélations
+
+```{r correlation}
+vars_num <- df %>%
+  select(note_finale, note_partiel_mi, taux_presence, nb_absences,
+         heures_travail_sem, participation_cours, stress_percu,
+         soutien_famille, mention_bac, distance_univ)
+
+mat_corr <- cor(vars_num, use = "complete.obs")
+corrplot(mat_corr, method = "color", type = "upper",
+         addCoef.col = "black", number.cex = 0.7,
+         tl.col = "black", tl.srt = 45)
+```
+
+```{r top-correlations}
+corr_note <- mat_corr["note_finale", ] %>%
+  sort(decreasing = TRUE) %>%
+  .[-1]
+knitr::kable(data.frame(Variable = names(corr_note), Correlation = round(corr_note, 3)),
+             caption = "Corrélations avec la note finale")
+```
+
+# Présence et performance académique
+
+```{r presence-note}
+ggplot(df, aes(x = taux_presence, y = note_finale, color = mention)) +
+  geom_point(alpha = 0.5, size = 1.8) +
+  geom_smooth(method = "lm", se = TRUE, color = "black", linewidth = 0.8) +
+  scale_color_manual(values = c("Faible"="#e74c3c","Moyen"="#f39c12",
+                                 "Bon"="#2ecc71","Excellent"="#3498db")) +
+  labs(title = "Taux de présence vs note finale",
+       x = "Taux de présence (%)", y = "Note finale /20", color = "Mention") +
+  theme_minimal()
+```
+
+# Comparaison par filière
+
+```{r filiere}
+df %>%
+  group_by(filiere) %>%
+  summarise(moyenne = mean(note_finale), .groups = "drop") %>%
+  arrange(moyenne) %>%
+  ggplot(aes(x = reorder(filiere, moyenne), y = moyenne, fill = moyenne)) +
+  geom_col() +
+  geom_hline(yintercept = mean(df$note_finale), linetype = "dashed", color = "red") +
+  scale_fill_viridis(option = "D") +
+  coord_flip() +
+  labs(title = "Note moyenne par filière",
+       x = "", y = "Note moyenne /20") +
+  theme_minimal() +
+  theme(legend.position = "none")
+```
+
+# Variables clés selon la mention
+
+```{r boxplot-mention}
+ggplot(df, aes(x = mention, y = note_partiel_mi, fill = mention)) +
+  geom_boxplot(alpha = 0.8) +
+  scale_fill_manual(values = c("Faible"="#e74c3c","Moyen"="#f39c12",
+                                "Bon"="#2ecc71","Excellent"="#3498db")) +
+  labs(title = "Note au partiel mi-semestre selon la mention finale",
+       x = "Mention", y = "Note partiel /20") +
+  theme_minimal() +
+  theme(legend.position = "none")
+```
+
+# Notes par année d'étude
+
+```{r annee-etude}
+df %>%
+  mutate(annee_etude = factor(annee_etude, levels = c("L1","L2","L3","M1","M2"))) %>%
+  ggplot(aes(x = annee_etude, y = note_finale, fill = annee_etude)) +
+  geom_boxplot(alpha = 0.8) +
+  geom_hline(yintercept = mean(df$note_finale), linetype = "dashed", color = "red") +
+  scale_fill_viridis(discrete = TRUE) +
+  labs(title = "Distribution des notes par année d'étude",
+       x = "Année", y = "Note /20") +
+  theme_minimal() +
+  theme(legend.position = "none")
+```
+
+# Facteurs de risque : stress et travail salarié
+
+```{r stress-job}
+df %>%
+  mutate(job_label = ifelse(job_etudiant == 1, "Avec job", "Sans job")) %>%
+  ggplot(aes(x = stress_percu, y = note_finale, color = job_label)) +
+  geom_point(alpha = 0.4, size = 1.6) +
+  geom_smooth(method = "lm", se = FALSE) +
+  scale_color_manual(values = c("Avec job"="#e74c3c","Sans job"="#2ecc71")) +
+  labs(title = "Stress perçu vs note finale selon job étudiant",
+       x = "Stress perçu (0-10)", y = "Note finale /20", color = "") +
+  theme_minimal()
+```
+
+# Soutien familial et réussite
+
+```{r soutien-famille}
+df %>%
+  group_by(soutien_famille) %>%
+  summarise(moyenne = mean(note_finale), .groups = "drop") %>%
+  ggplot(aes(x = soutien_famille, y = moyenne)) +
+  geom_line(color = "steelblue", linewidth = 1) +
+  geom_point(color = "steelblue", size = 3) +
+  labs(title = "Note moyenne selon le niveau de soutien familial",
+       x = "Soutien familial perçu (0-5)", y = "Note moyenne /20") +
+  theme_minimal()
+```
+
+# Conclusion
+
+L'analyse exploratoire confirme plusieurs tendances attendues dans un contexte académique :
+
+- La **note au partiel mi-semestre** est le meilleur prédicteur de la note finale,
+  confirmant l'importance d'un suivi régulier dès le début du semestre.
+- Le **taux de présence** est positivement corrélé à la performance.
+- Le **stress perçu** et un **job étudiant intensif** ont un effet négatif modéré sur les résultats.
+- Le **soutien familial** semble jouer un rôle protecteur sur la réussite.
+- Les filières ne présentent pas d'écarts extrêmes de moyenne, suggérant que les facteurs
+  individuels (comportement, contexte de vie) pèsent davantage que la filière elle-même.
+
+Ces résultats confirment la pertinence des modèles de régression et classification
+entraînés en Python (Random Forest, régression linéaire R² ≈ 0.84), disponibles dans
+`notebooks/03_modelisation_ml.py` et approfondis dans `notebooks/04_interpretabilite.py`.
