@@ -284,13 +284,13 @@ axes[2].set_xlabel('Note /20')
 axes[2].axvline(df['note_finale'].mean(), color='red', linestyle='--')
 
 plt.tight_layout()
-plt.savefig('data/verification_dataset.png', dpi=150)
+plt.savefig('../data/verification_dataset.png', dpi=150)
 plt.show()
 
 
 
 
-df.to_csv('data/etudiants_notes.csv', index=False, encoding='utf-8-sig')
+df.to_csv('../data/etudiants_notes.csv', index=False, encoding='utf-8-sig')
 
 print("Dataset exporté avec succès !")
 print(f"\nAperçu des 5 premiers étudiants :")
